@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Art Earth Tech Playbook',
   description: 'A guide to our culture and processes',
-  dest: 'public',
   markdown: {
     linkify: true,
     typographer: true,
