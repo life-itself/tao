@@ -11,8 +11,7 @@
     "vuepress": "^1.2.0"
   },
   "scripts": {
-    "start": "yarn start:docs",
-    "start:docs": "npx vuepress dev",
-    "build:docs": "npx vuepress build"
+    "start": "npx vuepress dev",
+    "build": "npx vuepress build"
   }
 }

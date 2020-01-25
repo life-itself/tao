@@ -7,7 +7,7 @@ pages:
 
   script:
   - yarn install
-  - yarn build:docs
+  - yarn build
   - cp -r .vuepress/dist public
 
   artifacts:
