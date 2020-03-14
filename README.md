@@ -3,7 +3,7 @@ home: true
 heroText: Our Way
 actionText: Get Started →
 actionLink: /#welcome
-heroImage: https://artearthtech.com/images/aet-logo-02.svg
+heroImage: /img/tao.svg
 footer: Copyright © 2016-present Art / Earth / Tech
 ---
 
