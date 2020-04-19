@@ -22,6 +22,9 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Five Remembrances', link: '/five-remembrances/' },
+      { text: 'True Joy in Life', link: '/true-joy-in-life/' },
+      { text: 'Zen', link: '/zen/' },
     ]
   },
   plugins: [
