@@ -111,7 +111,7 @@ You can read this [tutorial](https://docs.gitlab.com/ee/gitlab-basics/) in your 
 
 We also use Github, though less actively, and primarily for our open-source, public codebases.
 
-The only thing to do here is to publicly display your Datopian membership, see [Publicizing or hiding organization membership](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
+The only thing to do here is to publicly display your Life Itself membership, see [Publicizing or hiding organization membership](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
 
 ### Set up HackMD account
 
