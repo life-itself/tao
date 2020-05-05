@@ -89,6 +89,8 @@ You can also have a quick look around https://artearthtech.com/.
 
 You'll start your first day with an onboarding call, during which you can ask questions and get access to any systems you haven't already been able to access.
 
+In order to get to know one another better, we might ask you to introduce yourself using the 'once upon a time' structure. This reads as follows: "Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___."
+
 ### Meet your Mentor / Buddy
 
 Usually, you will have a mentor/buddy to accompany you in your journey to being a full fledged member of Life Itself. 👣 🌱 If they haven't already arranged a meeting with you, ping them on your first day via chat and arrange something. 😃
