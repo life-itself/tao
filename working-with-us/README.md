@@ -10,9 +10,8 @@ We have updated our process to make it as smooth and easy and possible. Please f
 
 ## Expenses and Travel
 
-::: 
 You must submit your expenses as soon as possible, ideally, within 10 working days after the trip. Expenses submitted later than 5 months will not be paid. The same rule applies to non-travel expenses.
-:::
+
 
 If you have any company expenses to be reimbursed for, you should submit them with your monthly invoice for services rendered. Refer to the ["company expenses"](https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit#heading=h.vjm5jslkozc) section of the Getting Paid doc for a step-by-step guide
 
