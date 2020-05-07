@@ -58,6 +58,6 @@ Please add an "Out of office" to your calendar and email and include an alternat
 
 ### Proud to be part of Life Itself!
 
-If you are proud to be part of this (we know you do!), you can like us on [Facebook](https://www.facebook.com/artearthtech/) and follow us on [Twitter](https://twitter.com/ArtEarthTech) and [LinkedIn](https://uk.linkedin.com/company/art-earth-tech-limited)!
+If you are proud to be part of this (we know you are!), you can like us on [Facebook](https://www.facebook.com/artearthtech/) and follow us on [Twitter](https://twitter.com/ArtEarthTech) and [LinkedIn](https://uk.linkedin.com/company/art-earth-tech-limited)!
 
 If you would like to post an article, tweet, share something or simply have an idea about a new post just share on chat.
