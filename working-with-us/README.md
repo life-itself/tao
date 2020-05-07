@@ -56,7 +56,7 @@ If you’re not feeling well and you’re unable to work, notify your Scrum Mast
 
 Please add an "Out of office" to your calendar and email and include an alternative contact.
 
-### Proud to be part of Life Itsef!
+### Proud to be part of Life Itself!
 
 If you are proud to be part of this (we know you do!), you can like us on [Facebook](https://www.facebook.com/artearthtech/) and follow us on [Twitter](https://twitter.com/ArtEarthTech) and [LinkedIn](https://uk.linkedin.com/company/art-earth-tech-limited)!
 
