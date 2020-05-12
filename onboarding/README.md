@@ -55,7 +55,7 @@ You now need to create an account on each of these. Please make sure you set up 
 
 When you set up systems, try to pick usernames that will be easy for others to remember (e.g. using your first and last name is ideal).
 
-* Gravatar -- https://gravatar.com. **You need to this before anything else so your Gravatar is used on the other accounts you create.** 
+* Gravatar -- https://gravatar.com. **You need to do this before anything else so your Gravatar is used on the other accounts you create.** 
 	* To be able to create a Gravatar, you have to create a WordPress account first. 
 	* You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
 	* When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
