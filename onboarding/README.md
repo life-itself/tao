@@ -70,7 +70,7 @@ When you set up systems, try to pick usernames that will be easy for others to r
 
 ### 3. Add your details to the phonebook
 
-Next, please add your details to our [Phonebook / Person DB form][googleform]. -- **Note:** you will need to be logged in to your Life Itself email account to do this.
+Next, please add your details to our [Phonebook](https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0). -- **Note:** you will need to be logged in to your Life Itself email account to do this.
 
 ### 4. Set up your laptop
 
