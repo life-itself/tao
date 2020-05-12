@@ -66,7 +66,7 @@ When you set up systems, try to pick usernames that will be easy for others to r
 * HackMD -- https://hackmd.io.
 	* HackMD is a tool for collaborating on documents with others (it's a bit like Google docs, but it uses a language called MarkDown, which we'll look at in more detail later in the onboarding process).
 * Hypothesis -- https://web.hypothes.is/start/
-	* Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in hypothesis and link them to your comment stream because 
+	* Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in hypothesis and link them to your comment stream because they may miss them otherwise. 
 
 ### 3. Add your details to the phonebook
 
