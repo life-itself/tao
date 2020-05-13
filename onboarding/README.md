@@ -269,7 +269,7 @@ sync((Synchronous))
 async((Asynchronous))
 
 sync --> video[Video]
-async --> chat[Chat -- GChat]
+async --> chat[Chat -- Discord]
 async --> email[Email]
 ```
 
