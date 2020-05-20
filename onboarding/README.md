@@ -177,6 +177,25 @@ This is my exciting onboarding issue! 🌱
   * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
   * [ ] Post the link to the meeting doc on the onboarding chat and ask for it to be reviewed
+  
+  ### Extra Steps
+  
+* [ ] Read about getting things done
+  * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
+  * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
+* [ ] Get running on todoist
+  * [ ] Install todoist
+  * [ ] 📝 Tell Rufus your email/username so he can add you to share projects there
+* [ ] Read about SCQH: https://playbook.datopian.com/scqh/#issue-tree-template-spreadsheet
+* [ ] Read the PA guide in notebook: https://gitlab.com/rufuspollockorg/notebook/-/blob/master/abc/pa-va-guide.md
+* [ ] *Really* read about job stories (and user stories)
+  * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
+* [ ] 📝 At end: notify Rufus if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that I can quickly find all your comments. 
+* [ ] Download and install Bitwarden: https://bitwarden.com (password manager)
+* [ ] Download and install Discord
+* [ ] Install Zotero (desktop app)
+  * [ ] Get a username and tell Rufus
+  * [ ] After being given access, sync the materials (you will need to enter your username/pw) 
 ```
 
 ### Set up Google Drive
