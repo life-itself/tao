@@ -7,3 +7,13 @@
 **Question**: How can we manage the Berlin space especially in terms of tools, values and rules over the next 18m-3y such that the community running it is sustainable, creative, well, joyful, mindful, getting stuff done; and, that furthers AET’s goal of a wiser world by facilitating like-minded people to connect and align, develop ideas, support each other in taking concrete action in a context of open-mindedness, critical rigour and prioritising quality over quantity. 
 
 **Hypothesis**: Create a hub built around a coliving community and supporting a broader community of members, based on mindful living, critical open-mindedness, integrous workability, getting stuff done, and a sustainable, well-defined, mix of public and private space and time; and that supports its members in connection, ideation and concrete action [in pursuit of a wiser world], and, more broadly, acts as a prototype for further evolution of coliving, co-projecting (incubator) and expansion of the AET nodes.  
+
+## Issue Tree
+
+An issue tree is a way of visualising a problem and its various solutions. To see ours for the hubs, please [click here.](https://coggle.it/diagram/W4PCA-GhIkjCf_Tx/t/coliving-what-is-the-ownership-at-least-y-time-there-tbd)
+
+![Imgur](https://i.imgur.com/QmpUhgF.png)
+
+## Co-living Model
+
+For more information about our SCQH, please visit the [Appendix of the Co-Living document](https://tao.artearthtech.com/coliving/#appendix-scqh)
