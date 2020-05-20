@@ -97,3 +97,7 @@ This applies only if the guest joins the shared communal food:
 *   As with any issues within the resident community it is important that we voice promptly anything that is not working for us so that it can get resolved.
 *   We intend to use the spaces in our Hub to occasionally host groups from the wider community (e.g. mindfulness or community groups). While only some of us may be involved in organising a particular group, we all intend to be welcoming to the space being used in this way occasionally.
 *   Hub dinners have an optional donation or bring a dish. 
+
+## Why?
+
+Please see here for more information about [why our hubs matter](https://tao.artearthtech.com/why/). 
