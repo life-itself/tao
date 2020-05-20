@@ -14,6 +14,6 @@ An issue tree is a way of visualising a problem and its various solutions. To se
 
 ![Imgur](https://i.imgur.com/QmpUhgF.png)
 
-## Co-living Model
+## Co-Living Model
 
 For more information about our SCQH, please visit the [Appendix of the Co-Living document](https://tao.artearthtech.com/coliving/#appendix-scqh)
