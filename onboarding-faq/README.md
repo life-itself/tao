@@ -1,7 +1,5 @@
 ## Onboarding FAQs
 
-[TOC]
-
 ### How do I submit my invoices? 
 
 Please see the [Getting Paid Doc](https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit).
