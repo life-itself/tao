@@ -336,3 +336,7 @@ Finally, have some fun and complete the onboarding quiz to test your new-found k
 [non-tech quiz]: https://docs.google.com/forms/d/1yE895I0JVGujXS-2scuODOOxssAI5roDK6YU-Rw5n70/viewform
 
 <mermaid />
+
+## Working With Us
+
+For more information about processes at Life Itself, check out our guide to [Working With Us](https://tao.artearthtech.com/working-with-us/)
