@@ -8,7 +8,7 @@ Life Itself has three hubs: London, Berlin, and and La Cheraille (a 30 minute tr
 
 ## Agreement
 
-The [Residents' Agreement](./agreement/) is for both to long-term resident's and guests.
+The [Residents' Agreement](./agreement/) is for both long-term residents and guests.
 
 ## Our Principles and Practices
 
