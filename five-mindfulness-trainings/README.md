@@ -1,4 +1,4 @@
-# Five Mindfulness Principles
+# Five Mindfulness Trainings
 
 *   _From Thich Nhat Hanh_
 
