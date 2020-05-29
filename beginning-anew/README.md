@@ -1,6 +1,6 @@
 # Beginning Anew
 
-Beginning Anew is a conflict resolution practise that comes from Plum Village: https://plumvillage.org/extended-mindfulness-practises/ It consist of four parts:
+Beginning Anew is a conflict resolution practise that comes from Plum Village: https://plumvillage.org/extended-mindfulness-practises/ It consists of four parts:
 
 1. Flower watering
 2. Sharing regrets
