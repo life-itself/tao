@@ -81,8 +81,8 @@ These are your notes. Now, you need to write your value propositions in full.
 Value propositions are the selling points that increase customers' desire. Use them wherever you pitch your product. 
 
 
-:::info
-Concise doesn't mean short. It means there's a high ratio of ideas to words. 
+:::info  
+Concise doesn't mean short. It means there's a high ratio of ideas to words.  
 :::
 
 ## Landing Page Template
@@ -119,12 +119,13 @@ To write a header:
 1. Identify a value proposition that conveys the product's core purpose
 2. State the high level purpose (the why)
 
-Examples:
-:::info
-**For a website design tool** — "Visually design and develop sites from scratch. No coding."
-**For a grocery delivery service** — "Groceries delivered in 1 hour. Say goodbye to traffic, parking, and long lines."
-**For a home rental service** — "Rent people's homes. So you can experience a city like a true local."
-:::
+Examples:  
+
+:::info  
+**For a website design tool** — "Visually design and develop sites from scratch. No coding."  
+**For a grocery delivery service** — "Groceries delivered in 1 hour. Say goodbye to traffic, parking, and long lines."  
+**For a home rental service** — "Rent people's homes. So you can experience a city like a true local."  
+:::  
 
 Keep it within 6-12 words so it  reads quickly. 
 
@@ -132,11 +133,11 @@ Keep it within 6-12 words so it  reads quickly.
 
 The header is the **what**. The subheader is the **how**. 
 
-Examples:
+Examples:  
 
-:::info
-**Real estate app subheader** — "Our network of remote concierges monitor your email inbox and respond to leads when you're too busy to."
-**Video chat app subheader** — "In real-time, our on-call team transcribes and translates your words into over 20 languages."
+:::info  
+**Real estate app subheader** — "Our network of remote concierges monitor your email inbox and respond to leads when you're too busy to."  
+**Video chat app subheader** — "In real-time, our on-call team transcribes and translates your words into over 20 languages."  
 :::
 
 #### Image
@@ -265,7 +266,6 @@ Your site has to:
 
 Use tools such as [Webflow](https://webflow.com/) or [Leadpages](https://www.leadpages.net/) to do it yourself, code-free, or use [Dribble](https://dribbble.com/designers) to hire a designer.  
 
-
 ## Product Pages
 
 If you sell multiple products, product pages go in-depth on each product you sell. The can be identical to your homepage, except:
@@ -288,8 +288,8 @@ Your conversion rate = [# of Visits Containing the Conversion Event] / [Total un
 
 This assumes that each unique visitor can only convert once. If not, you might prefer to use total visits on the denominator -- but generally, conversions do only occur once (e.g. signing up for an account).
 
-:::info
-You should only include visitors from geographies you service.
+:::info  
+You should only include visitors from geographies you service.  
 :::
 
 Google analytics tracks these measures. 
