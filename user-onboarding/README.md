@@ -1,4 +1,4 @@
-# User Onboarding
+# User Onboarding for Growth
 
 The following is taken from _Julian.com's_ [Growth Marketing Guide](https://www.julian.com/guide/growth/user-onboarding).
 
