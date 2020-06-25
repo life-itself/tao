@@ -22,13 +22,13 @@ Many of our principles and practices can be found in our [Residents' Agreement](
 
 ### Community
 
-From the [Art Earth Tech manifesto](https://artearthtech.com/manifesto/):
+From the [Life Itself manifesto](https://artearthtech.com/manifesto/):
 
 >_A community for people seeking a wiser world_
 >
 >Though living in societies which have never been so rich our sense of purpose and connection is often missing. A growing number of us are seeking lives that are meaningful as well as productive yet we struggle to find a balance, finding ourselves trapped in conflict.
 >
->With Art / Earth / Tech we want to offer a way to combine wiser and weller ways of living whilst remaining engaged in conventional society.
+>With Life Itself we want to offer a way to combine wiser and weller ways of living whilst remaining engaged in conventional society.
 >
 >Our approach focuses on fostering a community of people seeking a wiser world. We do this by providing space, a network and knowledge: 
 >* Space in the form of physical places that can act as homes for our community members to work, meet and stay. 
