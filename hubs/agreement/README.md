@@ -1,4 +1,4 @@
-# AET HUBS CO-LIVING RESIDENCY AGREEMENT
+# LIFE ITSELF HUBS CO-LIVING RESIDENCY AGREEMENT
 
 We are a mindful community seeking to create a sustainable shared space of warmth, getting stuff done, joy, creativity, generosity, acceptance and authentic connection. 
 
