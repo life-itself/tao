@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: The Tao of Art Earth Tech
+heroText: The Tao of Life Itself
 tagline: A Guide to Our Way of Being and Doing
 actionText: Get Started →
 actionLink: /#welcome
