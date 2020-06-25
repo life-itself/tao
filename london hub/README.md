@@ -4,8 +4,6 @@ We are a mindful community seeking to create a sustainable shared space of warmt
 
 We are committed to living together in a way that cultivates wisdom, compassion and care for ourselves, each other and the world around us.
 
-{{<toc>}}
-
 # Context for the Hub
 
 **Situation**: We – and many others – want to live in a mindful, well, joyful, (affordable) sustainable, hopeful, creative, dynamic, getting stuff done community with a base in London (that would ultimately support children as well) and which would support us in right livelihood, getting stuff done and being well and mindful; many communities fail because they lack shared goals and vision, shared practices and lack tools to do emotional cleaning and deal with conflicts (and/or the capacity to use those tools); and, finally, a flat in London has just been purchased and “rented” to Life Itself for £15k per annum and Life Itself has a plan for a network of rural-city spaces that provide a base for community members, a meeting place to share and build a big vision and be of inspiration to others.
