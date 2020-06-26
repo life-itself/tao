@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'The Tao of Art Earth Tech',
+  title: 'The Tao of Life Itself',
   description: 'Guide to our way of being and doing',
   markdown: {
     linkify: true,
