@@ -12,7 +12,7 @@ The [Residents' Agreement](./agreement/) is for both long-term residents and gue
 
 ## Our Principles and Practices
 
-Many of our principles and practices can be found in our [Residents' Agreement](./agreement/). Below is a summary of some of the most important:
+Many of our principles and practices can be found in our [Residents' Agreement](./hubs/agreement/). Below is a summary of some of the most important:
 
 * [Beginning Anew][ba] -- we suggest practicing this at least once per month in our hubs, usually around a communal meal. 
 * [Five Mindfulness Trainings][5mt]
