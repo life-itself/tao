@@ -335,8 +335,8 @@ Make sure to familiarise yourself with our [meeting protocol](https://playbook.d
 
 ### Working With Us
 
-For more information about common processes at Life Itself, including getting paid and taking holiday, check out our guide to [Working With Us](https://tao.artearthtech.com/working-with-us/).
+For more information about common processes at Life Itself, including getting paid and taking holiday, check out our guide to [Working With Us](https://tao.lifeitself.us/working-with-us/).
 
 ### FAQs
 
-Please visit our [FAQs](https://tao.artearthtech.com/onboarding-faq/) for more information on how we get work done at Life Itself.
+Please visit our [FAQs](https://tao.lifeitself.us/onboarding-faq/) for more information on how we get work done at Life Itself.
