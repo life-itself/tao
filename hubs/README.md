@@ -4,7 +4,7 @@
 
 Hubs are central to Life Itself's mission to create a weller, wiser world. Hubs house members of the Life Itself community, and create a welcoming space to live and be, to share and connect. 
 
-Life Itself has three hubs: London, Berlin, and and La Cheraille (a 30 minute train from Paris). Visit our website to [discover more about our hubs](https://artearthtech.com/hubs/). 
+Life Itself has three hubs: London, Berlin, and and La Cheraille (a 30 minute train from Paris). Visit our website to [discover more about our hubs](https://lifeitself.us/hubs/). 
 
 ## Agreement
 
@@ -12,7 +12,7 @@ The [Residents' Agreement](./agreement/) is for both long-term residents and gue
 
 ## Our Principles and Practices
 
-Many of our principles and practices can be found in our [Residents' Agreement](./agreement/). Below is a summary of some of the most important:
+Many of our principles and practices can be found in our [Residents' Agreement](./hubs/agreement/). Below is a summary of some of the most important:
 
 * [Beginning Anew][ba] -- we suggest practicing this at least once per month in our hubs, usually around a communal meal. 
 * [Five Mindfulness Trainings][5mt]
@@ -22,7 +22,7 @@ Many of our principles and practices can be found in our [Residents' Agreement](
 
 ### Community
 
-From the [Life Itself manifesto](https://artearthtech.com/manifesto/):
+From the [Life Itself manifesto](https://lifeitself.us/manifesto/):
 
 >_A community for people seeking a wiser world_
 >
@@ -40,7 +40,7 @@ From the [Life Itself manifesto](https://artearthtech.com/manifesto/):
 
 ## Frequently Asked Questions
 
-### The following FAQs are addressed explicitly in the [Residents' Agreement](https://tao.artearthtech.com/agreement/):
+### The following FAQs are addressed explicitly in the [Residents' Agreement](https://tao.lifeitself.us/agreement/):
 
 * What's shared/common and what's private? 
 * What time do we spend together? 
@@ -56,7 +56,7 @@ Rents vary according to the location and size of the room/apartment. In London, 
 
 ### Do I get to own my space?
 
-Please see the [Co-living model](https://tao.artearthtech.com/coliving) for details about Life Itself's co-ownership vision. 
+Please see the [Co-living model](https://tao.lifeitself.us/coliving) for details about Life Itself's co-ownership vision. 
 
 ### Can I make changes to the building/space?
 
@@ -69,15 +69,15 @@ Every hub has a dedicated manager whom you will be able to contact with any quer
 
 ### What am I part of?
 
-Life Itself is on a mission to make the world a wiser, weller place. For more information, visit [the Tao](https://tao.artearthtech.com/). 
+Life Itself is on a mission to make the world a wiser, weller place. For more information, visit [the About section of the website](https://lifeitself.us/about). 
 
 ### What is Life Itself's business model / mission?
 
-For more information, please see the [Co-living](https://tao.artearthtech.com/coliving) and [Governance](https://tao.artearthtech.com/governance) models at AET.
+For more information, please see the [Co-living](https://tao.lifeitself.us/coliving) and [Governance](https://tao.lifeitself.us/governance) models at AET.
 
 ### How am I supposed to represent Life Itself? 
 
-Please see the [Levels of Involvement](https://tao.artearthtech.com/governance/#levels-of-involvement) section of the Governance guide.
+Please see the [Levels of Involvement](https://tao.lifeitself.us/governance/#levels-of-involvement) section of the Governance guide.
 
 ### What is the difference between Life Itself and Art/Earth/Tech?
 

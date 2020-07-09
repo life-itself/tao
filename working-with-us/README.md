@@ -47,7 +47,7 @@ Whilst there are no hard and fast rules we recommend giving reasonable notice, f
 How to organize time-off:
 
 * Discuss with your team colleagues and especially with the Scrum Master and Product Owner.
-* Once agreed, notify ops@lifeitself.is to inform them about the dates of your absence and so they can flag if any issues.
+* Once agreed, notify ops@lifeitself.us to inform them about the dates of your absence and so they can flag if any issues.
 * Make sure to add your holiday dates in both the Life Itself Team calendar as well as in your own personal calendar.
 
 ### If You’re Ill

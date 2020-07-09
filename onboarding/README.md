@@ -20,12 +20,15 @@ graph TD
 
 Prerequisites[Prerequisites]
 Onboarding["Onboarding Call (+ access to systems)"]
-quiz[Quiz]
+firststeps[First Steps]
+further[Further Reading]
 
 subgraph "Day 1"
   Prerequisites --> Onboarding
   Onboarding --> firststeps
-  firststeps --> quiz
+ firststeps --> Communication
+ Communication --> further 
+ 
 end
 ```
 
@@ -80,12 +83,12 @@ Next, please add your details to our [Phonebook](https://docs.google.com/spreads
 
 We also recommend you look at the reading below as part of your onboarding:
 
-* Read [The Tao of Life Itself](https://tao.artearthtech.com/#how-to-read-the-way) for an introduction to how the principles behind Life Itself.
+* Read [The Tao of Life Itself](https://tao.lifeitself.us/#how-to-read-the-way) for an introduction to how the principles behind Life Itself.
 * Check out [The AET style guide](https://docs.google.com/document/d/1brIruLlj1UzqwwdBBlCwv2UXN8XaS7rGgE-OWRldYSE/edit) for an introduction to our writing style.
 
-You can also have a quick look around https://artearthtech.com/.
+You can also have a quick look around https://lifeitself.us/.
 
-## Onboarding call
+### Onboarding call
 
 You'll start your first day with an onboarding call, during which you can ask questions and get access to any systems you haven't already been able to access.
 
@@ -167,12 +170,11 @@ This is my exciting onboarding issue! 🌱
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
-  * [ ] Confirmed I have the daily standup between 8.45am-9am UKT (9.45am-10am CET) in my calendar
-* [ ] How we communicate
-  * [ ] Go on Gchat and message each other directly
+  * [ ] Confirmed I have the daily standup in my calendar
+* [ ] Download and install Discord
+  * [ ] Go on Discord and message each other directly
 * [ ] Standups
-  * [ ] Write a standup in the onboarding channel (Plan, Recap, Blockers (if any), Availability)
-  * [ ] Check out the "standups" channel (don’t post there for now)
+  * [ ] Write a standup in Gitlab
 * [ ] Meetings
   * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
@@ -188,11 +190,10 @@ This is my exciting onboarding issue! 🌱
   * [ ] 📝 Tell Rufus your email/username so he can add you to share projects there
 * [ ] Read about SCQH: https://playbook.datopian.com/scqh/#issue-tree-template-spreadsheet
 * [ ] Read the PA guide in notebook: https://gitlab.com/rufuspollockorg/notebook/-/blob/master/abc/pa-va-guide.md
-* [ ] *Really* read about job stories (and user stories)
+* [ ] *Really* read about [job stories](http://playbook.datopian.com/job-stories/) (and user stories)
   * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
 * [ ] 📝 At end: notify Rufus if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that I can quickly find all your comments. 
 * [ ] Download and install Bitwarden: https://bitwarden.com (password manager)
-* [ ] Download and install Discord
 * [ ] Install Zotero (desktop app)
   * [ ] Get a username and tell Rufus
   * [ ] After being given access, sync the materials (you will need to enter your username/pw) 
@@ -248,9 +249,6 @@ For info on where to find your primary time zone in the settings, see:
 * To see someone else's calendar, see others' calendars side by side or find a time that someone is free, see: https://support.google.com/calendar/answer/6294878?co=GENIE.Platform%3DDesktop&hl=en
 * You can also add the calendars of the teammates you're mostly working with so you can easily see their availability. For instructions, see https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en
 
-::: tip
-We have a weekly all hands, this will be in your Life Itself calendar once you sign in to your email.
-:::
 
 ### Complete the Markdown tutorial
 
@@ -264,20 +262,17 @@ We use Git to manage code and also a lot of content.
 
 See the [Git Basics](https://playbook.datopian.com/version-control/#introduction) for more information, including an introduction for those new to the topic. 
 
+For a longer introduction, see [An Introduction to Git](https://tao.lifeitself.us/git).
+
 ## Communication
 
 *As a virtual organization we need to have efficient, reliable, cost-effective ways to communicate and share material.*
 
 ### Getting Help and Finding Stuff
 
-We're fully remote so our equivalents of all the standard office chatting takes place online either in Chat 💬 or on video calls. 📺
+We're fully remote so our equivalents of all the standard office chatting takes place online either in Discord 💬 or on video calls. 📺
 
-So if you need help 🙋 or just want to hang out, here's a list of the best places to start:
-
-* [Onboarding channel](https://chat.google.com/room/AAAAQmJneCg) -- May be the best place for you right at the start.
-* [The Watercooler](https://chat.google.com/room/AAAAVJ0Vn3Q) -- If you just want to hang out.
-
-Also, you can just message anyone direct and they'll be happy to help -- we are a friendly bunch. 🤗
+If you need help, just message anyone directly and they'll be happy to help -- we are a friendly bunch. 🤗
 
 ### Communication Tools
 
@@ -288,20 +283,12 @@ sync((Synchronous))
 async((Asynchronous))
 
 sync --> video[Video]
-async --> chat[Chat -- Discord]
+async --> chat[Discord and Whatsapp]
 async --> email[Email]
 ```
+#### Chat
 
-#### Google Chat
-[Google chat](https://chat.google.com/) is the main channel we use to communicate with our team members. 
-
-It is an online networking platform (you can also download the app) where we have different rooms for different projects/purposes.
-
-Based on our transparency policy, we require people to speak publicly in the related group and @ the people you want to talk instead of texting privately, unless it is a personal chat.
-
-Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Google Chats. **We use Google Chats as a communication platform and not a knowledge management platform.**
-
-_Once you have your Google Chat accounts, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone._
+To chat, we use Discord and Whatsapp. You'll be added to any relevant groups as part of your onboarding.
 
 #### Voice / Video calls
 Our default tool for video is Zoom (although sometimes we also use Google Hangouts). Video call links are automatically added to every meeting and are set up using our Google Apps calendar.
@@ -342,24 +329,14 @@ Traditionally, standups are done verbally "in person" (in a live team meeting e.
 
 Make sure to familiarise yourself with our [meeting protocol](https://playbook.datopian.com/meetings/#why-start-on-time). 
 
-
-
-## Quiz
-
-Finally, have some fun and complete the onboarding quiz to test your new-found knowledge (and help improve this onboarding guide).
-* Non-tech folks, please click [here][non-tech quiz].
-
-⏰ Please spend max 15 -- 30 min on this!
-
-[quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
-[non-tech quiz]: https://docs.google.com/forms/d/1yE895I0JVGujXS-2scuODOOxssAI5roDK6YU-Rw5n70/viewform
-
 <mermaid />
 
-## Working With Us
+## Further Reading 
 
-For more information about common processes at Life Itself, including getting paid and taking holiday, check out our guide to [Working With Us](https://tao.artearthtech.com/working-with-us/).
+### Working With Us
 
-## FAQs
+For more information about common processes at Life Itself, including getting paid and taking holiday, check out our guide to [Working With Us](https://tao.lifeitself.us/working-with-us/).
 
-Please visit our [FAQs](https://tao.artearthtech.com/onboarding-faq/) for more information on how we get work done at Life Itself.
+### FAQs
+
+Please visit our [FAQs](https://tao.lifeitself.us/onboarding-faq/) for more information on how we get work done at Life Itself.
