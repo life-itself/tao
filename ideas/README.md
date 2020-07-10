@@ -51,6 +51,8 @@ This is the impetus behind Life Itself; to hold an enquiry into how we can culti
 
 ## Primacy of Being
 
+You can read about the primacy of being [here](https://tao.lifeitself.us/primacy-of-being/).
+
 ## Middle Way
 
 Life Itself seeks a middle way, one which synthesises the best qualities of spirituality and pragmatism, engagement and reflection. You can read more [here](https://lifeitself.us/2018/06/22/synthesis-and-the-middle-way/).
