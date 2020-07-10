@@ -1,4 +1,4 @@
-# Our Culture
+# Our Culture and Principles
 
 A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people interact and work together. It is the basic operating system for collective being.
 
