@@ -138,6 +138,8 @@ You are open to new approaches and new ideas. You question received wisdom and, 
 
 At the same time time open-mindedness does not mean "anything goes" -- astrology and astronomy are *not* equally valid! This open-mindedness is paired with rigour and a respect for expertise. Everything can be questioned -- but judiciously. The Zen Master knows more than the novice. Furthermore, what an expert knows may not be easily articulated so we also respect intuition and judgment as well as analysis and evidence.
 
+You can read more about the importance of non-attachment to views [here](https://lifeitself.us/2016/10/20/open-mindedness-and-non-attachment-to-views/)
+
 ## Our Principles
 
 Please start with this **required reading** which provides essential context [A ‘Value-Free’ Approach To Values](https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view) (note: in our terminology we could rename this "A Value-Free Approach to Principles").
