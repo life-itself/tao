@@ -187,6 +187,10 @@ Also: Think for yourself, use your judgment, take initiative. Don't wait for som
 
 We value judgment over rules. Patterns over processes and processes over systems. This means, for example, we put effort to explaining *why* we do things not just *how* we do things.
 
+### Getting Things Done
+
+Getting Things Done is a productivity system. See our dedicated page [here](/getting-things-done).
+
 ### Zen Simplicity
 
 We value parsimony and one way to do things. We prefer fewer systems and fewer things to know. We are happy to spend time refining and automating our processes and patterns.
