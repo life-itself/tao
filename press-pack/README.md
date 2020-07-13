@@ -1,27 +1,27 @@
 # Life Itself Press Pack
 *For ordinary people choosing an extraordinary path*
 
-## In Short
+## The Narrative of Life Itself
 
-**Our ambition**
+### Our ambition
 
 A world that is wise, well and awake.
 
-**Why we are here**
+### Why we are here
 
 Being changes everything. Spearhead a waking up, growing up culture. Make politics cool again to address collective challenges. These are key steps to a wiser, weller world for all beings.
 
-**What and How**
+### What and How
 
 We build a better, wiser future, now, via culture and community, by pioneering our own and by allying with others to transform society.
 
-**What makes us different?**
+### What makes us different?
 
 Primacy of being. We build infrastructures. The commitment to commitment. 
 
 The alchemy: of presence and getting sh** done, ecosystem and the personal, Zen and politics, engaging and retreating.
 
-**Who are we here for?**
+### Who are we here for?
 
 The people who want to see a real change and live more wisely, honestly and coherently and have seen that community is essential.
 
