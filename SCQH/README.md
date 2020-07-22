@@ -29,6 +29,12 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 <iframe width='853' height='480' src='https://embed.coggle.it/diagram/XScP2KMV3Tvd5Ec-/b4d25133e6806e7da61d0e705df4b37402e7382dbb402d1f1159d9372006db97' frameborder='0' allowfullscreen></iframe>
 
+### Planning
+
+<img src="Questions.png" />
+
+<img src="Complication.png" />
+
 ## 2017 SCQH
 
 In October, we met on the beautiful hills of Tuscany. We reflected on our intuition that something is deeply the matter, and on the need for a big vision as well as practical actions to realize it (including the development of a large-scale political movement).
