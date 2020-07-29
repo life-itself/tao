@@ -1,4 +1,3 @@
-
 # Life Itself SCQHs
 
 ## 2019 SCQH
@@ -23,11 +22,17 @@ What are the foundational views and values, and, separately and relatedly a big 
 
 ### Hypothesis
 
-Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, values and practices including the possibility of transformation, the primacy of (inter)being and getting stuff done). These communities will engage with broader society and ally with like-minded groups to foster a culture of wisdom and awakening that can transform society and will be committed to practical action, including large scale political efforts to address collective challenges.
+Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, values and practices including the possibility of transformation, the primacy of (inter)being and getting stuff done). These communities will engage with broader society and ally with like-minded groups to foster a culture of wisdom and awakening [^1] that can transform society and will be committed to practical action, including large scale political efforts to address collective challenges.
 
 #### Hypothesis Tree
 
 <iframe width='853' height='480' src='https://embed.coggle.it/diagram/XScP2KMV3Tvd5Ec-/b4d25133e6806e7da61d0e705df4b37402e7382dbb402d1f1159d9372006db97' frameborder='0' allowfullscreen></iframe>
+
+### Initial Planning
+
+<img src="Questions.png" />
+
+<img src="Complication.png" />
 
 ## 2017 SCQH
 
@@ -53,3 +58,4 @@ Develop a community of people based on a shared culture and shared views that in
 
 Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy
 
+[^1]: Shorthand for "waking up, growing up, cleaning up and showing up" .
