@@ -58,7 +58,8 @@ You now need to create an account on each of these. Please make sure you set up 
 
 When you set up systems, try to pick usernames that will be easy for others to remember (e.g. using your first and last name is ideal).
 
-* Gravatar -- https://gravatar.com. **You need to do this before anything else so your Gravatar is used on the other accounts you create.** 
+* Bitwarden -- https://bitwarden.com (password manager). Use Bitwarden to store your passwords as you work through the onboarding process.
+* Gravatar -- https://gravatar.com. **You need to do this before any of the steps below so your Gravatar is used on the other accounts you create.** 
 	* To be able to create a Gravatar, you have to create a WordPress account first. 
 	* You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
 	* When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
@@ -193,7 +194,6 @@ This is my exciting onboarding issue! 🌱
 * [ ] *Really* read about [job stories](http://playbook.datopian.com/job-stories/) (and user stories)
   * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
 * [ ] 📝 At end: notify Rufus if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that I can quickly find all your comments. 
-* [ ] Download and install Bitwarden: https://bitwarden.com (password manager)
 * [ ] Install Zotero (desktop app)
   * [ ] Get a username and tell Rufus
   * [ ] After being given access, sync the materials (you will need to enter your username/pw) 
