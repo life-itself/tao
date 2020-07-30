@@ -1,4 +1,3 @@
-
 # Life Itself SCQHs
 
 ## 2019 SCQH
@@ -29,7 +28,11 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 <iframe width='853' height='480' src='https://embed.coggle.it/diagram/XScP2KMV3Tvd5Ec-/b4d25133e6806e7da61d0e705df4b37402e7382dbb402d1f1159d9372006db97' frameborder='0' allowfullscreen></iframe>
 
+<<<<<<< HEAD
 ### Planning
+=======
+### Initial Planning
+>>>>>>> e0b18e0d421cd26d3303b7a463f74b6635c3b18f
 
 <img src="Questions.png" />
 
