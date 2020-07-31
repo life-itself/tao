@@ -40,7 +40,7 @@ From the [Life Itself manifesto](https://lifeitself.us/manifesto/):
 
 ## Frequently Asked Questions
 
-### The following FAQs are addressed explicitly in the [Residents' Agreement](https://tao.lifeitself.us/agreement/):
+### The following FAQs are addressed explicitly in the [Residents' Agreement](https://tao.lifeitself.us/hubs/agreement/):
 
 * What's shared/common and what's private? 
 * What time do we spend together? 
