@@ -30,7 +30,7 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 ### Initial Planning
 
-<img src="Questions.png" />
+<img src="/img/questions.png" />
 
 <img src="Complication.png" />
 
