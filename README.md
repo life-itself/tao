@@ -22,3 +22,51 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 [^1]: Adapted from John Cleary's introduction to the Blue Cliff Record.
 
+# About
+
+* [Narrative](https://tao.lifeitself.us/narrative/)
+* [SCQHs](http://tao.lifeitself.us/SCQH/)
+* [Press Pack](https://tao.lifeitself.us/press/)
+* [Manifesto](https://tao.lifeitself.us/manifesto/)
+* Our work and impact: see [Initiatives](https://tao.lifeitself.us/initiatives/)
+* Plans
+
+# Initiatives
+
+* [Initiatives](https://tao.lifeitself.us/Initiatives/)
+
+# Culture
+
+* [Culture](https://tao.lifeitself.us/culture/)
+* [Views](https://tao.lifeitself.us/views/)
+* [Principles](https://tao.lifeitself.us/principles/)
+  * Open-mindedness
+  * Integrity
+* Practices
+  * [Five Remembrances](https://tao.lifeitself.us/five-remembrances/)
+  * [Five Mindfulness Trainings](https://tao.lifeitself.us/five-mindfulness-trainings/)
+  * [Beginning Anew](https://tao.lifeitself.us/beginning-anew/)
+  * Gratitudes
+* Member characteristics
+
+# Participate
+* Hubs
+  * [Co-living Model](https://tao.lifeitself.us/coliving/)
+  * [Hub Context](https://tao.lifeitself.us/context)
+  * [Onboarding as a Hub Resident](https://tao.lifeitself.us/hubs)
+  * [Residents' Agreement and Principles](https://tao.lifeitself.us/hubs/agreement/)
+* Onboarding as a team member
+  * [Onboarding Guide](https://tao.lifeitself.us/onboarding/)
+  * [Onboarding FAQs](https://tao.lifeitself.us/onboarding-faq/)
+  * [Getting Things Done](https://tao.lifeitself.us/getting-things-done/)
+* [Team Members](https://tao.lifeitself.us/working-with-us/)
+  * Getting paid
+  * Travel
+  * Time off
+* [Life Itself Governance](https://tao.lifeitself.us/governance/)
+
+# Reference
+* Glossary
+* Further reading
+* Bibliography
+
