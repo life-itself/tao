@@ -10,7 +10,7 @@ Our intention is to bring about cultural and political transformation and to cre
  
 * **Cultural Development Coaching:** We offer cultural development coaching to organisations and businesses, using our practices and learnings to develop wise and well work cultures.
  
-* **Hubs:** Our hubs are micro-cultures which embody the values of Life Itself. The hubs provide communal environments that support the well-being and self-growth of their residents and foster links with local communities through events, workshops and co-working spaces. The hubs provide a focal point for those interested in societal change and transformation to meet, discuss and collaborate. https://lifeitself.us/hubs/
+* **Hubs:** Our hubs are micro-cultures which embody [the values of Life Itself]. The hubs provide communal environments that support the well-being and self-growth of their residents and foster links with local communities through events, workshops and co-working spaces. The hubs provide a focal point for those interested in societal change and transformation to meet, discuss and collaborate. You can read more about the culture of our hubs in the [Residency Agreement](/hubs/agreement/) and you can find images and application forms for living in our hubs on our website. https://lifeitself.us/hubs/
  
 * **Life Itself Institute:** The Life Itself Institute carries out research into how we can create societies that are wise and well. By producing and sharing research, we aim to provide guidance on the practices, values and policies that can transform society and also foster a big vision discussion about social transformation which enters mainstream discourse. https://lifeitself.us/institute/
  
