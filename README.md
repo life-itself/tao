@@ -24,46 +24,45 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # About
 
-* [Narrative](https://tao.lifeitself.us/narrative/)
-* [SCQHs](http://tao.lifeitself.us/SCQH/)
-* [Press Pack](https://tao.lifeitself.us/press/)
+* [Press Pack](/press/): this is the narrative of Life Itself; a primer and resource on why we exist and what we are doing.
+* [SCQHs](/scqh/): this is our situation, complication, question, hypothesis, also known as our root cause analysis and/or theory of change.
 * [Manifesto](https://tao.lifeitself.us/manifesto/)
-* Our work and impact: see [Initiatives](https://tao.lifeitself.us/initiatives/)
+* For our work and impact: see [Initiatives](/initiatives/)
 * Plans
+* [Life Itself Governance](/governance/)
 
 # Initiatives
 
-* [Initiatives](https://tao.lifeitself.us/Initiatives/)
+* [Initiatives](/initiatives/)
 
 # Culture
 
-* [Culture](https://tao.lifeitself.us/culture/)
-* [Views](https://tao.lifeitself.us/views/)
-* [Principles](https://tao.lifeitself.us/principles/)
+* [Culture](/culture/)
+* [Views](/views/)
+* [Principles](/principles/)
   * Open-mindedness
   * Integrity
 * Practices
-  * [Five Remembrances](https://tao.lifeitself.us/five-remembrances/)
-  * [Five Mindfulness Trainings](https://tao.lifeitself.us/five-mindfulness-trainings/)
-  * [Beginning Anew](https://tao.lifeitself.us/beginning-anew/)
+  * [Five Remembrances](/five-remembrances/)
+  * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
+  * [Beginning Anew](/beginning-anew/)
   * Gratitudes
 * Member characteristics
 
 # Participate
 * Hubs
-  * [Co-living Model](https://tao.lifeitself.us/coliving/)
-  * [Hub Context](https://tao.lifeitself.us/context)
-  * [Onboarding as a Hub Resident](https://tao.lifeitself.us/hubs)
-  * [Residents' Agreement and Principles](https://tao.lifeitself.us/hubs/agreement/)
+  * [Co-living Model](/coliving/)
+  * [Hub Context](/context)
+  * [Onboarding as a Hub Resident](/hubs)
+  * [Residents' Agreement and Principles](/hubs/agreement/)
 * Onboarding as a team member
-  * [Onboarding Guide](https://tao.lifeitself.us/onboarding/)
-  * [Onboarding FAQs](https://tao.lifeitself.us/onboarding-faq/)
-  * [Getting Things Done](https://tao.lifeitself.us/getting-things-done/)
-* [Team Members](https://tao.lifeitself.us/working-with-us/)
+  * [Onboarding Guide](/onboarding/)
+  * [Onboarding FAQs](/onboarding-faq/)
+  * [Getting Things Done](/getting-things-done/)
+* [Team Members](/working-with-us/)
   * Getting paid
   * Travel
   * Time off
-* [Life Itself Governance](https://tao.lifeitself.us/governance/)
 
 # Reference
 * Glossary
