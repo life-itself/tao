@@ -7,7 +7,7 @@ https://plato.stanford.edu/entries/japanese-zen/ - not so sure yet. Need to read
 
 ## From Introduction to Blue Cliff Record
 
-By Thomas Cleary (I think)
+By Thomas Cleary and J. C. Cleary
 
 > The Buddha Gautama, Shakyamuni, whom all Buddhists regard as their ancestor, invented and adapted various teachings and techniques to liberate people; he was likened to a skilled physician giving specific medicines to cure certain diseases. It is said, therefore, that there is no fixed teaching. Yet in spite of outward differences resulting from necessary adaptation to different situations, capacities of understanding and personality configurations, the real Buddha Dharma, the teaching of the enlightened ones, is of one uniform flavor, the flavor of liberation. Just as many streams lead to the ocean, where they merge into the uniform flavor of salt, goes the ancient metaphor, so do the teachings of enlightenment lead to the ocean of enlightenment and merge into the uniform flavor of liberation. When this essence is lost, and people enshrine relics of past method for a sense of personal satisfaction, righteousness, or comfort, then it is said that the medicine has become a disease. It is the practice of Ch’an and all real Buddhism to cut through all ploys of egoism in all its guises, “holy” or “profane,” to break up stultifying material and intellectual idolatry.
 >
