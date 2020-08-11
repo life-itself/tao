@@ -4,7 +4,7 @@ Our intention is to bring about cultural and political transformation and to cre
  
 ## Our Work
  
-* **Calls:** Our online calls provide participants with virtual spaces for self-growth and transformation. Through our calls we share the culture and practices of Life Itself, creating a supportive community committed to personal transformation. https://lifeitself.us/calls/
+* **Calls:** Our online calls provide participants with virtual spaces for personal growth and transformation. Through our calls we share the culture and practices of Life Itself, creating a supportive community committed to personal transformation. https://lifeitself.us/calls/
  
 * **Wiser:** We write and curate information on how to cultivate a wiser way of living and deliver these ideas to our subscribers. Our content is tailored to support readers who want to contribute to solving the greatest crises facing our species and the planet. https://lifeitself.us/wiser/
  
