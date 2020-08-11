@@ -26,7 +26,6 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 * [Press Pack](/press/): this is the narrative of Life Itself; a primer and resource on why we exist and what we are doing.
 * [SCQHs](/scqh/): this is our situation, complication, question, hypothesis, also known as our root cause analysis and/or theory of change.
-* [Manifesto](https://tao.lifeitself.us/manifesto/)
 * For our work and impact: see [Initiatives](/initiatives/)
 * Plans
 * [Life Itself Governance](/governance/)
