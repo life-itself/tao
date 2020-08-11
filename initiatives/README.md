@@ -6,7 +6,7 @@ Our intention is to bring about cultural and political transformation and to cre
  
 * **Calls:** Our online calls provide participants with virtual spaces for self-growth and transformation. Through our calls we share the culture and practices of Life Itself, creating a supportive community committed to personal transformation. https://lifeitself.us/calls/
  
-* **Wiser:** We write and curate information on how to cultivate a wiser way of living and deliver these ideas to our subscribers. Our ideas are tailored to support readers who want to contribute to solving the greatest crises facing our species and the planet. https://lifeitself.us/wiser/
+* **Wiser:** We write and curate information on how to cultivate a wiser way of living and deliver these ideas to our subscribers. Our content is tailored to support readers who want to contribute to solving the greatest crises facing our species and the planet. https://lifeitself.us/wiser/
  
 * **Cultural Development Coaching:** We offer cultural development coaching to organisations and businesses, using our practices and learnings to develop wise and well work cultures.
  
