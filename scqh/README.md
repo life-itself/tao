@@ -30,9 +30,16 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 ### Initial Planning
 
-<img src="/img/questions.png" />
+<!-- <img src="/img/Questions.png" alt="questions" /> 
 
-<img src="Complication.png" />
+<img src="./Complication.png">
+
+<figure>
+  <img src="./Questions.png" alt="Questions picture" class="">
+  <figcaption>Photo taken by <a href="https://www.flickr.com/photos/132646954@N02/40858786523">dronepicr</a></figcaption>
+</figure>
+
+![](./Complication.png) -->
 
 ## 2017 SCQH
 

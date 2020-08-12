@@ -22,6 +22,15 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
+      {
+        text: "Example menu",
+        items: [
+          { text: "Guide", link: "/guide/" },
+          { text: "How-to guides", link: "/how-to/" },
+          { text: "something", link: "/something/" },
+          { text: "another thing", link: "/another-thing/" },
+        ]
+      },
       { text: 'Five Remembrances', link: '/five-remembrances/' },
       { text: 'True Joy in Life', link: '/true-joy-in-life/' },
       { text: 'Primacy of Being', link: '/primacy-of-being/' },
