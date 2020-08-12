@@ -163,7 +163,7 @@ This is my exciting onboarding issue! 🌱
 * [ ] On GitHub I have made my membership of Life Itself public @ https://github.com/orgs/life-itself/people and it's visible on my profile and on https://github.com/life-itself
 * [ ] I have access to GDrive
   * [ ] Have created my Email signature 
-    * [ ] Copy the [email signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing)
+    * [ ] Copy our email signature template: https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c
     * [ ] Go to 'all settings' in gmail and scroll down to update your email signature
   * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).
 * [ ] Calendar
@@ -179,7 +179,7 @@ This is my exciting onboarding issue! 🌱
 * [ ] Standups
   * [ ] Write a standup in Gitlab
 * [ ] Meetings
-  * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
+  * [ ] Create a meeting doc in the onboarding practice folder: https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
   * [ ] Post the link to the meeting doc on the onboarding chat and ask for it to be reviewed
   
