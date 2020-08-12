@@ -179,9 +179,9 @@ This is my exciting onboarding issue! 🌱
 * [ ] Standups
   * [ ] Write a standup in Gitlab
 * [ ] Meetings
-  * [ ] Create a meeting doc in the onboarding practice folder: https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv
+  * [ ] Create a meeting doc in the onboarding practice folder by copying the 'Meeting Template for Onboarding' doc: https://drive.google.com/drive/folders/1ACL1ztVfLoe79Akjc0mCx4QRkiMVCX8O
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
-  * [ ] Post the link to the meeting doc on the onboarding chat and ask for it to be reviewed
+  * [ ] Leave a comment in the doc asking whoever is onboarding you to review it
   
   ### Extra Steps
   
