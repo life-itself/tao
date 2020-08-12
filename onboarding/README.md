@@ -212,7 +212,7 @@ The Onboarder will have granted you access to relevant Team Drives, so you can a
 
 #### Create your E-mail signature
 
-Please implement this [E-mail signature template](https://docs.google.com/document/d/1gpw5zucdlA_tU5geFpIs89AxuJ0is8kMEh6mIDkttnY/edit) into your gmail account.
+Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account.
 
 #### Install default styles
 
