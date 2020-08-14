@@ -1,26 +1,20 @@
 # Co-Living at Life Itself
 
-# Summary
+## Introduction
 
-Co-living is a means of living Life Itself’s values and vision  and a material example of this vision.  Co-living is a path to strengthening our community and transforming ourselves and our society through the fostering of a shared culture. It helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that a different path is possible.
+Co-living for us means living in community. It is both a way for us to concretely practicing our values and vision *and* it is a material exemplar of this vision -- i.e. a demonstration that we can live more wisely an well. Co-living is a path to strengthening our community and transforming ourselves and our society through the fostering of a shared culture. It helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that a different path is possible.
 
 We propose to develop co-living at Life Itself using three complementary models:
 
+* **Co-ownership and Co-op** – for permanent communities where Life Itself is the primary creator and developer of the space
+* **Residency** – where community members (and others) stay in spaces on a shorter-term basis (e.g. 2 days to 1 year)
+* **Co-governance** – for permanent communities at locations where Life Itself is living alongside and as part of an existing community in an existing space
 
-
-*   **Co-governance** – for permanent communities at locations where Life Itself is living alongside and as part of an existing community in an existing space (e.g. at La Cheraille.)
-*   **Co-ownership and Co-op** – for permanent communities where Life Itself is the primary creator and developer of the space
-*   **Residency** – where community members (and others) stay in spaces on a temporary basis (e.g. 2 days to 1 year)
-
-
-    ![Imgur](https://i.imgur.com/u8tIdBM.png)
-
-
-
+![Imgur](https://i.imgur.com/u8tIdBM.png)
 
 The “Lakes and Stream”: Permanent Hubs (“Lakes”) are connected, expanded, and enriched by Residency “Streams”
  
-# What is our interest in co-living?
+## What is our interest in co-living?
 
 Co-living is part of Life Itself’s mission because it is a vessel and reification of our big vision.  Co-living  is a path to strengthening our community and synergistic in transforming the self and our society through the fostering of a shared culture. It also helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that an different path is possible.
 
@@ -28,77 +22,27 @@ We believe that co-living is essential for sustaining our community both philoso
 
 Finally, co-living allows for economies of scale. As a co-living community, we can create shared spaces that breathe beauty and wellness, and create a lifestyle that otherwise would often be unaffordable.
 
-What is the current state of affairs?
-
-At present, there are  4-6 members of Life Itself who are committed to long term coliving as well as a much broader set of people interested on shorter term basis. 3 members of the community are already living more permanently in the London Hub (owned by Rufus and Catalina and leased to Art Earth Tech) and 3 members of the community are already living more permanently in La Cheraille (owned by the Godefroy and rented directly to community members on a case by case basis).
-
-However,  we had not agreed on the specific arrangements that the actual people involved would prefer, so we can’t communicate opportunities to other potential community members and we can’t co-live in a stable way that could grow.
-
 
 ## What have we done to address this situation?
 
 We have worked on three different co-living models and as well as the immediate next steps so that we can have certainty and clarity to establish a growing coliving community within Life Itself. The three models are:
 
-
-
-1. The co-governance model (in La Cheraille)
-2. The co-ownership model (in tbd)
-3. The timeshare model (in London Hub). 
+1. The co-ownership model (in Bergerac)
+2. The residency model (in London Hub). 
+3. The co-governance model (e.g. when residing in a space with an existing proprietor and/or community)
 
 The motivation behind the co-ownership and co-governance model is to provide a more permanent sense of home, security and agency to residents, owners and investors so that the Life Itself community can flourish both philosophically and materially. 
 
-The motivation behind the timeshare model is to allow community members to travel, and to have access to urban and rural nodes, and to stay in places that are not their permanent address while feeling a sense of home. 
+The motivation behind the residency model is to allow community members to travel, and to have access to urban and rural nodes, and to stay in places that are not their permanent address while feeling a sense of home. 
 
 To use the metaphor of a river and a lake, we want a lake to allow for stability and growth but we also want a river passing through the lake so that the community does not become insular, and is continuously being revitalised and energised. 
 
 ![Imgur](https://i.imgur.com/u8tIdBM.png)
 
-
-##### Fig 1: Communities as Lakes and Streams 
-
-
-# The Co-governance model in La Cheraille
-
-The co-governance model in La Cheraille is a way for the Life Itself community to have security and agency in the hamlet they are already investing their time and emotion  in while creating synergies between La Cheraille and Life Itself, so that the spaces are co-optimised by both the long-time inhabitants of La Cheraille and Life Itself community members and all lifestyles are nourished by a deep collaboration between all the parties.
-
-At present, there are 3 identified founding members/couples interested in living more permanently in La Cheraille. The plan is to reach a capacity of at least 6 units in La Cheraille with security of tenure and where the members are co-resident for a minimum of 2 months of the year all together at the same time and 4 months in La Cheraille overall (it is likely most live full time). The proposition of Life Itself to La Cheraille is as follows. 
-
-Life Itself would request that:
+#### Fig 1: Communities as Lakes and Streams 
 
 
-
-*   Life Itself members who live permanently will like to have a tenancy agreement between Life Itself and La Cheraille over the spaces Life Itself uses. Over these spaces, Life Itself and its members will decide over who uses it and how, subject to consultation and veto by the Godefroy family.
-*   Life Itself members who live permanently in La Cheraille are consulted first when the Godefroy are making decisions or investments involving:
-    *    A new resident coming to live in La Cheraille
-    *    A new space available in La Cheraille 
-    *    A plan to renovate an existing space _(eg: how to design the rooms for the new wedding room so it can also be used by Life Itself during the low season and so that the rooms can be potentially repurposed in the long term for other use of the community)._
-*   AET Ltd would also like the ability to rent spaces that are not used/not yet renovated and to be able to invest in these spaces, meaning that there would be a preferential/ deducted rent over a defined period of time. Of course, the Godefroy will have a say and veto over how the space is designed and done and what type of activity will take place. (_eg:  Life Itself invest 48.000 euros in creating a co-working space in the barn, instead of paying a rent of 800 euros a month, Life Itself pays 400 euros a month over 10 years.)_
-*   [New]: Life Itself would have the right of first refusal should the Godefroy family wish to sell.
-
-In exchange, Life Itself will commit to deep collaboration with the Godefroy and with the La Cheraille community. This means that: 
-
-
-
-*   Life Itself member residents will learn and contribute to maintaining the shared gardens which are a center of La Cheraille culture (_eg: plant trees, 1h a week minimum where the permanent resident garden collectively with Christophe)_
-*   Life Itself members and residents will contribute to cleaning of the shared spaces it uses (co-working spaces in the Ferme Auberge for example)
-*   Life Itself members and residents  will  bring life and activities to la Cheraille _(eg: gathering, school, corporate retreats and others…)_
-*   Life Itself will create a regular monthly meeting with la Cheraille to discuss mutual interests and concerns.
-
-
-## Next steps for La Cheraille
-
-At the current moment (1 September 2018) Life Itself has discussed with Christophe the possibility of: 
-
-
-
-*   Having a tenancy agreement between La Cheraille and Life Itself for the spaces it would use more permanently. 
-*   Having more regular communication about the future residents of La Cheraille and the decision making process in the development and the renovation of the space
-*   Having regular conversation about Life Itself’s needs.
-*   That the Godefroy family will be always consulted and has a veto right  if Life Itself where to do some renovation work or bring new residents. 
-
-
-
-# Life Itself & Co-ownership + Co-ops
+# Co-ownership and Co-ops
 
 The Life Itself Co-ownership + Co-ops model is specifically designed to address the desire:
 
@@ -210,7 +154,7 @@ The Residency model is a complementary “stream” to the “lake” of the per
 1. It enables community members to stay in other places that are not their permanent residence while feeling a sense of home, and, in particular that the Community has access to both rural and urban spaces (urban environments to access work, ideas and culture, rural nodes for more permanent establishment, reflection, etc).
 2. It provides a “stream” that enriches the permanent co-living communities, create an exchange between the different spaces and any one of them from becoming too insular.
 
-The timeshare model should be:
+The residency model should be:
 
 
 
@@ -221,7 +165,7 @@ The timeshare model should be:
 
 ## Management and structure
 
-Each space can designate a subpart of its space for use under the timeshare approach.
+Each space can designate a subpart of its space for use under the residency approach.
 
 Each space maintains a book sheeting and a contact point for booking.
 
@@ -346,11 +290,33 @@ For La Cheraille
 
 
 
-*   A timeshare model will be developed for the ferme auberge apartments at la Cheraille. 
+*   A residency model will be developed for the ferme auberge apartments at la Cheraille. 
 *   Questions to answer:
     *   Who gets to set the overall rules? Ans: the community running the hub.
     *   How to manage overbooking? Have some kind of overflow e.g. couch at London Hub
     *   How to deal with booking / allocation? Trial a spreadsheet and see how it goes. 
+
+
+# The Co-governance model
+
+The co-governance model is relevant when Life Itself community is residing in a space owned by another party or community. It is a way for the Life Itself community to have security and agency in an area they are already investing their time and emotion in while creating synergies between that community and Life Itself, so that the spaces are co-optimised by both the long-time inhabitants of the existing community and Life Itself community members and all lifestyles are nourished by a deep collaboration between all the parties.
+
+In setting up a co-governance model, we propose that:
+
+* Life Itself members who live permanently will like to have a tenancy agreement between Life Itself and the exixsting community over the spaces Life Itself uses. Over these spaces, Life Itself and its members will decide over who uses it and how, subject to consultation and veto by the Godefroy family.
+* Life Itself members who live permanently in the community are consulted first when the existing community are making decisions or investments involving:
+  * A new resident coming to live in the existing community
+  * A new space available in the existing community 
+  * A plan to renovate an existing space (eg: how to design the rooms for the new wedding room so it can also be used by Life Itself during the low season and so that the rooms can be potentially repurposed in the long term for other use of the community).
+* Life Itself would also like the ability to rent spaces that are not used/not yet renovated and to be able to invest in these spaces, meaning that there would be a preferential/ deducted rent over a defined period of time. Of course, the existing community will have a say and veto over how the space is designed and done and what type of activity will take place.
+* [New]: Life Itself would have the right of first refusal should the existing community wish to sell.
+
+In exchange, Life Itself will commit to deep collaboration with the existing owners and community, for example:
+
+* Life Itself member residents will learn and contribute to maintaining the shared gardens which are a center of the existing community culture
+* Life Itself members and residents will contribute to cleaning of the shared spaces it uses
+* Life Itself members and residents  will  bring life and activities to the space
+* Life Itself will create a regular monthly meeting with the owners/community to discuss mutual interests and concerns.
 
 
 
@@ -584,10 +550,7 @@ Relevant for both La Cheraille and the Co-ownership model
 **Yes, absolutely. But shareholding does not confer any special status.**
 
 
-# Appendix: SCQH
-
-
-## SCQH
+## Appendix: SCQH 2018
 
 Situation: There are a core of people committed to coliving within Life Itself and a much broader set of people interested & supportive; there are major reasons that coliving is synergistic and supportive of Life Itself’s vision and mission; there is rapidly growing interest in coliving in broader society.
 
@@ -598,76 +561,15 @@ Question: What is the ownership model, gating and governance process, location c
 _Question: What ownership model, what gating and governance process, what location criteria, what contribution expectations [what is base culture (values, practices) and connection with the bigger Life Itself vision] and what are the immediate next steps so that we can have certainty and clarity to establish a coliving community with capacity of at least 6-10 units with security of tenure and where the members are co-resident for at least X time (tbd) and spend at least Y% time there (tbd)?_
 
 
-## Issue Tree
+### Issue Tree
 
 https://coggle.it/diagram/W4PCA-GhIkjCf_Tx/t/coliving-what-is-the-ownership-at-least-y-time-there-tbd
-
 
 
 ![Imgur](https://i.imgur.com/QmpUhgF.png)
 
 
 
-
-# Appendix: SCQH Background
-
-
-### What we don’t have now
-
-We don’t have a big enough property where the Life Itself nucleus can start putting  down roots. There are no details of the specific arrangement that the actual people involved would prefer, so we can’t communicate opportunities to other potential community members or owners/investors of spaces.
-
-As a result,  we aren’t co-living in a stable way that could grow. The London Hub is too small to expand and even though there is space for growth at La Cheraille, Art Earth Tech does not have the sort of formal/legal long-term agreements or understandings here  that would allow community members long-term security. The current situation limits our ability to grow our co-living community and for our community to feel a sense of home. 
-
-
-### What have we done to address this situation?
-
-We have worked on an ownership model, gating and governance process, location criteria, contribution expectations and immediate next steps so that we can have certainty and clarity to establish a coliving community with at least 3 identified founding members/couples and capacity of at least 6-10 units with security of tenure and where the members are co-resident for at least 2 months of the year all together and 4 months in the location overall (at least for now) time (tbd.)
-
-
-# La Cheraille co-governance model - French version 
-
-**Introduction**
-
-Le modèle de co-gouvernance à La Cheraille est un moyen pour la communauté Life Itself d’obtenir de la sécurité et de l’autonomie dans le hameau où ils investissent déjà leur temps et leur émotion. Le but est également de créer des synergies entre La Cheraille et Life Itself pouvant profiter aux deux partis. 
-
-Actuellement, 3 membres fondateurs / couples identifiables sont intéressés à vivre de manière plus permanente à La Cheraille. Nous avons le souhait d'atteindre une capacité d'au moins 6 unités à La Cheraille avec sécurité d’occupation, et où les membres cohabitent au moins 2 mois par an, et sont au moins 4 mois au total à La Cheraille ( il est probable que la plupart vivent à plein temps).
-
-** La proposition de Life Itself à La Cheraille est la suivante. Life Itself demanderait que:**
-
-
-
-*   Les membres de Life Itself qui vivent en permanence à la Cheraille demandent de recevoir un contrat de location entre Life Itself et La Cheraille pour les espaces qu’ils utilisent. Dans ces espaces, Life Itself et ses membres décideront de l’utilisation des lieux, sous réserve d’un droit de veto par la famille Godefroy.
-*   Les membres de Life Itself qui vivent en permanence à La Cheraille sont consultés en premier lorsque les Godefroy prennent des décisions ou investissements concernant:  \
- - Un nouveau résident venant vivre à La Cheraille \
- - Un nouvel espace disponible à La Cheraille
-*   S’il y a un plan de rénovation d'un espace, Life Itself peut etre consulté pour tenter de voir si l’espace peut également être rénové pour les besoins de Life Itself (par exemple: comment concevoir les salles de mariage afin qu'elle puisse également être utilisée en basse saison par Life Itself).
-*   AET Ltd souhaite avoir  la possibilité de louer des espaces qui ne sont pas utilisés ou pas encore rénovés et de pouvoir investir dans ces espaces, ce qui signifie qu'il y aurait un loyer préférentiel / déduit sur une période de temps définie. Bien entendu, les Godefroy auront un droit de veto sur la rénovation de l’espace et sur le type d’activité qui se déroulera. (ex: Life Itself investit 48 000 euros dans la création d'un espace de co-working dans la grange, au lieu de payer un loyer de 800 euros par mois, Life Itself paie 400 euros par mois sur 10 ans.)
-
-**En échange, Life Itself s’engagera à collaborer avec les Godefroy et la communauté de La Cheraille. Cela signifie que:**
-
-
-
-*   Les membres adhérents de Life Itself apprendront et contribueront à entretenir les jardins partagés qui sont un bien publique La Cheraille (ex: planter des arbres, 1h minimum par semaine pour jardiner avec Christophe)
-*   Les membres et résidents de Life Itself contribueront au nettoyage des espaces partagés qu'il utilisent (espaces de co-working dans la Ferme Auberge par exemple)
-*   Les membres de Life Itself et les résidents apporteront vie et activités à la Cheraille (ex: rassemblement, école, retraites d'entreprise et autres…)
-*   Life Itself organisera une réunion mensuelle régulière avec la Cheraille pour discuter des intérêts et des préoccupations mutuels.
-
-**Prochaines étapes pour La Cheraille** \
-
-
- A l'heure actuelle (1er septembre 2018), Life Itself a discuté avec Christophe de la possibilité de:
-
-
-
-*   Avoir un contrat de location entre La Cheraille et Life Itself pour les espaces qu’il utiliserait de manière plus permanente.
-*   Communiquer plus régulièrement sur les futurs résidents de La Cheraille et sur le processus de décision dans le développement et la rénovation de l'espace
-*   Avoir des conversation régulières sur les besoins d’Life Itself.
-*   Que la famille Godefroy soit toujours consultée et dispose d'un droit de veto si Life Itself peut faire des travaux de rénovation ou amener de nouveaux résidents.
-
- 
-
-
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]:
