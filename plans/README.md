@@ -128,7 +128,7 @@ Our 2020 goal is to acquire the space in Bergerac and perform a “level 1” re
 
 ### Berlin Hub
 
-In 2020 we plan to develop the Berlin Hub, expanding it to around 300m2. Our major need is to find a Hub Manager who can make sure the community there is thriving and aligned. Once a Hub Manager has been found and trained, we can start searching for community members and create events on the shop front to promote Life Itself. In the meantime, we can have shorter-term residents. In addition, and separate from the hub community, we will submit plans for developing the roof and have them approved. 
+In 2020 we plan to develop the Berlin Hub, expanding it to around 300m². Our major need is to find a Hub Manager who can make sure the community there is thriving and aligned. Once a Hub Manager has been found and trained, we can start searching for community members and create events on the shop front to promote Life Itself. In the meantime, we can have shorter-term residents. In addition, and separate from the hub community, we will submit plans for developing the roof and have them approved. 
 
 #### Key results
 
