@@ -246,7 +246,7 @@ Generating money so that we can engage people and expand our work.
 * Transition to a new governance model
   * Open a non-profit and develop a system for running it
     * Develop the narrative for raising money
-  * Complete the official relationship between AET, Datopianand the future non-profit. 
+  * Complete the official relationship between AET, Datopian and the future non-profit. 
 
 ### Secondary focus areas
 * Start developing the big vision
