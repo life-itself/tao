@@ -1,21 +1,22 @@
-# The Narrative of Life Itself
+# Narrative
+
+A stand for life itself
+
+Ordinary people choosing an extra-ordinary path
 
 ## Our ambition
 
 A world that is wise, well and awake.
 
-
 ## Why we are here
 
 Being changes everything. Spearhead a waking up, growing up, cleaning up culture. Make politics cool again to address collective challenges. These are key steps to a wiser, weller world for all beings.
-
 
 ## What and How
 
 We build a better, wiser future, now, through culture.
 
 We do this via spaces, a culture and a community – by pioneering our own and by allying with others to transform wider society.
-
 
 ## What makes us different?
 
@@ -34,7 +35,6 @@ Ultimately our children, our children’s children and the many generations to c
 ## What do we value the most?
 
 Mystery, Transformation, Possibility and Joy – and the commitment, practice and discipline to realise them. Zen Activism, Rigorous Inquiry. Doing the washing up.
-
 
 ## What is our personality?
 
