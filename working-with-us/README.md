@@ -21,22 +21,19 @@ If you have any company expenses to be reimbursed for, you should submit them wi
 
 All work related travel arrangements MUST be approved by the Accountable person for your project.
 
-
-## Team, Hours, and Office
-
-### Timezone
+## Timezone
 
 The usual timezone we use in Life Itself is aligned with the current standard timezone in UK (unless otherwise agreed within your team).
 
-### Core Hours
+## Core Hours
 
 Our general working hours are 8am UK – 5pm UK. Not necessarily when you work but when it is permissible to schedule meetings.
 
-### Phone book
+## Phone book
 
 You can find team members’ phone numbers, usernames, phone numbers in [Team Phonebook](https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0).
 
-### Time-off
+## Time-off
 
 Remember, we’re not a traditional organization 😄 and we operate on self-organizing principles. Thus, time-off is not something approved by your "boss" (who is your boss?). Rather it is something to discuss and negotiate with your peers and anyone else affected.
 
@@ -50,13 +47,13 @@ How to organize time-off:
 * Once agreed, notify ops@lifeitself.us to inform them about the dates of your absence and so they can flag if any issues.
 * Make sure to add your holiday dates in both the Life Itself Team calendar as well as in your own personal calendar.
 
-### If You’re Ill
+## If You’re Ill
 
 If you’re not feeling well and you’re unable to work, notify your Scrum Master / Product Owner as soon as possible. The notified person will then let teammates know.
 
 Please add an "Out of office" to your calendar and email and include an alternative contact.
 
-### Proud to be part of Life Itself!
+## Proud to be part of Life Itself!
 
 If you are proud to be part of this (we know you are!), you can like us on [Facebook](https://www.facebook.com/forlifeitself/) and follow us on [Twitter](https://twitter.com/forlifeitself) and [LinkedIn](https://uk.linkedin.com/company/art-earth-tech-limited)!
 
