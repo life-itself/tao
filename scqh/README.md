@@ -1,4 +1,10 @@
-# Life Itself SCQHs
+# Reason for our Existence
+
+This document spells out the reason for the existence of Life Itself. It uses the structure of "situation, complication, question, hypothesis (SCQH)" which is a format wee have found a powerful and useful methodology for diagnosing problems and hypothesing solutions. (If you are unfamiliar with SCQH please see http://playbook.datopian.com/scqh).
+
+The SCQH is intended to set out in a succinct way why we exist and, implicitly, our theory of change. It is intentionally very short and therefore highly distilled (each part should be maximum paragraph and preferably a senctence and the whole should fit in a single page). We are working on a commentary that expands on some of the key points in greater detail.
+
+Like most key documents our SCQH continues to be reviewed and revised and as well as the most recent version (2019) we have also included the previous version (2017).
 
 ## 2019 SCQH
 
@@ -18,7 +24,9 @@ What are the foundational views and values, and, separately and relatedly a big 
 
 #### Issue Tree
 
-<iframe width='853' height='480' src='https://embed.coggle.it/diagram/XSXuEFj7lR6oRu4Y/6c948a4d386e0bef6181f8428ce4d3cb9bce0cb64a45e9444efa91ce19db1dd3' frameborder='0' allowfullscreen></iframe>
+⚠️ Unfinished ⚠️
+
+https://coggle.it/diagram/XSXuEFj7lR6oRu4Y/t/star-within-our-lifetime-a-weller-world-for-everyone-3
 
 ### Hypothesis
 
@@ -26,7 +34,9 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 #### Hypothesis Tree
 
-<iframe width='853' height='480' src='https://embed.coggle.it/diagram/XScP2KMV3Tvd5Ec-/b4d25133e6806e7da61d0e705df4b37402e7382dbb402d1f1159d9372006db97' frameborder='0' allowfullscreen></iframe>
+⚠️ Unfinished ⚠️
+
+See https://coggle.it/diagram/XScP2KMV3Tvd5Ec-/t/by-developing-a-big-vision-human-fulfilment-and-flourishing
 
 ### Initial Planning
 
@@ -39,6 +49,11 @@ Within our lifetime and six generations hence, we will develop a federation of r
 <img src="./Questions.png">
 
 ## 2017 SCQH
+
+See also:
+
+* The original blog post: https://lifeitself.us/2017/12/05/foundational-scqh-situation-complication-question-hypothesis/
+* The logic for our purpose and reason for our existence slide deck: https://lifeitself.us/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
 
 In October, we met on the beautiful hills of Tuscany. We reflected on our intuition that something is deeply the matter, and on the need for a big vision as well as practical actions to realize it (including the development of a large-scale political movement).
 
