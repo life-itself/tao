@@ -1,4 +1,4 @@
- # Governance at Art / Earth / Tech 
+# Governance at Life Itself
 
 # Executive Summary
 
