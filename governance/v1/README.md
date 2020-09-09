@@ -2,11 +2,13 @@
 
 # Executive Summary
 
-Life Itself was initiated in 2015 by Sylvie Barbier and Rufus Pollock and were joined by co-founder Liam Kavanagh a year later. With the ongoing growth of Life Itself as a community and enterprise it behoves us to put in place solid foundations for our future development as well as provide transparency. Our motivating question is: what are the governance structures, patterns and practices we should put in place that would support and provide clarity on:
+Art Earth Tech was initiated in 2015 by Sylvie Barbier and Rufus Pollock and in November a legal entity Art Earth Tech Ltd was established (though with relatively little relationship to Art Earth Tech the community). So far, it has functioned with the loosely defined governance structure natural to an emergent initiative. However, with the ongoing growth of Art Earth Tech as a community and enterprise it behoves us to put in place solid foundations for our future development as well as provide transparency. Our motivating question is: what are the governance structures, patterns and practices we should put in place that would support and provide clarity on:
+
+
 
 *   A sense of ownership, fairness and trust amongst the nucleus, its members, and the broader community.
-*   People investing their time, energy and goodwill in the vision, mission and values of Life Itself to be recognised. 
-*   Preserve and enhance Life Itself’s reputation.
+*   People investing their time, energy and goodwill in the vision, mission and values of AET to be recognised. 
+*   Preserve and enhance AET’s reputation.
 *   Staying true to the deepest elements of its vision, mission, values and culture, whilst being able to evolve in line with circumstance.
 *   Being able to live on beyond its founders and a balance between creating a vibrant and dynamic community with members being able to be more autonomous 
 *   Clear reciprocal relationships with associated projects ( eg: London Hub, LEAP, Datopian, Institute, etc]
@@ -15,6 +17,8 @@ Life Itself was initiated in 2015 by Sylvie Barbier and Rufus Pollock and were j
 ## Our Hypothesis
 
 We propose to address these intentions by:
+
+
 
 *   Creating an explicit membership model 
 *   Establishing a board 
@@ -25,54 +29,78 @@ We propose to address these intentions by:
 
 # Membership
 
-Our intention is to create membership structure which reflects the vision of Life Itself – where people experience being supported, cared for, and believed in while living the Life Itself vision and mission through our key [values][].
+Our intention is to create membership structure which reflects the vision of AET – where people experience being supported, cared for, and believed in while living the AET vision and mission  through our values of joy, open mindedness, rigour, primacy of being, authenticity and getting stuff done. 
 
-The other intention of the model is to reflect and recognise the different level of involvement and contribution to Life Itself by its members.
+The other intention of the model is to reflect and recognise the different level of involvement and contribution to AET by its members.
 
-[values]: /culture/
 
 ## How do you become a member of the community and how does it work?
 
-⚠ We don't yet have a formal membership process distinct from hub residency or becoming a team member. In strict sense members would be only pioneers. In broad sense it would include Pioneers, Contributors and even many sympathizers.
+You become a member of AET by being an active member of a “family”. A “family” is a group  that meets regularly for mutual support, sharing and exchange rooted in AET values and practices and oriented towards AET’s mission.
+
+A “family” size is usually between 5 to 8 people and meet a least once a month (preferably once every two weeks)  in person or by phone/video.  Each “family” has a family elder (which can alternate every 3 months) who is responsible for coordinating the group meeting and be a communication point between the members and the rest of AET.
+
+
+### FAQ about the family
+
+**How does a member leave?**
+
+By ceasing to be actively involved in a family eg: not attending meeting for more than 3 months. 
+
+**Do I get to choose my family?**
+
+A suggestion of which family to join can be made. Families are not meant to represent existing networks of friends within the AET community, the families will be chosen to provide a balance of personality, AET experience, and age and the ability to make new AET friends.
+
+**How can a member be removed?**
+
+A member can be removed by the Board at their discretion (though obviously endeavour to discuss, complete etc).
+
+**What are the qualification to be an AET member?**
+
+To have attended a Gathering or two sprints. 
+
+**What happens if many members of my “family” have left?**
+
+If your “family” is smaller than 4 members then you will be merge with another family.
+
 
 ## Levels of involvement 
 
-While you are a member of a Life Itself “family” group, each member might have different level of involvement with Life Itself. Therefore within a family you may find people with various levels. Below is a drawing and explanation of the different criterias for each level: 
+While you are a member of a AET “family” group, each member might have different level of involvement with AET. Therefore within a family you may find people with various levels. Below is a drawing and explanation of the different criterias for each level: 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSSLGMjGemTOB1cNKNwPlC6fP3GDtTAgxpU-FHvleOujfHy2nwBqSqKnh7jcWhMvAMTorblW_qOnAyX/pub?w=579&amp;h=528" />
+![Imgur](https://i.imgur.com/gfjFICq.png)
 
-**Level 1 Sympathizers**
+**Level 1 Supporters**
 
-You are actively (or quietly!) supporting the aims and/or way of being up to those actively contributing material or other resources to the effort.
+You are part of a family and make a financial and/or in-kind contribution (e.g. regular donation of €10 a month or help run a supper or other small community event.)
 
 **Level 2 Contributor**
 
-A contributor is someone who does [one or more of following]
+L1 + you represent AET, have been a family elder, and have attended at least one Gathering and have actively contributed to one major initiative. 
 
-* does sustained “work” (remunerated / unremunerated) and who scores higher than X on the alignment scale
-* produces a workshop /event with us and who we (both they and us) want to continue collaborating
-* has done some major support (e.g. helped us get funding) and they want to live for at least a month
-* Someone resident in a hub who scores X on our alignment metric, actively engaged (on community calls), volunteers time and/or acts as an ambassador
-* Substantive contribution to artistic or intellectual output and X aligned
+**Level 3: Shareholder**
 
-**Level 3: Pioneer**
+L2 + you have and are leading a major event (30 people +)  or an initiative and shown long-term competence and commitment to AET’s mission and vision. You attend all quarterly team meetings and trainings and are engaged in ongoing self-development work. 
 
-A Pioneer who is among the first to explore or settle a new country or area. One of the first to do something. Life Itself Pioneers are actively involved in pioneering Life Itself.
 
 ## Membership agreement
 
 As a member, you agree to the following as part of being part of the community:
 
-*   To live according to the values of Life Itself
+
+
+*   To live according to the values of AET of joy, rigour, open mindedness, authenticity, generosity, primacy of being and getting stuff done. 
 *   Not to gossip about other members of the community.
 *   To take collective responsibility for the care and wellbeing of the “family” as a whole and it’s individuals.
-*   To be aligned and supportive of the vision and mission of Life Itself.
+*   To be aligned and supportive of the vision and mission of AET.
 *   Not to withhold communications or intentionally cause upsets.
-*   If you have any issue or problem with Life Itself, you will responsibly communicate only to the person who can resolve that issue.
-*   You agree to join the quarterly community day and join at least one community call a month
+*   If you have any issue or problem with AET, you will responsibly communicate only to the person who can resolve that issue.
+*   You agree to have a minimum of 1 group phone call a month with your family and when possible to meet in person. 
 
 
 ### Communicating & Resolving Conflicts
+
+
 
 *   “Getting complete”, emotional “cleaning” and conflict resolution is a priority in our community.
 *   We believe that unspoken resentment and unresolved disagreements cause blocked relationships that damage the community.
@@ -82,19 +110,20 @@ As a member, you agree to the following as part of being part of the community:
 
 # Shares, Revenue and Voting
 
+
 ## Introduction
 
-Life Itself is a for-profit company and it may grow in the future by incorporating non-profit arms. The core Life Itself entity will probably operate more like a CIC  (community interest company) than a traditional for-profit company though the exact legal structure is to be worked out. Specifically, classic CIC principles:
+AET is a for-profit company and it may grow in the future by incorporating non-profit arms. The core AET entity will probably operate more like a CIC  (community interest company) than a traditional for-profit company though the exact legal structure is to be worked out. Specifically, classic CIC principles:
 
 
 
-*   Asset lock: the assets held by Life Itself can not be liquidated and distributed except to another entity pursuing the same purpose and mission.
-*   Distribution to pioneers will be set at a low level, sufficient only to attract necessary capital (for example, repayment of initial investment plus X% a year)
+*   Asset lock: the assets held by AET can not be liquidated and distributed except to another entity pursuing the same purpose and mission.
+*   Distribution to shareholders will be set at a low level, sufficient only to attract necessary capital (for example, repayment of initial investment plus X% a year)
 
 
 ## Principles
 
-Life Itself in it’s governance stand on three principles: 
+AET in it’s governance stand on three principles: 
 
 
 
@@ -105,7 +134,7 @@ Life Itself in it’s governance stand on three principles:
 
 ### Recognition of value
 
-We believe that there are many more values than monetary ones. Our goal is to create a common yardstick to recognize and remunerate the value members contribute to Life Itself (eg: wellness, art, time, expertise, money…)
+We believe that there are many more values than monetary ones. Our goal is to create a common yardstick to recognize and remunerate the value members contribute to AET (eg: wellness, art, time, expertise, money…)
 
 The principal is that the more you put in the more you get out:
 
@@ -131,7 +160,7 @@ We want to recognize differential contribution so that people feel fairly treate
 
 ## Types of Shares
 
-There are two types of shares, voting shares and revenue shares. A member of Life Itself community can qualify for revenue and/or voting share when reaching L3.
+There are two types of shares, voting shares and revenue shares. A member of AET community can qualify for revenue and/or voting share when reaching L3.
 
 
 ![Imgur](https://i.imgur.com/OPrvrNS.png)
@@ -176,7 +205,7 @@ Revenue shares are distributed to L3 members based on an assessment of their con
 
 
 
-*   Life Itself run since Oct 2015
+*   AET run since Oct 2015
 *   Proposed allocation (Rufus, Sylvie, Ninon, Liam): 40, 30, 15, 15
     *   400 shares initial allocation => 160 / 120 / 60 / 60
 *   [Example: future allocation]
@@ -192,11 +221,15 @@ What are the criteria we select on for our model? Answer: Balance between fairne
 
 Benefits to individual or family
 
+
+
 *   Security & certainty
 *   Insurance - risk pooling
 *   Maximizing public goods
 
 Soft values
+
+
 
 *   Belonging
 *   Fairness
@@ -204,19 +237,18 @@ Soft values
 
 Incentives
 
+
+
 *   Quality-adjusted contribution
 *   Risk-taking
 *   Responsibility / competence [scarcity]
 
-
-```
-<-- Equality--------------------------- >Based on responsibility for output produced
-```
+←Equality--------------------------- >Based on responsibility for output produced
 
 
 # The Board
 
-The intention and purpose of the board is to make sure the mission and plan of action of Life Itself is to align with the vision and values of Life Itself.
+The intention and purpose of the board is to make sure the mission and plan of action of AET is to align with the vision and values of AET.
 
 There will be two types of board members:
 
@@ -248,7 +280,7 @@ No. Permanent members of the board can only be removed by consensus of other per
 
 # Management
 
-The intention of the management team is to act on the vision and mission of Life Itself and to be remunerated for their work. 
+The intention of the management team is to act on the vision and mission of AET and to be remunerated for their work. 
 
 
 <table>
@@ -319,7 +351,7 @@ The intention of the management team is to act on the vision and mission of Life
    </td>
    <td>Responsible for developing the overall research goals and overseeing research work at the institute at for the organisation as a whole. 
    </td>
-   <td>To make sure that Life Itself as an organisation can rely on quality research to promote its vision and mission.
+   <td>To make sure that AET as an organisation can rely on quality research to promote its vision and mission.
    </td>
    <td>??
    </td>
@@ -333,27 +365,27 @@ The intention of the management team is to act on the vision and mission of Life
 ![Imgur](https://i.imgur.com/bR3Mxtn.png)
 
 
-### Fig X: the Life Itself network of initiatives
+### Fig X: the Art Earth Tech network of initiatives
 
-Just as people are part of the Art Earth Network and can become members, so there will be initiatives that have a relationship with Life Itself. There are two key aspects of a relationship of Life Itself with other initiatives:
+Just as people are part of the Art Earth Network and can become members, so there will be initiatives that have a relationship with Art Earth Tech. There are two key aspects of a relationship of AET with other initiatives:
 
 
 
-*   Reputation & Brand: e.g. how and when can associated initiatives use Life Itself’s brand? 
-*   Economic: What, if any, economic relationship is there between the entitites? For example, does Life Itself have a financial stake in these other entities?
+*   Reputation & Brand: e.g. how and when can associated initiatives use Art Earth Tech’s brand? 
+*   Economic: What, if any, economic relationship is there between the entitites? For example, does Art Earth Tech have a financial stake in these other entities?
 
-To address these questions, we intend to create an explicit agreement for entities to associate with Life Itself just as we have for members.
+To address these questions, we intend to create an explicit agreement for entities to associate with Art Earth Tech just as we have for members.
 
-We believe these relationships can be very important, especially economically, and will be a crucial mechanism for creating a dynamic and thriving Life Itself ecosystem.
+We believe these relationships can be very important, especially economically, and will be a crucial mechanism for creating a dynamic and thriving Art Earth Tech ecosystem.
 
-At present, we do not have a definite answer. Our ongoing work is covered in the separate document on the [Life Itself “Mutual Project Co”](https://docs.google.com/document/d/1znT-u6hCcqwu5JZjHbyxNW78_VPZDc0MJYXkwBnn8T4/edit#).
+At present, we do not have a definite answer. Our ongoing work is covered in the separate document on the [Art Earth Tech “Mutual Project Co”](https://docs.google.com/document/d/1znT-u6hCcqwu5JZjHbyxNW78_VPZDc0MJYXkwBnn8T4/edit#).
 
 For the present, we intend to do an initial try-out with existing closely associated initiatives such as Datopian & LEAP. 
 
 
 # Spaces
 
-See [Co-living at Life Itself](https://tao.artearthtech.com/coliving)
+See [Co-living at AET](https://tao.artearthtech.com/coliving)
 
 
 # 
@@ -366,13 +398,13 @@ See [Co-living at Life Itself](https://tao.artearthtech.com/coliving)
 
 
 
-### Fig 3: An early drawing from the Life Itself Nucleus Sprint Aug 2018
+### Fig 3: An early drawing from the AET Nucleus Sprint Aug 2018
 
 
 
-*   Wouldn’t it be better if Life Itself central fund reinvested all it surplus into Life Itself?
-*   What that is that people make money out of Life Itself, that they earn it from the profit earning of associated companies of Life Itself
-*   Why would Life Itself want to be a non-profit?
+*   Wouldn’t it be better if AET central fund reinvested all it surplus into AET?
+*   What that is that people make money out of AET, that they earn it from the profit earning of associated companies of AET
+*   Why would AET want to be a non-profit?
 *   Fear: is that the making money will kill the community
 
 
@@ -385,11 +417,11 @@ See [Co-living at Life Itself](https://tao.artearthtech.com/coliving)
 
 ## Definition of Membership and how to join
 
-_Do you want Life Itself to be a slightly more exclusive 'Invite only' network, or do you want it to be very open and inclusive. There's no right answer, both are useful in different ways, but it would be good to state here._
+_Do you want AET to be a slightly more exclusive 'Invite only' network, or do you want it to be very open and inclusive. There's no right answer, both are useful in different ways, but it would be good to state here._
 
 _E.g. How do you get invited to a gathering? Through invitation by a current Supporter after approval by their Family Facilitator or a Board Member._
 
-Life Itself obviously welcomes all kinds of participation. However for what we are terming members (and this phrasing or definition could change in future) this or something similar would be likely.
+AET obviously welcomes all kinds of participation. However for what we are terming members (and this phrasing or definition could change in future) this or something similar would be likely.
 
 
 ## What is a (major) initiative?
@@ -408,11 +440,11 @@ _There's potentially a conflict of interest in the structure for the asset lock:
 We are continuing to think about this, especially as we set up the charity.
 
 
-## What decisions are the remit of The Board, and what decisions are the remit of the Voting Pioneers?
+## What decisions are the remit of The Board, and what decisions are the remit of the Voting Shareholders?
 
-Plan is voting pioneers would control things like allocations to projects from projects fund.
+Plan is voting shareholders would control things like allocations to projects from projects fund.
 
-At present, given the early stage of Life Itself we are operating a bit like Damanhur at the start where they had much more executive direction and we similarly incline to more authority to the board.
+At present, given the early stage of AET we are operating a bit like Damanhur at the start where they had much more executive direction and we similarly incline to more authority to the board.
 
 
 ## What about other self-development conditions for board members?
@@ -422,7 +454,7 @@ _At present, you specify doing the "Landmark Forum” as a prerequisite for boar
 We encourage all forms of personal and professional development and transformation. At the same time, we find it very valuable for the Board to have some kind of shared foundation and common language to complement the different practices board members may be doing.
 
 
-## What about dividing Life Itself into two complementary orgs – “associates” and “network”?
+## What about dividing Art Earth Tech into two complementary orgs – “associates” and “network”?
 
 _MAIN COMMENT: I think you may actually be best set up as two parallel organisations here. Art/Earth/Tech as I see it does two totally valuable but actually rather distinct things:_
 
@@ -432,9 +464,9 @@ _The for-profit arm with paid projects, investments and enterprises. It makes se
 
 _2. Art/Earth/Tech NETWORK_
 
-_The not-for-profit arm. A community of people. It would be great if this was a more democratic organisation so that members feel equal to one another. A member-led organisation would have a greater sense of ownership and fairness, and encourage more commitment and input from members. One way to do this would be for each family to elect their own facilitators (1 or 2 people), and that the board of the Life Itself Network to be made up of the family facilitators. The Life Itself Network would then be responsible for organising Gatherings, Springs, Family groups and peer-to-peer support on a not-for-profit basis._
+_The not-for-profit arm. A community of people. It would be great if this was a more democratic organisation so that members feel equal to one another. A member-led organisation would have a greater sense of ownership and fairness, and encourage more commitment and input from members. One way to do this would be for each family to elect their own facilitators (1 or 2 people), and that the board of the AET Network to be made up of the family facilitators. The AET Network would then be responsible for organising Gatherings, Springs, Family groups and peer-to-peer support on a not-for-profit basis._
 
-_Basically, I think what Life Itself is doing is totally wonderful, but that the current structure conflates two quite distinct functions. I think that separating off the network as a more democratic service space where things are freely and generously given will attract lots more energy into the organisation, make it more sustainable and give it opportunities for great growth and to attract different types of funding. It will also mean that business arm can be a more simplified, streamlined organisation that can be justifiably exclusive._
+_Basically, I think what AET is doing is totally wonderful, but that the current structure conflates two quite distinct functions. I think that separating off the network as a more democratic service space where things are freely and generously given will attract lots more energy into the organisation, make it more sustainable and give it opportunities for great growth and to attract different types of funding. It will also mean that business arm can be a more simplified, streamlined organisation that can be justifiably exclusive._
 
 _If the two types of organisations are mixed together, there's a risk of the lower levels of membership feeling disaffected and unmotivated. They could put in lots of voluntary work into an organisation that essentially the Level 3 founding members forever have control and ownership of._
 
