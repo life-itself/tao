@@ -44,9 +44,9 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 
 1. Login in to your email account and check it. See below.
 2. Setup your accounts on the systems we use. See below. Do this before the next step!
-3. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Datopian email.
+3. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email.
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
-5. Setup your [laptop as per these instructions][laptop].
+5. Setup your [laptop as per these Datopian instructions][laptop].
 6. Read about [Working with Us]
 
 [Working with Us]: /working-with-us/
