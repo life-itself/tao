@@ -50,10 +50,10 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # Participate
 * Hubs
-  * [Co-living Model](/coliving/)
   * [Hub Context](/context)
   * [Onboarding as a Hub Resident](/hubs)
   * [Residents' Agreement and Principles](/hubs/agreement/)
+  * [Co-living Model](/coliving/)
 * Onboarding as a team member
   * [Onboarding Guide](/onboarding/)
   * [Onboarding FAQs](/onboarding-faq/)
@@ -67,4 +67,3 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * Glossary
 * Further reading
 * Bibliography
-
