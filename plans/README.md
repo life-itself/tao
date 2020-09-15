@@ -1,6 +1,6 @@
-# 2019 and 2020 Plans
+# Yearly Plans
 
-## Purpose, Pillars and Programs 2020
+## 2020 Plan
 
 ### Purpose
 
