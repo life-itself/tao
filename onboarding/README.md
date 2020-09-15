@@ -149,14 +149,10 @@ This is my exciting onboarding issue! 🌱
 * [ ] Get running on todoist
   * [ ] Install todoist
   * [ ] 📝 Tell Rufus your email/username so he can add you to share projects there
-* [ ] Read about SCQH: https://playbook.datopian.com/scqh/#issue-tree-template-spreadsheet
-* [ ] Read the PA guide in notebook: https://gitlab.com/rufuspollockorg/notebook/-/blob/master/abc/pa-va-guide.md
+* [ ] Read about SCQH: https://playbook.datopian.com/scqh/
 * [ ] *Really* read about [job stories](http://playbook.datopian.com/job-stories/) (and user stories)
   * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
-* [ ] 📝 At end: notify Rufus if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that I can quickly find all your comments. 
-* [ ] Install Zotero (desktop app)
-  * [ ] Get a username and tell Rufus
-  * [ ] After being given access, sync the materials (you will need to enter your username/pw) 
+* [ ] 📝 At end: notify your onboarder if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that I can quickly find all your comments. 
 ```
 
 ### Google Drive
