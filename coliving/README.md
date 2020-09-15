@@ -1,5 +1,8 @@
 # Co-Living at Life Itself
 
+
+*This document was last updated in 2018. It may now be out of date. For the latest information on the hubs at Life Itself, please see lifeitself.us/hubs*
+
 ## Introduction
 
 Co-living for us means living in community. It is both a way for us to concretely practicing our values and vision *and* it is a material exemplar of this vision -- i.e. a demonstration that we can live more wisely an well. Co-living is a path to strengthening our community and transforming ourselves and our society through the fostering of a shared culture. It helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that a different path is possible.
