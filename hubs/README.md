@@ -4,7 +4,7 @@
 
 Hubs are central to Life Itself's mission to create a weller, wiser world. Hubs house members of the Life Itself community, and create a welcoming space to live and be, to share and connect. 
 
-Life Itself has three hubs: London, Berlin, and and La Cheraille (a 30 minute train from Paris). Visit our website to [discover more about our hubs](https://lifeitself.us/hubs/). 
+Life Itself currently has two hubs: Berlin and Bergerac. Visit our website to [discover more about our hubs](https://lifeitself.us/hubs/). 
 
 ## Agreement
 
@@ -52,7 +52,7 @@ From the [Life Itself manifesto](https://lifeitself.us/manifesto/):
 
 ### What's the rent?
 
-Rents vary according to the location and size of the room/apartment. In London, rents range from between £680-900/month. 
+Rents vary according to the location and size of the room/apartment. In Berlin, rents range from between €680-€1,050/month. 
 
 ### Do I get to own my space?
 
@@ -60,7 +60,7 @@ Please see the [Co-living model](https://tao.lifeitself.us/coliving) for details
 
 ### Can I make changes to the building/space?
 
-From the [terms and conditions of residency](https://artearthtech.com/hubs/apply/):
+From the [terms and conditions of residency](https://lifeitself.us/apply/):
 >When leaving your residency we ask you to not leave any trace unless agreed, and put things back where you found them; to not colonise the space nor information (books, dvd’s etc.), and keep information, materials, equipment and spaces available as you found them.
 
 ### Who do I talk to if I have a question?
