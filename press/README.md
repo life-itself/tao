@@ -2,7 +2,7 @@
 
 ## What is Life Itself?
 
-Life Itself manages co-living spaces in London, Berlin, and La Cheraille (a 30-minute train ride from Paris). We also conduct research, and host workshops, events, and gatherings. 
+Life Itself manages co-living spaces in London, Berlin, and Bergerac. We also conduct research, and host workshops, events, and gatherings. 
 
 ## Why? The vision. 
 
@@ -20,11 +20,11 @@ We balance the spiritual and the rational. We like meditation as much as we like
 
 ## In 30 words
 
-Life Itself manages co-living spaces in London, Berlin, and La Cheraille, Paris. We create communities committed to realising a weller, wiser world, to solving collective action problems, and to getting things done.
+Life Itself manages co-living spaces in London, Berlin, and Bergerac in the South of France. We create communities committed to realising a weller, wiser world, to solving collective action problems, and to getting things done.
 
 ## In 100 words
 
-Life Itself manages co-living spaces in London, Berlin, and La Cheraille, Paris. We’re pragmatic utopians. We are committed to practical steps to create a world where individuals and societies are deeply and truly free. Our spaces allow people committed to realising a wiser, weller world to share and connect, laugh and play. They provide ready-made communities at the heart of urban life that give dreamers and thinkers, artists and poets, scientists and entrepreneurs a stable base from which to learn, grow, and get things done. 
+Life Itself manages co-living spaces in London, Berlin, and Bergerac in the South of France. We’re pragmatic utopians. We are committed to practical steps to create a world where individuals and societies are deeply and truly free. Our spaces allow people committed to realising a wiser, weller world to share and connect, laugh and play. They provide ready-made communities at the heart of urban life that give dreamers and thinkers, artists and poets, scientists and entrepreneurs a stable base from which to learn, grow, and get things done. 
 
 ## In 300 words
 
@@ -48,7 +48,7 @@ Life Itself has worked with the Rockefeller Foundation, Plum Village, IPPR, CRI 
 
 #### Hubs
 
-Life Itself has three co-living venues: London, Berlin, and La Cheraille. These “hubs” are central to Life Itself’s mission of bringing together value-aligned people to tackle the collective action problems that threaten our future. They exist as a living, breathing representation of Life Itself’s culture, and provide a ready-made community for those eager to make a difference. Read more about our hubs here: https://lifeitself.us/hubs/
+Life Itself has three co-living venues: London, Berlin, and Bergerac in the South of France. These “hubs” are central to Life Itself’s mission of bringing together value-aligned people to tackle the collective action problems that threaten our future. They exist as a living, breathing representation of Life Itself’s culture, and provide a ready-made community for those eager to make a difference. Read more about our hubs here: https://lifeitself.us/hubs/
 
 #### The Gathering
 
