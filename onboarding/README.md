@@ -147,13 +147,12 @@ This is my exciting onboarding issue! 🌱
 * [ ] Read about getting things done
   * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
-* [ ] Get running on todoist
+* [ ] Get running on todoist (todoist is an inbox for the initial capture of tasks. You should then create issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done)
   * [ ] Install todoist
-  * [ ] 📝 Tell Rufus your email/username so he can add you to share projects there
 * [ ] Read about SCQH: https://playbook.datopian.com/scqh/
 * [ ] *Really* read about [job stories](http://playbook.datopian.com/job-stories/) (and user stories)
   * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
-* [ ] 📝 At end: notify your onboarder if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that I can quickly find all your comments. 
+* [ ] 📝 At end: notify your onboarder if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that they can quickly find all your comments. 
 ```
 
 ### Google Drive
