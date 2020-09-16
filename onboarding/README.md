@@ -243,7 +243,7 @@ We use Google Drive for all internal documents. We also use HackMD.
 
 ### Standups
 
-Standups are part of the [agile methodology][agile]. Agile is a project management tool, and standups are a way of outlining what you intend to work on that day. Their purpose is to:
+Standups are part of the [agile methodology][https://playbook.datopian.com/agile/]. Agile is a project management tool, and standups are a way of outlining what you intend to work on that day. Their purpose is to:
 
 * Keep the team in sync
 * Identify blockers 
