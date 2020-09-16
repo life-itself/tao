@@ -249,9 +249,7 @@ Standups are part of the [agile methodology][agile]. Agile is a project manageme
 * Identify blockers 
 * Deal with issues arising (e.g. need to reprioritize in the face of an arising issue or change in estimate)
 
-Traditionally, standups are done verbally "in person" (in a live team meeting e.g. on video). Life Itself holds standup every weekday at 9:45 CET. However, we have found it useful[^why] to provide the standup in a written form and post it on chat. Thus, team members SHOULD provide a daily *written* "standup" update on the Standup channel on chat. The form of standup, either written or verbal, is as follows:
-
-[^why]: Why have we found this useful? First, written updates are easier to follow. Second, if some team members can't make standup they can still get the updates.
+Traditionally, standups are done verbally "in person" (in a live team meeting e.g. on video). Life Itself holds standup every weekday at 17:15 CET. Your Onboarder will invite you to the standup event on Google calendar. If you can't attend a standup call, you should post your standup in a written form in our Whatsapp group so that your team members still get an update. The form of standup, either written or verbal, is as follows:
 
 * Plan (What is your plan for today?)
 * Recap (What did you accomplish yesterday?)
