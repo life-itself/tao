@@ -5,10 +5,10 @@ Welcome to Life Itself! 👣 🌱
 This guide provides you with a simple step by step process to get set up at Life Itself so that you are ready to go. We have designed it to be largely self-service so you can do it on your own, at your own pace.
 
 :::tip Feedback 📣
-We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (they will get reviewed before they go live!). Or you can leave comments using Hypothesis (see below).
+We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (please check in with your Onboarder first). Or you can leave comments using Hypothesis (see below).
 :::
 
-:::tip Datopian refereences
+:::tip Datopian references
 Some of the links you'll see in this guide will take you to the onboarding guide for Datopian, an organisation that collaborates with Life Itself and shares much of the same culture.
 :::
 
@@ -46,7 +46,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 2. Setup your accounts on the systems we use. See below. Do this before the next step!
 3. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email.
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
-5. Setup your [laptop as per these Datopian instructions][laptop].
+5. Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
 6. Read about [Working with Us]
 
 [Working with Us]: /working-with-us/
@@ -65,7 +65,7 @@ Sign in and check your account for any email you may have already received.
 
 You now need to create an account on each of these. Please make sure you set up Gravatar first. 
 
-When you set up systems, try to pick usernames that will be easy for others to remember (e.g. using your first and last name is ideal).
+When you set up systems, try to pick usernames that will be easy for others to remember. Using your first and last name is ideal.
 
 * Bitwarden -- https://bitwarden.com (password manager). Use Bitwarden to store your passwords as you work through the onboarding process.
 * Gravatar -- https://gravatar.com. **You need to do this before any of the steps below so your Gravatar is used on the other accounts you create.** 
@@ -73,10 +73,12 @@ When you set up systems, try to pick usernames that will be easy for others to r
 	* You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
 	* When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
 	* [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
-* Github -- https://www.github.com
-* GitLab -- https://gitlab.com. At Life Itself we use Github and Gitlab for collaborating on projects and deploying our website. 
+* GitLab -- https://gitlab.com. At Life Itself we use Gitlab for collaborating on projects and deploying our website. 
 * HackMD -- https://hackmd.io. HackMD is a tool for collaborating on documents with others (it's a bit like Google docs, but it uses a language called MarkDown, which we'll look at in more detail later in the onboarding process).
 * Hypothesis -- https://web.hypothes.is/start/ Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in hypothesis and link them to your comment stream because they may miss them otherwise. 
+* Zotero (desktop app) -- We use Zotero to share texts and reading lists related to Life Itself
+    * Send your Zotero username to your Onboarder
+    * After being given access, sync the materials (you will need to enter your username/pw)
 
 ---
 
@@ -118,7 +120,6 @@ This is my exciting onboarding issue! 🌱
 
 * [ ] Have created this issue in GitLab 😄
 * [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
-* [ ] On GitHub I have made my membership of Life Itself public @ https://github.com/orgs/life-itself/people and it's visible on my profile and on https://github.com/life-itself
 * [ ] I have access to GDrive
   * [ ] Have created my Email signature 
     * [ ] Copy our email signature template: https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c
@@ -166,7 +167,7 @@ The Onboarder will have granted you access to relevant Team Drives, so you can a
 
 #### Create your E-mail signature
 
-Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account.
+Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account. To do this, 
 
 #### Install default styles
 
