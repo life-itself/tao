@@ -133,8 +133,6 @@ This is my exciting onboarding issue! 🌱
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
   * [ ] Confirmed I have the daily standup in my calendar
-* [ ] Download and install Discord
-  * [ ] Go on Discord and message each other directly
 * [ ] Standups
   * [ ] Write a standup in Gitlab
 * [ ] Meetings
