@@ -8,7 +8,7 @@ Life Itself currently has two hubs: Berlin and Bergerac. Visit our website to [d
 
 ## Agreement
 
-The [Residents' Agreement](./agreement/) applies to both long-term residents and guests.
+The [Residents' Agreement](https://tao.lifeitself.us/hubs/agreement/) applies to both long-term residents and guests.
 
 ## Our Principles and Practices
 
@@ -55,7 +55,7 @@ Please see the [Co-living model](https://tao.lifeitself.us/coliving) for details
 
 ### Can I make changes to the building/space?
 
-From the [terms and conditions of residency](https://lifeitself.us/apply/):
+From the [terms and conditions of residency](https://tao.lifeitself.us/hubs/agreement/#further-terms-and-conditions):
 >When leaving your residency we ask you to not leave any trace unless agreed, and put things back where you found them; to not colonise the space nor information (books, dvd’s etc.), and keep information, materials, equipment and spaces available as you found them.
 
 ### Who do I talk to if I have a question?
