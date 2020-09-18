@@ -8,16 +8,12 @@ Life Itself currently has two hubs: Berlin and Bergerac. Visit our website to [d
 
 ## Agreement
 
-The [Residents' Agreement](./agreement/) is for both long-term residents and guests.
+The [Residents' Agreement](./agreement/) applies to both long-term residents and guests.
 
 ## Our Principles and Practices
 
-Many of our principles and practices can be found in our [Residents' Agreement](./agreement/). Below is a summary of some of the most important:
+Some of the most important principles and practices that we maintain to foster a community are [Beginning Anew](/beginning-anew/), [Five Mindfulness Trainings][5mt], and [Five Remembrances](/five-remembrances/). 
 
-* [Beginning Anew][ba] -- we suggest practicing this at least once per month in our hubs, usually around a communal meal. 
-* [Five Mindfulness Trainings][5mt]
-
-[ba]: /beginning-anew/
 [5mt]: /five-mindfulness-trainings/
 
 ### Community
@@ -44,15 +40,14 @@ From the [Life Itself manifesto](https://lifeitself.us/manifesto/):
 
 * What's shared/common and what's private? 
 * What time do we spend together? 
-* Can I eat meat? Can I drink?
-* Can my boyfriend/girlfriend stay?
+* Can I eat meat? Can I drink alcohol?
+* Can my partner stay?
 * Can my friends visit me?
 * How do you manage conflicts?
-* What practices do you have?
 
 ### What's the rent?
 
-Rents vary according to the location and size of the room/apartment. In Berlin, rents range from between €680-€1,050/month. 
+Rents vary according to the location and size of the room/apartment. For example, in Berlin, rents range from between €560-€680/month. 
 
 ### Do I get to own my space?
 
@@ -73,7 +68,7 @@ Life Itself is on a mission to make the world a wiser, weller place. For more in
 
 ### What is Life Itself's business model / mission?
 
-For more information, please see the [Co-living](https://tao.lifeitself.us/coliving) and [Governance](https://tao.lifeitself.us/governance) models at AET.
+For more information, please see the [Co-living](https://tao.lifeitself.us/coliving) and [Governance](https://tao.lifeitself.us/governance) models at Life Itself.
 
 ### How am I supposed to represent Life Itself? 
 
@@ -82,3 +77,15 @@ Please see the [Levels of Involvement](https://tao.lifeitself.us/governance/#lev
 ### What is the difference between Life Itself and Art/Earth/Tech?
 
 Art / Earth / Tech rebranded in 2020 to become Life Itself.
+
+### How does a typical week look like in the hub? 
+
+Below is an example of a timetable showcasing how communal life at our hubs could look like. In general, life in the community is what you make it, so feel free to add to the programme yourself!
+
+
+| Monday                           | Tuesday                           | Wednesday | Thursday                          | Friday                     |
+|----------------------------------|-----------------------------------|-----------|-----------------------------------|----------------------------|
+|                                  | Community Breakfast   (8:15-9:00) |           | Community Breakfast  (8:15-9:00)  |                            |
+| Workshop by a hubmember   (6-8pm) | Workshop by a hubmember  (6-8pm)  |           | Community Practice       (6-8 pm) | Community Dinner  (6-8 pm) |
+
+
