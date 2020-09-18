@@ -91,12 +91,24 @@ This applies only if the guest joins the shared communal food:
 *   Care should be taken to not disrupt the mindful atmosphere of the Hub
 *   Where possible, we aim to let the group know what we are up to, so that we can have open-communication, take care of each other and know what to do in emergencies
 
-### HUB Space
+### Hub Space
 
 *   The Hub is intended to act as a space for a wider community as well as the Hub residents. We intend to be welcoming and inviting to others, and be generous-spirited to others being in the space.
 *   As with any issues within the resident community it is important that we voice promptly anything that is not working for us so that it can get resolved.
 *   We intend to use the spaces in our Hub to occasionally host groups from the wider community (e.g. mindfulness or community groups). While only some of us may be involved in organising a particular group, we all intend to be welcoming to the space being used in this way occasionally.
 *   Hub dinners have an optional donation or bring a dish. 
+
+## Further Terms and conditions
+
+* You will need to agree that Life Itself is not liable for any damage to you or your property.
+* You are expected to participate in the community and care for the home (eg: cooking, cleaning). Each home may have additional fees (eg: contribution of communal meals).
+* Life Itself provides bedcover, sheets, pillow cover and towel.
+* When leaving your residency we ask you to not leave any trace unless agreed, and put things back where you found them; to not colonise the space with information (books, dvd’s etc.), and keep information, materials, equipment and spaces available as you found them.
+* We will not pick you up at train stations or airports, meaning that you have to come by your own means.
+* Hubs can not take animals.
+* Residencies are for individuals and we don’t offer it to partners. If you want to come with a partner please contact us and we can discuss this.
+* Payment is by bank transfer or Paypal within two weeks of receipt of your acceptance to the residency (if this is a problem this can be discussed).
+* You are responsible for obtaining any relevant travel permissions including visas (Life Itself may be able to provide you with a letter of support).
 
 ## Why?
 
