@@ -50,9 +50,9 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # Participate
 * Hubs
-  * [Hub Context](/context)
   * [Onboarding as a Hub Resident](/hubs)
   * [Residents' Agreement and Principles](/hubs/agreement/)
+  * [Hub Context](/context)
   * [Co-living Model](/coliving/)
 * Onboarding as a team member
   * [Onboarding Guide](/onboarding/)
