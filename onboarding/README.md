@@ -278,7 +278,7 @@ We recommend you look at the reading below as part of your onboarding:
 
 ## Getting Help and Finding Stuff
 
-We're fully remote so our equivalents of all the standard office chatting takes place either in Google Chat, Whatsapp 💬 or on video calls. 📺
+We're fully remote so our equivalents of all the standard office chatting takes place either in Google Chat, Whatsapp 💬  or on video calls. 📺
 
 If you need help, just message anyone directly and they'll be happy to help -- we are a friendly bunch. 🤗
 
