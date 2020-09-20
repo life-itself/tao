@@ -123,8 +123,6 @@ This is my exciting onboarding issue! 🌱
 * [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
 * [ ] I have access to GDrive
   * [ ] Have created my Email signature 
-    * [ ] Copy our email signature template: https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c
-    * [ ] Go to 'all settings' in gmail and scroll down to update your email signature
   * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).
 * [ ] Calendar
   * [ ] [settings] Add working hours
@@ -165,7 +163,7 @@ The Onboarder will have granted you access to relevant Team Drives, so you can a
 
 #### Create your E-mail signature
 
-Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account. To do this, 
+Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account. To do this, go to 'all settings' in gmail and scroll down to update your email signature.
 
 #### Install default styles
 
