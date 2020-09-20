@@ -76,11 +76,11 @@ When you set up systems, try to pick usernames that will be easy for others to r
 	* [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
 * GitLab -- https://gitlab.com. At Life Itself we use Gitlab for collaborating on projects and deploying our website. 
 * HackMD -- https://hackmd.io. HackMD is a tool for collaborating on documents with others (it's a bit like Google docs, but it uses a language called MarkDown, which we'll look at in more detail later in the onboarding process).
-* Hypothesis -- https://web.hypothes.is/start/ Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in hypothesis and link them to your comment stream because they may miss them otherwise. 
-* Zotero (desktop app) -- We use Zotero to share texts and reading lists related to Life Itself
+* Hypothesis -- https://web.hypothes.is/start/ Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in Hypothesis.
+* Zotero (desktop app) -- https://www.zotero.org/. We use Zotero to share texts and reading lists related to Life Itself
     * Send your Zotero username to your Onboarder
-    * After being given access, sync the materials (you will need to enter your username/pw)
-
+    * After being given access, sync the Life Itself library (you will need to enter your username/pw)
+* Todoist -- https://todoist.com/. Todoist is an inbox for the initial capture of tasks. You should still create Gitlab issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done.
 ---
 
 
@@ -123,7 +123,7 @@ This is my exciting onboarding issue! 🌱
 * [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
 * [ ] I have access to GDrive
   * [ ] Have created my Email signature 
-  * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).
+  * [ ] Doc Styles are set. Test by creating a google doc and checking that default doc styles are automatically applied (you can delete this document afterwards).
 * [ ] Calendar
   * [ ] [settings] Add working hours
   * [ ] [settings] Check if your time zone is correct
@@ -131,7 +131,7 @@ This is my exciting onboarding issue! 🌱
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
-  * [ ] Confirmed I have the daily standup in my calendar
+  * [ ] Confirmed I have the daily standup and fortnightly sprint meetings in my calendar
 * [ ] Standups
   * [ ] Write a standup in Gitlab
 * [ ] Meetings
@@ -144,8 +144,6 @@ This is my exciting onboarding issue! 🌱
 * [ ] Read about getting things done
   * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
-* [ ] Get running on todoist (todoist is an inbox for the initial capture of tasks. You should then create issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done)
-  * [ ] Install todoist
 * [ ] Read about SCQH: https://playbook.datopian.com/scqh/
 * [ ] *Really* read about [job stories](http://playbook.datopian.com/job-stories/) (and user stories)
   * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
@@ -158,18 +156,18 @@ After setting up your email address, you will have access to **GSuite**, and of 
 
 The Onboarder will have granted you access to relevant Team Drives, so you can access and store the information / documents you require.
 
-* Any new documents / sheets /presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture and avoids having to explicitly share files with people.
+* Any new documents / sheets / presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture and avoids having to explicitly share files with people.
 * If you require access to files that you currently don't have access to, please reach out to your Onboarder.
 
 #### Create your E-mail signature
 
-Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account. To do this, go to 'all settings' in gmail and scroll down to update your email signature.
+Please implement this [E-mail signature template](https://docs.google.com/document/d/15asO0IVqAyUJrv0RHT6IkXAD3-kiUfN0mOj9LSqJH1c/edit?usp=sharing) into your gmail account. To do this, go to 'all settings' in Gmail and scroll down to update your email signature.
 
 #### Install default styles
 
-We want our documents to look neat and coherent so we set up default styles for Life Itself. Follow the steps below to set up default styles for your documents in Drive.
+We use default styles for Life Itself so that our documents look neat and coherent. Follow the steps below to set up default styles for your documents in Drive.
 
-* Go into  [Doc Style Template](https://docs.google.com/document/d/1f_k9PSY44CXi39Pm9jKBmXdjsD1N0PpjPVtqE-HHhb4/edit#) 
+* Go into [Doc Style Template](https://docs.google.com/document/d/1f_k9PSY44CXi39Pm9jKBmXdjsD1N0PpjPVtqE-HHhb4/edit#) 
 * Then, click the menu item *Format → Paragraph Styles → Options → SAVE as my default styles*
 
 Test it:
@@ -179,8 +177,6 @@ Test it:
 * Check the styles are correct: compare with the styles in the template.
 
 ### Calendar
-
-You have been given access to create, edit and share in Life Itself Team calendar. We use the team calendar to track people's holidays and business trips.
 
 It is expected that you keep your calendar up to date, so that if it shows as free, that means a colleague can add a meeting during that period.
 
@@ -219,11 +215,11 @@ async --> email[Email]
 ```
 #### Chat
 
-For quick messages that we won't need to refer back to, we use Google Chat and Whatsapp. Use email for longer messages and messages you may want to refer back to. You'll be added to any relevant groups as part of your onboarding.
+We use Google Chat and Whatsapp for quick messages of which there is no need to keep a record. We use email for longer messages and messages that someone may want to refer back to. You'll be added to relevant groups as part of your onboarding.
 
 #### Voice / Video calls
 
-Our default tool for video Google Hangouts and we also use Zoom. Video call links are automatically added to every meeting and are set up using our Google Apps calendar.
+Our default tools for video are Google Hangouts and Zoom. We add a video call link to every meeting set up in Google calendar.
 
 :::tip
 Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.
@@ -235,11 +231,11 @@ We use Gmail.
 
 #### Documents
 
-We use Google Drive for all internal documents. We also use HackMD.
+We use Google Drive for all internal documents. We also use HackMD to draft documents.
 
 ### Standups
 
-Standups are part of the [agile methodology][https://playbook.datopian.com/agile/]. Agile is a project management tool, and standups are a way of outlining what you intend to work on that day. Their purpose is to:
+Standups are part of the [agile methodology][https://playbook.datopian.com/agile/]. Agile is a project management tool, and standups are a way of outlining what you intend to work on over the next 24 hours. Their purpose is to:
 
 * Keep the team in sync
 * Identify blockers 
@@ -247,10 +243,10 @@ Standups are part of the [agile methodology][https://playbook.datopian.com/agile
 
 Traditionally, standups are done verbally "in person" (in a live team meeting e.g. on video). Life Itself holds standup every weekday at 17:15 CET. Your Onboarder will invite you to the standup event on Google calendar. If you can't attend a standup call, you should post your standup in a written form in our Whatsapp group so that your team members still get an update. The form of standup, either written or verbal, is as follows:
 
-* Plan (What is your plan for today?)
-* Recap (What did you accomplish yesterday?)
-* Blockers (Is there something getting in the way for you to complete your tasks)
-* Availability (What is your availability for today?)
+* Plan (What is your plan for the next 24 hours?)
+* Recap (What did you accomplish during the last 24 hours?)
+* Blockers (Is there something getting in the way of you completing your tasks)
+* Availability (What is your availability for the next 24 hours?)
 
 ```md
 * Last 24h: ...
@@ -265,7 +261,7 @@ Make sure to familiarise yourself with our [meeting protocol](https://playbook.d
 
 ### Markdown
 
-Markdown is a markup language with plain text formatting syntax. We often use markdown language based tools, including HackMD and GitLab.
+Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools, including HackMD and GitLab.
 
 If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopian.com/markdown/)
 
@@ -276,13 +272,13 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 
 We recommend you look at the reading below as part of your onboarding:
 
-* Read [The Tao of Life Itself](https://tao.lifeitself.us/culture/) for an introduction to how the principles behind Life Itself.
+* Read [The Tao of Life Itself](https://tao.lifeitself.us/culture/) for an introduction to the principles behind Life Itself.
 * You can also have a quick look around https://lifeitself.us/.
 
 
 ## Getting Help and Finding Stuff
 
-We're fully remote so our equivalents of all the standard office chatting takes place online either in Discord 💬 or on video calls. 📺
+We're fully remote so our equivalents of all the standard office chatting takes place either in Google Chat, Whatsapp 💬 or on video calls. 📺
 
 If you need help, just message anyone directly and they'll be happy to help -- we are a friendly bunch. 🤗
 
