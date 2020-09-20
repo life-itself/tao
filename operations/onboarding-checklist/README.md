@@ -158,7 +158,7 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 2. **Create accounts / send invitations** on systems where they can't create themselves
 
     * To add the Onboardee to Xero [see Xero access](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.v59x2fkuxkjt) and add their bank account details once received.
-
+    
 3. **Welcome Call Invitation**: Send them an invitation for a Welcome Call within the next days.
 
 4. **Welcome email:** Send them the welcome email to their Life Itself email.
