@@ -216,12 +216,12 @@ sync((Synchronous))
 async((Asynchronous))
 
 sync --> video[Video]
-async --> chat[Discord and Whatsapp]
+async --> chat[Google Chat and Whatsapp]
 async --> email[Email]
 ```
 #### Chat
 
-To chat, we use Discord and Whatsapp. You'll be added to any relevant groups as part of your onboarding.
+For quick messages that we won't need to refer back to, we use Google Chat and Whatsapp. Use email for longer messages and messages you may want to refer back to. You'll be added to any relevant groups as part of your onboarding.
 
 #### Voice / Video calls
 
