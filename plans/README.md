@@ -1,4 +1,4 @@
-# Yearly Plans
+# Annual Plans
 
 ## 2020 Plan
 
