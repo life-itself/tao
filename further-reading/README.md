@@ -4,7 +4,7 @@
 
 We believe that a radically better future can be realised — for ourselves, for our societies and for our planet. We are also deeply pragmatic; we are not simply dreaming of this future but intend to incrementally bring it about, and we are experimental and open-minded about how this can be done. In short, we are pragmatic utopians. https://lifeitself.us/2017/10/20/pragmatic-utopians/
 
-## Collective Blind Spots
+## Collective Blind Spots
 
 Cultures inculcate certain ways of thinking and seeing such that collective blindspots emerge; widespread failures within a culture to notice certain things about the world. We believe Western culture creates blindspots driven by individualistic thinking, an over-rating of the power of rationality and progress, and the equality complex. https://lifeitself.us/2019/10/25/introduction-to-our-collective-blind-spots/
 
