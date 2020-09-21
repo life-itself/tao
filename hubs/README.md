@@ -47,7 +47,7 @@ From the [Life Itself manifesto](https://lifeitself.us/manifesto/):
 
 ### What's the rent?
 
-Rents vary according to the location and size of the room/apartment. For example, in Berlin, rents range from between €560-€680/month. 
+Rents vary according to the location and size of the room/apartment. For example, in Berlin, rents range from between €560-€1015/month. 
 
 ### Do I get to own my space?
 
