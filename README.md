@@ -24,11 +24,34 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # About
 
-* [Press Pack](/press/): this is the narrative of Life Itself; a primer and resource on why we exist and what we are doing.
-* [SCQHs](/scqh/): this is our situation, complication, question, hypothesis, also known as our root cause analysis and/or theory of change.
-* For our work and impact: see [Initiatives](/initiatives/)
-* [Annual Plans](https://tao.lifeitself.us/plans/#background-purpose-pillars-and-programs)
-* [Life Itself Governance](/governance/)
+We’re pragmatic utopians. We are committed to practical action for a radically wiser, weller world. We create [coliving hubs][hubs], start [businesses][], do [research][] and engage in [activism][] to pioneer a wiser culture.
+
+[hubs]: https://lifeitself.us/hubs/
+[businesses]: https://lifeitself.us/businesses/
+[research]: https://lifeitself.us/institute/
+[activism]: https://lifeitself.us/activism/
+[scqh]: /scqh/
+
+Find out more about
+
+* Who we are: https://lifeitself.us/people/ and who do you work with: https://lifeitself.us/collaborators/
+* What we do: we run [coliving hubs][hubs]
+  * How do we make money: our hubs fund themselves through resident's rent, surplus for investment comes from our businesses and winning grants.
+* Why we do it: despite our wealth and technological power, many of us are not particularly happy, satisfied or at peace. We’re also bad at acting collectively for the common good -- e.g. we’re currently headed towards ecological disaster. Why won’t our current approach/trajectory solve this? Because our culture is grounded in materialism, technology and individualism doesn’t lead to wellbeing and limits our ability to address collective problems. We believe we need to change our culture: the views, values, beliefs, practices that underlie our collective way of being. And to do this we need to live or work together hence creating co-living spaces and businesses; and to spreading ideas through writing and events, ultimately creating a political movement. [Longer version: see our reason for the existence of Life Itself (SCQH)][scqh].
+* How it fits together: TODO diagram.
+* Our vision: a world that is wise, well and awake.
+* How we will achieve it: Being changes everything. We will spearhead a waking up, growing up, cleaning up culture. We want to make politics cool again to address collective challenges. These are key steps to a wiser, weller world for all beings.
+* How we started and how we got here: see https://lifeitself.us/about/story/
+* What have you done recently: please see https://lifeitself.us/blog/
+* How do I get involved: you can apply to be a fellow in a hub https://lifeitself.us/hubs/, work with us or one of our enterprises https://lifeitself.us/jobs/, or contact us to collaborate or contribute https://lifeitself.us/contact/.
+
+Further reading
+
+* Our medium term plans: see [Plans](/plans/)
+* Governance (who owns us? How are we run?): we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/)
+* Principles: read about our [core principles](/principles/)
+* Patterns: read about the [patterns we operate by](/patterns/)
+* All our initiatives: see [Initiatives](/initiatives/)
 
 # Initiatives
 
@@ -64,6 +87,10 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
   * Time off
 
 # Reference
+
 * Glossary
 * Further reading
 * Bibliography
+* [Press Pack](/press/): this is the narrative of Life Itself; a primer and resource on why we exist and what we are doing.
+* [SCQHs](/scqh/): this is our situation, complication, question, hypothesis, also known as our root cause analysis and/or theory of change.
+
