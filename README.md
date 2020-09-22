@@ -24,7 +24,7 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # About
 
-We’re pragmatic utopians. We are committed to practical action for a radically wiser, weller world. We create [coliving hubs][https://lifeitself.us/hubs/], start [businesses][https://lifeitself.us/businesses/], do [research][https://lifeitself.us/institute/] and engage in [activism][https://lifeitself.us/activism/] to pioneer a wiser culture.
+We’re pragmatic utopians. We are committed to practical action for a radically wiser, weller world. We create (coliving hubs)[https://lifeitself.us/hubs/], start (businesses)[https://lifeitself.us/businesses/], do (research)[https://lifeitself.us/institute/] and engage in (activism)[https://lifeitself.us/activism/] to pioneer a wiser culture.
 
 ## Find out more
 
