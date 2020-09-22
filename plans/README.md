@@ -1,15 +1,15 @@
 # Annual Plans
 
-## Vision
+## Visions
 
-### Short-Term Vision
-We have ongoing research, hub creation and rennovation, community building, and contemplative activism projects. You can find out more about what we are [up to here] (https://meet.google.com/linkredirect?authuser=1&dest=https%3A%2F%2Ftao.lifeitself.us%2Finitiatives) or visit our [blog] (https://lifeitself.us/blog/). 
+### Short-Term 
+We have ongoing research, hub creation and rennovation, community building, and contemplative activism projects. You can find out more about what we are [up to here](https://meet.google.com/linkredirect?authuser=1&dest=https%3A%2F%2Ftao.lifeitself.us%2Finitiatives) or visit our [blog](https://lifeitself.us/blog/). 
 
-### Medium-Term Vision
+### Medium-Term 
 
 We aim to find more pioneers, contributers, and supporters to share our culture and commitment to practical action, both through the creation of new (Bergerac) and the expansion of existing (Berlin) hubs, and by increasing our outreach, generating more money to expand, and improving our branding. 
 
-### Long-Term Vision
+### Long-Term 
 
 Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, practices and ideals). These communities will engage with broader society and ally with like-minded groups commited to transform society and to practical action, including large scale political efforts to address collective challenges. 
  
