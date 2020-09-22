@@ -2,17 +2,13 @@
 
 ## Visions
 
-### Short-Term
+### The Next Five Years
 
-We post monthly updates of our activities on our [blog](https://lifeitself.us/blog/). 
+Over the next 5 years we will continue to grow and share our culture and commitment to practical action by creating and expanding co-living hubs, increasing our outreach, generating more money to expand and improving our branding. We will begin a big vision conversation about societal transformation which enters mainstream discourse. If you would like more detail, read on for our 2019 and 2020 plans. If you want to know what we've been up to on a monthly basis, check out the updates on our [blog](https://lifeitself.us/blog/).
 
-### Medium-Term 
+### Long-Term
 
-We have ongoing research, hub creation, community building and contemplative activism projects. Over the next 3 - 5 years we aim to find more pioneers, contributers, and supporters to share our culture and commitment to practical action, both through the creation of new (Bergerac) and the expansion of existing (Berlin) hubs, and by increasing our outreach, generating more money to expand, and improving our branding. If you want more detail about our plans for the medium-term,  read our annual plans below.
-
-### Long-Term 
-
-Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, practices and ideals). These communities will engage with broader society and ally with like-minded groups commited to transform society and to practical action, including large scale political efforts to address collective challenges.
+Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, practices and ideals). These communities will engage with broader society and ally with like-minded groups commited to transforming society and to practical action, including large scale political efforts to address collective challenges.
  
 See the full [SCQH](/scqh/) for context.
 
