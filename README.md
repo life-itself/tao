@@ -24,19 +24,17 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # Find out more
 
-* **Who are Life Itself?** [Our team](https://lifeitself.us/people/) and [who we work with](https://lifeitself.us/collaborators/). 
+* **Who are Life Itself?** Read about [our team](https://lifeitself.us/people/), [who we work with](https://lifeitself.us/collaborators/) and [our history](https://lifeitself.us/about/story/). 
 * **How do you make money?** Our hubs fund themselves through residents' rent, and surplus for investment comes from our businesses and winning grants.
-* **What is your vision?** A world that is wise, well and awake. See [visions](https://tao.lifeitself.us/plans/#visions) for our short-, medium- and long-term visions. 
-* **Why are you pursuing your vision?** The culture of Western society, grounded in materialism, technology and individualism, doesn’t lead to wellbeing and limits our ability to address collective problems. We believe that being changes everything. To change society we need to change our culture: the views, values, beliefs and practices that underlie our collective way of being. These are key steps to a wiser, weller world for all beings. [Longer version: see our reason for the existence of Life Itself (SCQH)][scqh].
-* **How will you achieve this?** We are creating co-living spaces and businesses that embody our values and sharing our ideas through research and events, with the ultimate aim of creating a big vision conversation and a political movement. Read more about our [Plans](/plans/).
+* **What is your vision?** A world that is wise, well and awake. See [visions](https://tao.lifeitself.us/plans/#visions) for our short-, medium- and long-term visions.
+* **Why are you pursuing your vision?** The culture of Western society, grounded in materialism, technology and individualism, doesn’t lead to wellbeing and limits our ability to address collective problems. To change society we need to change our culture: the views, values, beliefs and practices that underlie our collective way of being. These are key steps to a wiser, weller world for all beings. To read more, see our [reasons for the existence of Life Itself](/scqh/).
+* **How will you achieve your vision?** We are creating co-living spaces and businesses that embody our values and sharing our ideas through research and events, with the ultimate aim of creating a big vision conversation and a political movement. Read more about our [Plans](/plans/) and see a complete list of our current [initiatives](/initiatives/).
 * **How does it all fit together?** TODO diagram.
-* **What is your history?** see [our story](https://lifeitself.us/about/story/). 
 * **What have you done recently?** please see [our blog](https://lifeitself.us/blog/). 
 * **How can I get involved?** you can apply to be a fellow in a [hub](https://lifeitself.us/hubs/), work with us or one of our [enterprises](https://lifeitself.us/jobs/), or [contact us](https://lifeitself.us/contact/) us to collaborate or contribute.
-* **Who owns Life Itself?**: we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/)
-* **What is your organisational culture?**: read about our [core principles](/principles/)
-* **How do you work?**: read about the [patterns we operate by](/patterns/)
-* **What projects are you working on?**: see [Initiatives](/initiatives/)
+* **What is your organisational culture?**: read about our [core principles](/principles/).
+* **How do you work?**: read about the [patterns we operate by](/patterns/).
+* **Who owns Life Itself?**: we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/).
 
 # Culture
 
