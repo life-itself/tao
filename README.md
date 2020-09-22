@@ -10,7 +10,7 @@ footer: Copyright © 2016-present Art / Earth / Tech
 
 # Welcome
 
-Welcome to our community. We’re pragmatic utopians, committed to practical action for a radically wiser, weller world. 
+Welcome to our community. We’re pragmatic utopians, committed to practical action for a radically wiser, weller world. We create [coliving hubs](https://lifeitself.us/hubs/), start [businesses](https://lifeitself.us/businesses/), do [research](https://lifeitself.us/institute/) and engage in [activism](https://lifeitself.us/activism/) to pioneer a wiser culture.
 
 ## How to Read the Way
 
@@ -22,11 +22,7 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 [^1]: Adapted from John Cleary's introduction to the Blue Cliff Record.
 
-# About
-
-We create [coliving hubs](https://lifeitself.us/hubs/), start [businesses](https://lifeitself.us/businesses/), do [research](https://lifeitself.us/institute/) and engage in [activism](https://lifeitself.us/activism/) to pioneer a wiser culture.
-
-## Find out more
+# Find out more
 
 * **Who are Life Itself?** [Our team](https://lifeitself.us/people/) and [who we work with](https://lifeitself.us/collaborators/). 
 * **How do you make money?** Our hubs fund themselves through residents' rent, and surplus for investment comes from our businesses and winning grants.
@@ -37,9 +33,6 @@ We create [coliving hubs](https://lifeitself.us/hubs/), start [businesses](https
 * **What is your history?** see [our story](https://lifeitself.us/about/story/). 
 * **What have you done recently?** please see [our blog](https://lifeitself.us/blog/). 
 * **How can I get involved?** you can apply to be a fellow in a [hub](https://lifeitself.us/hubs/), work with us or one of our [enterprises](https://lifeitself.us/jobs/), or [contact us](https://lifeitself.us/contact/) us to collaborate or contribute.
-
-Further reading
-
 * **Who owns Life Itself?**: we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/)
 * **What is your organisational culture?**: read about our [core principles](/principles/)
 * **How do you work?**: read about the [patterns we operate by](/patterns/)
