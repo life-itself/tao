@@ -113,7 +113,7 @@ This is my exciting onboarding issue! 🌱
 
 * [ ] I have access to Life Itself email
 * [ ] I have set up accounts on all the systems
-* [ ] I have submitted my bank account details
+* [ ] I have added by bank account details to Xero
 * [ ] I have submitted my details via the Phonebook form
 * [ ] I have set up my laptop
 
