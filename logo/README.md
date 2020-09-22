@@ -2,20 +2,20 @@
 
 ## Light Logo
 
-![Imgur](https://i.imgur.com/io5XVws.png)
+<img src="./lightlogo.png">
 
 ## Dark Logo
 
-![Imgur](https://i.imgur.com/a6xEb76.png)
+<img src="./darklogo.png">
 
 ## Light Logotype 1
 
-![Imgur](https://i.imgur.com/Fe6Z4i7.png)
+<img src="./lightlogotype1.png">
 
 ## Light Logotype 2
 
-![Imgur](https://i.imgur.com/ovcSikj.png)
+<img src="./lightlogotype2.png">
 
 ## Dark Logotype
 
-![Imgur](https://i.imgur.com/fx9jHcK.png)
+<img src="./darklogotype.png">
