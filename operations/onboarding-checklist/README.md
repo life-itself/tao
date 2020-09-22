@@ -4,7 +4,7 @@
 
 The onboarding process has been designed to be lean and simple.
 
-A member of the Ops team will produce a contract and initiate the onboarding process. The following is a guide for carrying this process out.
+A member of the Ops team will produce a contract and initiate the onboarding process. The following is a guide for carrying this process out with the Onboardee.
 
 ## User stories
 
@@ -23,7 +23,7 @@ I need to know:
 ```mermaid
 graph TD
 
-subgraph Onboarder
+subgraph "Onboarder"
   contract[Create Contract]
   send[Send Contract]
   gsuite[Create GSuite Account<br/>And send email]
@@ -34,7 +34,7 @@ subgraph Onboarder
   gsuite --> welcome
 end
 
-subgraph Onboardee
+subgraph "Onboardee"
   recc[Receive Contract]
   review[Review and Sign Contract]
   
@@ -46,7 +46,7 @@ subgraph Onboardee
   recc3 --> onboard[Visit<br/>Onboarding Guide]
 end
 
-subgraph Basics
+subgraph "Basics"
   onboard --> setup[Setup Accounts]
   setup --> phonebook[Add details to phonebook]
   phonebook --> emailob[Email Onboarder]
@@ -62,11 +62,17 @@ subgraph "Welcome / Getting Started"
   finishbasics --> context[Company Context]
   context --> onboardmeet[Onboarding Meeting]
 end
+
+end
 ```
 
 ## Onboarding Checklist: Issue template
 
-Please copy this checklist into an issue in the Ops group in Gitlab and complete the steps to ensure the Onboardee has everything they need.
+* Go to https://gitlab.com/lifeitself/ops/
+* Create a Gitlab issue to track the Onboarding process
+* Name it `Ops Onboarding {First Name} {Last Name} {Date}`
+* Copy and paste the checklist below into your GitLab issue
+* Complete the steps to ensure the Onboardee has everything they need.
 
 Next, scroll down for more detail on completing the steps.
 
