@@ -24,36 +24,26 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # About
 
-We’re pragmatic utopians. We are committed to practical action for a radically wiser, weller world. We create [coliving hubs][hubs], start [businesses][], do [research][] and engage in [activism][] to pioneer a wiser culture.
+We’re pragmatic utopians. We are committed to practical action for a radically wiser, weller world. We create [coliving hubs][https://lifeitself.us/hubs/], start [businesses][https://lifeitself.us/businesses/], do [research][https://lifeitself.us/institute/] and engage in [activism][https://lifeitself.us/activism/] to pioneer a wiser culture.
 
-[hubs]: https://lifeitself.us/hubs/
-[businesses]: https://lifeitself.us/businesses/
-[research]: https://lifeitself.us/institute/
-[activism]: https://lifeitself.us/activism/
-[scqh]: /scqh/
-
-Find out more about
+## Find out more
 
 * **Who are we?** [Our team](https://lifeitself.us/people/) and [who we work with](https://lifeitself.us/collaborators/). 
-* **How do we make money?** Our hubs fund themselves through resident's rent, and surplus for investment comes from our businesses and winning grants.
+* **How do we make money?** Our hubs fund themselves through residents' rent, and surplus for investment comes from our businesses and winning grants.
 * **What is our vision?** A world that is wise, well and awake. See [visions](https://tao.lifeitself.us/plans/#visions) for our short-, medium- and long-term visions. 
-* **Why do we do it?** Our culture, grounded in materialism, technology and individualism, doesn’t lead to wellbeing and limits our ability to address collective problems. We believe we need to change our culture: the views, values, beliefs, practices that underlie our collective way of being. And to do this we need to live or work together hence creating co-living spaces and businesses; and spread ideas through writing and events, ultimately creating a political movement. [Longer version: see our reason for the existence of Life Itself (SCQH)][scqh]. 
+* **Why do we do it?** The culture of Western society, grounded in materialism, technology and individualism, doesn’t lead to wellbeing and limits our ability to address collective problems. We believe that being changes everything. To change society we need to change our culture: the views, values, beliefs and practices that underlie our collective way of being. These are key steps to a wiser, weller world for all beings. [Longer version: see our reason for the existence of Life Itself (SCQH)][scqh].
 * **How does it fit together?** TODO diagram.
-* **How will we achieve it?** Being changes everything. We will spearhead a waking up, growing up, cleaning up culture. We want to make politics cool again to address collective challenges. These are key steps to a wiser, weller world for all beings. Read about our [Plans](/plans/). 
-* **How have we started and how did we get here?** see [our story](https://lifeitself.us/about/story/). 
+* **How will we achieve this?** We are creating co-living spaces and businesses that embody our values and sharing our ideas through research and events, with the ultimate aim of creating a big vision conversation and a political movement. Read more about our [Plans](/plans/).
+* **What is our history?** see [our story](https://lifeitself.us/about/story/). 
 * **What have you done recently?** please see [our blog](https://lifeitself.us/blog/). 
-* **How do I get involved?** you can apply to be a fellow in a [hub](https://lifeitself.us/hubs/), work with us or one of our [enterprises](https://lifeitself.us/jobs/), or [contact us](https://lifeitself.us/contact/) us to collaborate or contribute. 
+* **How do I get involved?** you can apply to be a fellow in a [hub](https://lifeitself.us/hubs/), work with us or one of our [enterprises](https://lifeitself.us/jobs/), or [contact us](https://lifeitself.us/contact/) us to collaborate or contribute.
 
 Further reading
 
-* Governance (who owns us? How are we run?): we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/)
-* Principles: read about our [core principles](/principles/)
-* Patterns: read about the [patterns we operate by](/patterns/)
-* All our initiatives: see [Initiatives](/initiatives/)
-
-# Initiatives
-
-* [Initiatives](/initiatives/)
+* **Who owns us?**: we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/)
+* **What is our organisational culture?**: read about our [core principles](/principles/)
+* **How do we work?**: read about the [patterns we operate by](/patterns/)
+* **What projects are we working on?**: see [Initiatives](/initiatives/)
 
 # Culture
 
