@@ -62,6 +62,12 @@ From the [terms and conditions of residency](https://tao.lifeitself.us/hubs/agre
 
 Every hub has a dedicated manager whom you will be able to contact with any queries. 
 
+### How are you governed? 
+
+In the hubs, we make many decisions collectively. In doing so, we respect each other, maintain our [principles](https://tao.lifeitself.us/principles/) and [resolve conflicts](https://tao.lifeitself.us/hubs/agreement/#communicating-resolving-conflicts) with integrity, determined to transform conflicts into positive growth.
+
+For information on how Life Itself is governed, please see [Governance](https://tao.lifeitself.us/governance/). 
+
 ### How long can I stay? 
 
 The residency is available for one week minimum to three months maximum. For more information or to apply please see [Short Stay](https://lifeitself.us/short-stay/). If you would like to stay with Life Itself long term, then please [apply](https://lifeitself.us/hubs/apply/) to one of our homes. 
