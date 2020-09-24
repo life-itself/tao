@@ -1,4 +1,4 @@
-# Onboarding as a Hub member 
+# Being a hub member 
 
 ## About The Hubs
 
@@ -62,6 +62,20 @@ From the [terms and conditions of residency](https://tao.lifeitself.us/hubs/agre
 
 Every hub has a dedicated manager whom you will be able to contact with any queries. 
 
+### How long can I stay? 
+
+The residency is available for one week minimum to three months maximum. For more information or to apply please see [Short Stay](https://lifeitself.us/short-stay/). If you would like to stay with Life Itself long term, then please [apply](https://lifeitself.us/hubs/apply/) to one of our homes. 
+
+### How does a typical week look like in the hub? 
+
+Below is an example of a timetable showcasing how communal life at our hubs could look like. In general, life in the community is what you make it, so feel free to add to the programme yourself!
+
+
+| Monday                           | Tuesday                           | Wednesday | Thursday                          | Friday                     |
+|----------------------------------|-----------------------------------|-----------|-----------------------------------|----------------------------|
+|                                  | Community Breakfast   (8:15-9:00) |           | Community Breakfast  (8:15-9:00)  |                            |
+| Workshop by a hubmember   (6-8pm) | Workshop by a hubmember  (6-8pm)  |           | Community Practice       (6-8 pm) | Community Dinner  (7:30-8:30 pm) |
+
 ### What am I part of?
 
 Life Itself is on a mission to make the world a wiser, weller place. For more information, visit [the About section of the website](https://lifeitself.us/about). 
@@ -77,15 +91,3 @@ Please see the [Levels of Involvement](https://tao.lifeitself.us/governance/#lev
 ### What is the difference between Life Itself and Art/Earth/Tech?
 
 Art / Earth / Tech rebranded in 2020 to become Life Itself.
-
-### How does a typical week look like in the hub? 
-
-Below is an example of a timetable showcasing how communal life at our hubs could look like. In general, life in the community is what you make it, so feel free to add to the programme yourself!
-
-
-| Monday                           | Tuesday                           | Wednesday | Thursday                          | Friday                     |
-|----------------------------------|-----------------------------------|-----------|-----------------------------------|----------------------------|
-|                                  | Community Breakfast   (8:15-9:00) |           | Community Breakfast  (8:15-9:00)  |                            |
-| Workshop by a hubmember   (6-8pm) | Workshop by a hubmember  (6-8pm)  |           | Community Practice       (6-8 pm) | Community Dinner  (7:30-8:30 pm) |
-
-
