@@ -52,11 +52,11 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 
 # Participate
 * Hubs
-  * [Onboarding as a Hub Resident](/hubs)
+  * [Being a Hub Member](/hubs)
   * [Residents' Agreement](/hubs/agreement/)
   * [Hub Context](/context)
   * [Co-living Model](/coliving/)
-* Onboarding as a team member
+* Onboarding as a Team Member
   * [Onboarding Guide](/onboarding/)
   * [Onboarding FAQs](/onboarding-faq/)
   * [Getting Things Done](/getting-things-done/)
