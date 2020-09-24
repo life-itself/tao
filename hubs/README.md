@@ -1,4 +1,4 @@
-# Being a hub member 
+# Being a Hub Member 
 
 ## About The Hubs
 
