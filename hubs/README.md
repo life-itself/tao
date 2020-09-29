@@ -74,7 +74,7 @@ The residency is available for one week minimum to three months maximum. For mor
 
 ### How does a typical week look like in the hub? 
 
-Below is an example of a timetable showcasing how communal life at our hubs could look like. In general, life in the community is what you make it, so feel free to add to the programme yourself!
+Below is an example of a timetable showcasing how communal life at our hubs could look like. The hubmembers collectively decide which practices are being put into place, so this is only a snippet of an evermoving process. In general, life in the community is what you make it, so feel free to add to the programme yourself! 
 
 
 | Monday                           | Tuesday                           | Wednesday | Thursday                          | Friday                     |
