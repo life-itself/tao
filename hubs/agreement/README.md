@@ -10,20 +10,20 @@ We are committed to living together in a way that cultivates wisdom, compassion 
 
 *   Shared meals are an important part of the ‘glue’ that holds our community together. 
 *   We share all our food, so anyone can eat anything in the kitchen unless it is clearly labelled otherwise.
-*   We are expected to have supper together once a week. Supper is cooked for 7:30pm (days will be specified in advance and can be adjusted by residents based on consensus). 
+*   We are expected to have supper together once a week. Days will be specified in advance and can be adjusted by residents based on consensus. 
 *   We have breakfast together twice a week.
 *   Shared meals are vegan/vegetarian and friendly towards people with other dietary requirements (e.g. gluten free). It is fine for people to supplement their own diet with meat or fish, but this isn’t cooked as part of the main dish.
-*   We take it in turns to wash up communal meals. If you cooked, you don’t have to wash up. We aim to cook a fairly large amount, ideally so that there are leftovers for people coming home late or for lunch the next day.
+*   We take turns to wash up after communal meals. If you cooked, you don’t have to wash up. We aim to cook a fairly large amount, ideally so that there are leftovers for people coming home late or for lunch the next day.
 
 ## Collective Responsibility
 
-*   We take collective responsibility for the care of the Hub, and try to keep it tidy for each other. For example, when we finish in the kitchen, we try to wash up the things we have used.
+*   We take collective responsibility for the care of the Hub, and keep it tidy for each other. For example, when we finish in the kitchen, we wash up the things we have used.
 *   As the communal part of the Hub will be used intensively we understand that keeping things clean and tidy, putting things away after us, washing up after us and not leaving things lying around in the main space is a priority for our well-being and harmonious ongoing relationship. The aspiration is to leave the Hub communal spaces cleaner than you found them.
 *   The expectation is that everyone will do the following things each week:
     *   Cook dinner once (or twice if working in a pair)
     *   Wash up dinner once (or twice if working in a pair)
     *   Be present for the majority of Hub meetings
-*   We have a cleaning rota, and each week one person is responsible for a deep clean of the communal spaces (kitchen, living room, bathroom, toilet, corridor) including hoovering, cleaning all surfaces in bathroom and kitchen etc.
+*   The hubresidents agree on a suitable cleaning rota, apply it, and improve it if it doesn't work well. For example, each week one person could be responsible for a deep clean of the communal spaces (kitchen, living room, bathroom, toilet, corridor) including hoovering, cleaning all surfaces in bathroom and kitchen etc.
 *   Any time put into the Hub in addition to the above is freely given. For example, if some of us choose to work on the garden, spend time hosting guests, or bake a cake, we take care not to feel resentment towards anyone who is not choosing to do this, or believe that they are somehow ‘not doing their fair share’.
 *   Guests who are staying for more than three days are expected to help out with the cooking, cleaning and washing up (on a pro-rata basis).
 *   The Hub is quiet after 11pm and before 7am.
@@ -34,7 +34,7 @@ We are committed to living together in a way that cultivates wisdom, compassion 
 *   We believe that unspoken resentment and unresolved disagreements cause blocked relationships that damage a community.
 *   We seek to create safe spaces for each other and to learn tools such as meditation, integrity (restoration), flower watering (acknowledgement), non-violent communication and sharing to help us transform conflict into positive growth.
 *   We are determined to show-up to each other and not hide from things for convenience, when we have a chance to address issues in a sufficiently safe and kind space. 
-*   We do practices like [Beginning Anew](https://tao.lifeitself.us/beginning-anew/#introduction) at least once a month prior to or just after a communal meal (the first communal meal of the month).
+*   We do practices like [Beginning Anew](https://tao.lifeitself.us/beginning-anew/#introduction) on a regular basis (once a month/bi-monthly), or when the situation necessitates it.
 
 ## Practicalities
 
