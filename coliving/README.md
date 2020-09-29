@@ -1,13 +1,22 @@
 # Co-Living at Life Itself
 
-
 *This document was last updated in 2018. It may now be out of date. For the latest information on the hubs at Life Itself, please see lifeitself.us/hubs*
 
-## Introduction
+## What is co-living?
 
-Co-living for us means living in community. It is both a way for us to concretely practicing our values and vision *and* it is a material exemplar of this vision -- i.e. a demonstration that we can live more wisely an well. Co-living is a path to strengthening our community and transforming ourselves and our society through the fostering of a shared culture. It helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that a different path is possible.
+Co-living for us means to live in a community. It means to live, work, practice, and create together. It is both a way for us to concretely practice our values and vision *and* it is a material exemplar of this vision -- i.e. a demonstration that we can live more wisely an well. Co-living is a path to strengthening our community and transforming ourselves and our society through the fostering of a shared culture. It helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that a different path is possible. 
+ 
+## What is our interest in co-living?
 
-We propose to develop co-living at Life Itself using three complementary models:
+Co-living is part of Life Itself’s mission because it is a vessel and reification of our big vision. 
+
+We believe that co-living is essential for sustaining our community both philosophically and materially. Living / working with people with whom we share vision, values and mission nourishes our humanity and stimulates our creativity. Connection to the meaning of life and to other human beings is a deep good. Although there are challenges in co-living with others, we believe that it is also how we develop the most as human beings as it will often require us to overcome our ego and fears. Our vision of co-living will also involve profound commitment to something bigger than ourselves and fostering courage, love, trust and vulnerability as part of this commitment. 
+
+Finally, co-living allows for economies of scale. As a co-living community, we can create shared spaces that breathe beauty and wellness, and create a lifestyle that otherwise would often be unaffordable.
+
+## What have we done to address this situation?
+
+Co-living at Life Itself is developed using three complementary models:
 
 * **Co-ownership and Co-op** – for permanent communities where Life Itself is the primary creator and developer of the space
 * **Residency** – where community members (and others) stay in spaces on a shorter-term basis (e.g. 2 days to 1 year)
@@ -15,67 +24,36 @@ We propose to develop co-living at Life Itself using three complementary models:
 
 ![Imgur](https://i.imgur.com/u8tIdBM.png)
 
-The “Lakes and Stream”: Permanent Hubs (“Lakes”) are connected, expanded, and enriched by Residency “Streams”
- 
-## What is our interest in co-living?
-
-Co-living is part of Life Itself’s mission because it is a vessel and reification of our big vision.  Co-living  is a path to strengthening our community and synergistic in transforming the self and our society through the fostering of a shared culture. It also helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that an different path is possible.
-
-We believe that co-living is essential for sustaining our community both philosophically and materially. Living / working with people with whom we share vision, values and mission nourishes our humanity and stimulates our creativity. Connection to the meaning of life and to other human beings is a deep good. Although there are challenges in co-living with others, we believe that it is also how we develop the most as human beings as it will often require us to overcome our ego and fears. Our vision of co-living will also involve profound commitment to something bigger than ourselves and fostering courage, love, trust and vulnerability as part of this commitment. 
-
-Finally, co-living allows for economies of scale. As a co-living community, we can create shared spaces that breathe beauty and wellness, and create a lifestyle that otherwise would often be unaffordable.
-
-
-## What have we done to address this situation?
-
-We have worked on three different co-living models and as well as the immediate next steps so that we can have certainty and clarity to establish a growing coliving community within Life Itself. The three models are:
-
-1. The co-ownership model (in Bergerac)
-2. The residency model (in London Hub). 
-3. The co-governance model (e.g. when residing in a space with an existing proprietor and/or community)
+#### Fig 1: Communities as Lakes and Streams. 
+Permanent Hubs (“Lakes”) are connected, expanded, and enriched by Residency “Streams”.
 
 The motivation behind the co-ownership and co-governance model is to provide a more permanent sense of home, security and agency to residents, owners and investors so that the Life Itself community can flourish both philosophically and materially. 
 
-The motivation behind the residency model is to allow community members to travel, and to have access to urban and rural nodes, and to stay in places that are not their permanent address while feeling a sense of home. 
+The motivation behind the residency model is to allow community members to travel, to have access to urban and rural nodes, and to stay in places that are not their permanent address while feeling a sense of home. 
 
 To use the metaphor of a river and a lake, we want a lake to allow for stability and growth but we also want a river passing through the lake so that the community does not become insular, and is continuously being revitalised and energised. 
 
-![Imgur](https://i.imgur.com/u8tIdBM.png)
-
-#### Fig 1: Communities as Lakes and Streams 
-
-
-# Co-ownership and Co-ops
-
-The Life Itself Co-ownership + Co-ops model is specifically designed to address the desire:
-
-*   For members of Life Itself to live in a community with social and economic security – for example, through a combination of security of tenure, pre-determined rents, economic ownership stake etc.
-*   To attract investments to create and develop these spaces
 
 ![Imgur](https://i.imgur.com/2RZQ3cC.jpg)
 
-### Fig 2: Co-ownership + Co-op model
+## Fig 2: Co-ownership + Co-op model
 
-Below is a fuller description of a co-living & investment model. Some key features (with intentions these related to in brackets):
+# Co-ownership and Co-ops
 
+Below is a fuller description of a co-living & investment model. Some key features are:
+1. There is a separation between the owners of capital and the residential community members. Owners of capital organize through an “Ltd” and residents through “Co-op”. 
+2. The Ltd will legally own the space and the residential community will have long-term certainty of tenure via long-term leases. 
+3. Residents can purchase shares in the Ltd if they wish. 
+4. Shareholders in the Ltd may buy and sell shares at approx market prices.
+5. In overall value terms (not just money), rent should track market rents. In other words, less than market rates in dollar terms can be sustained through time invested in the community. 
 
+These features support the overall intentions:
 
-1. There is a separation between the owners of capital and the residential community members. Owners of capital organize through an “Ltd” and residents through “Co-op”[^1]
+1. **To live in community with social and economic security**
 
-
-2. The Ltd will legally own the space and the residential community will have long-term certainty of tenure via long-term leases. [I.1, I.2]
-3. Residents can purchase shares in the Ltd if they wish. [I.1]
-4. Shareholders in the Ltd may buy and sell shares at approx market prices. [I.2]
-5. In overall value terms (not just money), rent should track market rents. In other words, less than market rates in dollar terms can be sustained through time invested in the community. [I.1.a]
-
-These features support the overall intentions (expanded from above):
-
-
-1. To live in community with social and economic security
-
-    * But without this leading to stagnation and dependence and unnecessary loss of flexibility[^2]. We want to provide safety and security for the residents but for security to not be the main reason people join or remain in the community. We want “people to be free more than comfortable” (“people to be attracted by freedom rather than comfort”) as maximizing comfort can lead to stagnation. This will also be helped by selecting carefully those who join the community
-    * The  community acting through a cooperative entity, retains the autonomy to decide who joins, leaves, how rent is allocated, how the community is managed etc. (=> select carefully on joining)
-    * Community members may acquire equity in the property over time and/or have security of rental including rental insurance (basically, the equivalent economic security you get from owning somewhere)
+    * But without this leading to stagnation and dependence and unnecessary loss of flexibility[^1]. We want to provide safety and security for the residents but for security to not be the main reason people join or remain in the community. We want “people to be free more than comfortable” (“people to be attracted by freedom rather than comfort”) as maximizing comfort can lead to stagnation. This will also be helped by selecting carefully those who join the community.
+    * The  community acting through a cooperative entity, retains the autonomy to decide who joins, leaves, how rent is allocated, how the community is managed etc.
+    * Community members may acquire equity in the property over time and/or have security of rental including rental insurance (basically, the equivalent economic security you get from owning somewhere). 
     
 2. To raise capital
     * The Real Estate Ltd is an attractive financial investment so it can get loans and generate capital.  
@@ -85,61 +63,51 @@ These features support the overall intentions (expanded from above):
 
 ## Structure
 
-
 ### The Real Estate Ltd
 
-Below is a description of the responsibility and rights of the Real Estate Ltd: 
+Below is a description of the responsibilities and rights of the Real Estate Ltd: 
 
-
-
-*   Investors will own shares in Real Estate Ltd
+*   Investors will own shares in Real Estate Ltd.
 *   Real Estate Ltd will own the title to the space and buildings. 
 *   Real Estate Ltd will provide a long term lease to the Co-ops which are renewable _(eg: 20-100 years)_
 *   Real Estate Ltd would receive rent from the property.
-*   If an investor from Real Estate Ltd want to sell their interest they can do so. Residents of the the Co-Op have  first refusal, other investors from the Real Estate Ltd have second refusal, and lastly he/she can then sell outside. 
+*   If an investor from Real Estate Ltd want to sell their interest they can do so. Residents of the the Co-Op have first refusal, other investors from the Real Estate Ltd have second refusal, and lastly he/she can then sell outside. 
 *   Real Estate Ltd is responsible for major repairs of the building.
-*   Investors are required to sell up to 10% of their original shareholding every 4 years at market rate to residents of the Co-op only (but never compelled to sell at a loss, market rent is defined by the rate of the area over the past 3 years to avoid speculative behavior)
-*   Residents of the Co-op who acquire a number of shares more than is required to offset their rent of the unit that they reside in through dividends (i.e. resident investors)  are required to sell up to 6% of the historical maximum of this “excess interest” every 4 years so long as an excess interest is maintained (but never compelled to sell at a loss, market rent is defined by the rate of the area over the past 3 years to avoid speculative behavior)
-*   If overall demand for purchase of interest by the community does not meet the legal obligation for total supply, investors shall be required to sell their interest before residents.[^3]
+*   Investors are required to sell up to 10% of their original shareholding every 4 years at market rate to residents of the Co-op only (but never compelled to sell at a loss, market rent is defined by the rate of the area over the past 3 years to avoid speculative behavior). 
+*   Residents of the Co-op who acquire a number of shares more than is required to offset their rent of the unit that they reside in through dividends (i.e. resident investors) are required to sell up to 6% of the historical maximum of this “excess interest” every 4 years so long as an excess interest is maintained (but never compelled to sell at a loss, market rent is defined by the rate of the area over the past 3 years to avoid speculative behavior)
+*   If overall demand for purchase of interest by the community does not meet the legal obligation for total supply, investors shall be required to sell their interest before residents.[^2]
 
-
-*   Right to purchase the shares available will be alloted between residents so that each resident one who does not have excess interest may purchase in each year an equal interest as any other up the point of offsetting their rent through dividends.
+*   Right to purchase the shares available will be allocated between residents so that each resident who does not have excess interest may purchase in each year an equal interest as any other up the point of offsetting their rent through dividends.
 *   The price of the rent to the Co-op is to be reviewed and adjusted every 6 years according to market rate index  _(E.g., if you started at 5% below market rate then you continue with 5%, or at the value of the building [sic].)_
 *   If Co-op does not pay debts or rent then investment body can terminate the lease after 6 months (to be discussed).
 
 
 ### The Co-op
 
-Below is a description of the responsibility and rights of the Co-op: 
-
-
+Below is a description of the responsibilities and rights of the Co-op: 
 
 *   The Co-op has a long terms tenancy (Eg: 20-100 years) with the Real Estate Ltd.
 *   The Co-op is responsible for paying bills and for the daily maintenance of the property.
 *   The Co-op is free to choose it’s residents without consulting the Real Estate Ltd.
 *   The Co-op is responsible for managing the residents.
 *   The Co-op is governed and managed by the residents.
-*   The Co-op will pay a deposit of 6 months equivalent of rent to the Real Estate Ltd (this can be accumulated over a period of several years)
+*   The Co-op will pay a deposit of 6 months equivalent of rent to the Real Estate Ltd (this can be accumulated over a period of several years). 
 
 
 ### The Residents
 
-Below is a description of the responsibility and rights of residents: 
+Below is a description of the responsibilities and rights of residents: 
 
-
-
-*   The resident needs to go through a trial period of 1+ year before being able to apply to the long term tenancy with the Co-ops. (This period may not be of fixed term but is up to the Co-Op members cf Plum Village acceptance)
-*   The resident will pay a deposit when joining the Co-ops
-*   The residents will pay the rent every month +5-10% extra up to a maximum of 8 months rent (which will act as a insurance in case they have a period of time unable to pay their rent to the Co-Op)
+*   The resident needs to go through a trial period of 1+ year before being able to apply to the long term tenancy with the Co-ops. (This period may not be of fixed term but is up to the Co-Op members cf Plum Village acceptance). 
+*   The resident will pay a deposit when joining the Co-ops. 
+*   The residents will pay the rent every month +5-10% extra up to a maximum of 8 months rent (which will act as a insurance in case they have a period of time unable to pay their rent to the Co-Op). 
 *   If the resident fall short after X months, the Co-ops can terminate the tenure with the resident and ask them to leave.
 *   The residents have the opportunity every 4 years to buy shares of the space from the Real Estate Ltd at market rate. 
 
 
 ## Next steps for Co-ownership
 
-This is a long term plan, we would take the time to find more people who would like to join the Life Itself co-living community and then find a place to do a first pilot of Co-ownership + Co-ops.
-
-
+This is a long term plan. We would take the time to find more people who would like to join the Life Itself co-living community and then find a place to do a first pilot of Co-ownership + Co-ops.
 
 *   Create MVP and look for properties in the UK, France or elsewhere 
     *   1 hour from a capital by train or car
@@ -577,15 +545,11 @@ https://coggle.it/diagram/W4PCA-GhIkjCf_Tx/t/coliving-what-is-the-ownership-at-l
 
 [^1]:
 
-     We are flexible on these legal forms, e.g. residents need not necessarily organize though a Co-op.
+     A pitfall of traditional housing Co-ops is that over time a) the community ages b) it becomes dominated by those who stay put c) its becomes dominated by people sticking around for low rent. This is because the benefit is lost if members move out (in the proposed model it is possible to sell your economic interest in the property)
 
 [^2]:
 
-     A pitfall of traditional housing Co-ops is that over time a) the community ages b) it becomes dominated by those who stay put c) its becomes dominated by people sticking around for low rent. This is because the benefit is lost if members move out (in the proposed model it is possible to sell your economic interest in the property)
-
-[^3]:
-
      This and the previous provisions allows community members to purchase the maximum possible interest from investors even when some community members are not interested in ownership, but also assures a tendency towards even reapportionment to all residents over time, given that demand for ownership is present among all residents.
 
-[^4]:
+[^3]:
      See appendix for AirDNA example of London which suggest AirBnB occupancy of around 80%. But we are not a platform like them so lower occupancy plus we want people to stay for multiple nights. Note we may make exception for AirBnB books as a revenue generation mechanism.
