@@ -79,8 +79,8 @@ Below is an example of a timetable showcasing how communal life at our hubs coul
 
 | Monday                           | Tuesday                           | Wednesday | Thursday                          | Friday                     |
 |----------------------------------|-----------------------------------|-----------|-----------------------------------|----------------------------|
-|                                  | Community Breakfast   (8:15-9:00) |           | Community Breakfast  (8:15-9:00)  |                            |
-| Workshop by a hubmember<br /> (6-8pm) | Workshop by a hubmember  (6-8pm)  |           | Community Practice       (6-8 pm) | Community Dinner  (7:30-8:30 pm) |
+|                                  | Community Breakfast<br /> (8:15-9:00) |           | Community Breakfast<br /> (8:15-9:00)  |                            |
+| Workshop by a hubmember<br /> (6-8pm) | Workshop by a hubmember<br /> (6-8pm)  |           | Community Practice<br /> (6-8 pm) | Community Dinner<br /> (7:30-8:30 pm) |
 
 ### What am I part of?
 
