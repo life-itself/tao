@@ -204,7 +204,7 @@ A sprint review meeting should **not become a distraction or significant detour 
 
 During the sprint review, the project is assessed against the sprint goal determined during the sprint planning meeting. Ideally, the team has completed each product backlog item brought into the sprint, but it's more important that they achieve the overall goal of the sprint.
 
-**Structure Suggestion [based on** [***this templatek***](http://nomad8.com/a-template-for-the-sprint-review/)**]**
+**Structure Suggestion [based on** [***this template***](http://nomad8.com/a-template-for-the-sprint-review/)**]**
 
 #### 1. The Scrum Master opens the review and reiterates the purpose of the meeting [2m]
 
