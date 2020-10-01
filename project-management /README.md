@@ -1,4 +1,4 @@
-# Agile Delivery
+# Project Management Guide 
 
 This document introduces our scrum-based agile process for delivering projects.
 
@@ -15,8 +15,8 @@ The key principles of the agile approach to delivery are[^2]:
 5. The team decides **how much work** it can do in an iteration
 6. The team decides **how** to do the work in the iteration
 7. The team **measures its own performance**
-8. Define work goals **before** each cycle starts
-9. Define work goals (primarily) through **job stories**
+8. The team defines work goals **before** each cycle starts
+9. The team defines work goals (primarily) through **job stories**
 
 [^1]: Whilst Scrum (and Agile generally) was originally developed for software projects, it has now successfully been used for many non-software projects.
 [^2]: Adapted from http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/
@@ -57,10 +57,10 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
 ### Project A10
 
-: Product Owner  
-:clock: 1h
+Product Owner  
+**[1h]**
 
-* This work should result in the creation of a Project Overview document
+This work should result in the creation of a Project Overview document, including: 
 * Total Budget
 * Aims and Requirements (aka Purpose, Outcomes and Outputs. Also deliverables)
 * Project Plan
@@ -71,29 +71,28 @@ Before one goes into the sprint cycle there is some preparatory work that should
 ### Key job stories
 
 Product Owner as lead with involvement as appropriate of other relevant personnel
-
 **[2-6h]**
 
 * Generate first set of user stories for this project.
 * Do **not** need to be comprehensive -- can add user stories later. However, good to have really core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
 * Cannot over-state the value of generating (good) user stories at this point. Will have a transformative effect on the quality of the project.
-* Should involve some or all of delivery team + scrum master, at least some part of this:
+* Should involve some or all of delivery team + scrum master, for at least some part of this, because:
 
   * Gets everyone up to speed
   * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
 
 ### Kick-off meeting
 
-It is suggested this is merged with first sprint planning meet (however, can have separate, especially if you want to inform a broader group of people)
+It is suggested this is merged with first sprint planning meet (however, it can have separate, especially if you want to inform a broader group of people)
 
-Product Owner, Scrum Master and Delivery Team need to be there
+Product Owner, Scrum Master and Delivery Team need to be there. 
 
 
 ## The Sprint Process and Key Concepts
 
 ### 2-week sprint process
 
-  * Tasks agreed in sprint planning meeting on a Monday -- sprint then runs for 2 weeks.
+  * Tasks agreed in sprint planning meeting on a Wednesday-- sprint then runs for 2 weeks.
   * Tasks should be in product backlog (see next item).
 
 ### Product Backlog
@@ -114,17 +113,17 @@ http://www.mountaingoatsoftware.com/agile/scrum/sprint-planning-meeting
 
 * Results in 2 outputs
 
-  * A sprint backlog -- A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
   * A sprint goal -- short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
+  * A sprint backlog -- A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
 
 * Individual Tasks should be less than 2d total time (reduces estimation error)
 * Meeting is timeboxed to 1-2.5h (~ 20-30m x size of FTE team)
 
-### Sprint review
+### Sprint Review meeting 
 
 What did we ship this sprint? See http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting
 
-* End of sprint (e.g. Friday).
+* End of sprint (e.g. Wednesday).
 * No more than 15 minutes times the number of people in team.
 * Team shows what they accomplished during the sprint. Typically this takes the form of a demo.
 * Kept very informal, typically with rules forbidding the use of PowerPoint slides and allowing no more than two hours of preparation time for the meeting. A sprint review meeting should not become a distraction or significant detour for the team; rather, it should be a natural result of the sprint.
@@ -154,8 +153,6 @@ See http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum and http://en.wi
   * Answers should be very short -- each person should speak for no more than 2 minutes (less as the team gets larger).
   * If bigger issues arise, take them out of standup.
 
-* Only people "committed" to the project may speak (anyone “involved” with the project may listen)
-
 ### Job Stories
 
 See [Job Stories][job stories]
@@ -166,7 +163,7 @@ Milestones
 
 * Sprints are organised via Milestones. Naming convention: `Sprint - DD MMM YYYY` with the date being the last day of the sprint.
 * Issues scheduled for future sprints are allocated to the relevant milestone.
-* Icebox - catch-all milestone for issues that are "someday maybe" type of things (not likely to be worked on the near-term)
+* Icebox - catch all milestones for issues that are "someday maybe" type of things (not likely to be worked on the near-term)
 
 Labels
 
@@ -195,19 +192,19 @@ This is done by the Product Owner and Product Owner ultimately has sole responsi
 
 Input can be taken from Delivery Team and recommend using same method as planning poker, capping maximum points at around 100.
 
+## Appendix
+
 ### Sprint Review Meeting
 
 At the end of each sprint, a sprint review meeting is held.
 
 During this meeting, the **Scrum team shows what they accomplished during the sprint**. Typically this takes the form of a **demo of the new features**.
 
-The sprint review meeting is intentionally kept **very informal**, typically with rules **forbidding the use of PowerPoint slides** and allowing **no more than two hours of preparation time** for the meeting.
-
 A sprint review meeting should **not become a distraction or significant detour for the team**; rather, it should be a **natural result of the sprint**.
 
 During the sprint review, the project is assessed against the sprint goal determined during the sprint planning meeting. Ideally, the team has completed each product backlog item brought into the sprint, but it's more important that they achieve the overall goal of the sprint.
 
-**Structure Suggestion [based on** [***link***](http://nomad8.com/a-template-for-the-sprint-review/)**]**
+**Structure Suggestion [based on** [***this templatek***](http://nomad8.com/a-template-for-the-sprint-review/)**]**
 
 #### 1. The Scrum Master opens the review and reiterates the purpose of the meeting [2m]
 
