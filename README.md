@@ -41,8 +41,8 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * [Culture](/culture/)
 * [Views](/views/)
 * [Principles](/principles/)
-  * Open-mindedness
-  * Integrity
+  * [Open-mindedness](/principles/#open-mindedness/)
+  * [Integrity](/principles/#integrity/)
 * Practices
   * [Five Remembrances](/five-remembrances/)
   * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
