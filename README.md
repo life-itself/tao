@@ -51,8 +51,8 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * Member characteristics
 
 # Participate
-* Hubs
-  * [Being a Hub Member](/hubs)
+* Being a Hub Member
+  * [Living in a Hub](/hubs)
   * [Residents' Agreement](/hubs/agreement/)
   * [Hub Context](/context)
   * [Co-living Model](/coliving/)
@@ -60,10 +60,11 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
   * [Onboarding Guide](/onboarding/)
   * [Onboarding FAQs](/onboarding-faq/)
   * [Getting Things Done](/getting-things-done/)
-* [Team Members](/working-with-us/)
-  * Getting paid
-  * Travel
-  * Time off
+* Being a Team Member
+  * [Working with us](/working-with-us/)
+  * [Getting paid](https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit) 
+  * [Travel](/working-with-us/#expenses-and-travel/) 
+  * [Time Off](/working-with-us/#time-off/) 
 
 # Reference
 
