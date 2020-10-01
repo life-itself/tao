@@ -49,7 +49,7 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
   * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
   * [Beginning Anew](/beginning-anew/)
   * Gratitudes
-  * [Shared Meals Practice](/hubs/agreement/#shared-meals/
+  * [Shared Meals Practice](/hubs/agreement/#shared-meals/) 
 * Member characteristics
 
 # Participate
