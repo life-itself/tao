@@ -62,15 +62,10 @@ GTD revolves around a core workflow of five steps:
 
 * What Is It?
 * Is it actionable?
-    * No action required. =>
-      * Trash
-      * Reference
-      * Someday / Maybe
-      * Incubating / Ticker / Reminder
+    * No action required. => Trash, Reference, Someday / Maybe, Incubating / Ticker / Reminder
     * Actionable => Is it a project (multi-step)?
       * Yes => Projects list -- "A complete and current Projects list is the major operational tool for moving from tree-hugging to forest management."
-      * No =>
-    * What is the next action? "The “next action” is the next physical, visible activity that needs to be engaged in, in order to move the current reality of this thing toward completion." -- **"This is perhaps the most fundamental practice of this methodology."**
+      * No => What is the next action? "The “next action” is the next physical, visible activity that needs to be engaged in, in order to move the current reality of this thing toward completion." -- **"This is perhaps the most fundamental practice of this methodology."**
       * Do it. -- If < 2 minute.
       * Delegate it.
       * Defer it. => On *next actions* list.
