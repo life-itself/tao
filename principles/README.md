@@ -90,4 +90,4 @@ We’re doers as well as thinkers and meditators. We value hard work, commitment
  
 It takes dedication and effort to be great, to build something big. We want to create extraordinary enterprises and communities – that can not only co-exist with the existing system on its own terms but can surpass it.
 
-We use David Allen's process for [Getting Things Done](/getting-things-done).
+We use David Allen's process for [Getting Things Done](/principles/getting-things-done).
