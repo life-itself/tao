@@ -23,6 +23,7 @@ We engage in ongoing practice and training to develop ourselves, to be well and 
 ## Coliving
 
 > The jewel of community, the Sangha, is to be held equal to the Buddha and the Dharma. Indeed the whole of holy life is fulfilled through spiritual friendship. 
+
 — The Buddha
  
 To nourish and sustain a shared culture we need to spend time together. This can mean living together in community hubs and during the Gathering, or spending time together during work sprints.
