@@ -1,163 +1,89 @@
 # Our Principles
-
-## Open-mindedness
-
+ 
+These are the principles and values which shape the culture of our community.
+ 
+## Interdependence
+ 
+We are happy to depend on others, and have them depend on us.
+ 
+We need to share resources to achieve our individual and collective aims. This requires a desire and willingness to compromise and go beyond our individual convenience in the service of the health and workability of the broader community and vision. Interdependence is not a concept but a lived practice – materially & emotionally. For example, we support basic income, and use revenue sharing to facilitate co-ownership.
+ 
+## Surplus making
+ 
+We understand that money is essential to the long-term sustainability and impact of our work at Life Itself.
+ 
+We want to be materially sustainable and independent (over multiple generations). That requires us to make a surplus. We need community members who are interested in and/or supportive of making money and creating profitable enterprises.
+ 
+## Transformation
+ 
+We believe that transformation is possible and that this takes training and applied practice.
+ 
+We engage in ongoing practice and training to develop ourselves, to be well and deal with difficulties that come up. We believe in the possibility of creating a radically better future for individuals and the collective through awakening and the transformation of suffering, and we believe it takes commitment and effort to bring this about.
+ 
+## Coliving
+ 
+To nourish and sustain a shared culture we need to spend time together. This can mean living together in community hubs and during the Gathering, or spending time together during work sprints.
+ 
+Coliving brings with it shared practices, fellowship and lived community. It brings direct experience and the practice of interdependence, surplus generation and personal and collective transformation.
+ 
+## Zen & Mindfulness
+ 
+Our ontology and philosophy are grounded in Zen and mindfulness. Zen is not a philosophy or a religion. Zen tries to free the mind from the slavery of words and the constriction of logic. Zen in its essence is the art of seeing into the nature of one's own being, and it points the way from bondage to freedom. Zen is meditation.
+ 
+Key ideas: you are not your thoughts, be here now, non-attachment to views, enlightenment/nirvana (is possible), non-self, interbeing. Primacy of being aka primacy of the right brain.
+ 
+For further reading:
+* https://www.bbc.co.uk/religion/religions/buddhism/subdivisions/zen_1.shtml
+ 
+For a useful bibliography:
+* https://plato.stanford.edu/entries/japanese-zen/
+ 
+### From Introduction to Blue Cliff Record
+ 
+By Thomas Cleary and J. C. Cleary
+ 
+> The Buddha Gautama, Shakyamuni, whom all Buddhists regard as their ancestor, invented and adapted various teachings and techniques to liberate people; he was likened to a skilled physician giving specific medicines to cure certain diseases. It is said, therefore, that there is no fixed teaching. Yet in spite of outward differences resulting from necessary adaptation to different situations, capacities of understanding and personality configurations, the real Buddha Dharma, the teaching of the enlightened ones, is of one uniform flavor, the flavor of liberation. Just as many streams lead to the ocean, where they merge into the uniform flavor of salt, goes the ancient metaphor, so do the teachings of enlightenment lead to the ocean of enlightenment and merge into the uniform flavor of liberation. When this essence is lost, and people enshrine relics of past method for a sense of personal satisfaction, righteousness, or comfort, then it is said that the medicine has become a disease. It is the practice of Ch’an and all real Buddhism to cut through all ploys of egoism in all its guises, “holy” or “profane,” to break up stultifying material and intellectual idolatry.
+>
+> A Ch’an master once wrote that the wise enshrine the miraculous bones of the ancients within themselves; that is, they do not regard teachings of ways to enlightenment as an external body of knowledge or information to be possessed as an acquisition or believed or revered as inflexible dogma, but rather apply it as far as possible to themselves and their situations, vivifying the way of enlightenment with their own bodies and lives, not just in their thoughts.
+ 
+## Open-minded rigour
+ 
+"Open-mindedness" means openness to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
+ 
+At the same time open-mindedness does not mean "anything goes" — astrology and astronomy are *not* equally valid! This open-mindedness is paired with rigour and a respect for expertise. Everything can be questioned — but judiciously. Science and the scientific method are valuable and powerful. The Zen Master knows more than the novice. Furthermore, what an expert knows may not be easily articulated so we also respect intuition and judgment as well as analysis and evidence. Measurement is crucial to performance (as long as it is not confused with the game).
+We bring open-minded rigour to our practical, intellectual and spiritual endeavours.
+ 
 :::tip SEE ALSO
-For more detail see the primer on Open-mindedness and Non-attachment to Views.
+For more detail see the primer on [Open-mindedness and Non-attachment to Views](https://lifeitself.us/2016/10/20/open-mindedness-and-non-attachment-to-views/).
 :::
-
-“Open-mindedness” means openness to new approaches and new ideas. You question received wisdom and, most of all, yourself (“Am I sure?”). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
-
-At the same time time open-mindedness does not mean “anything goes” — astrology and astronomy are not equally valid! This open-mindedness is paired with rigour and a respect for expertise. Everything can be questioned — but judiciously. The Zen Master knows more than the novice. Furthermore, what an expert knows may not be easily articulated so we also respect intuition and judgment as well as analysis and evidence.
-
+ 
+## Experimentation and Creativity
+ 
+We are open to experiment and change.
+ 
+We don’t have it all worked out. As we explore unknown land we need to embrace uncertainty. We don’t deify innovation and change. We are sensibly conservative – and open-mindedly innovative. We are working things out on an ongoing basis (but we don’t value change for the sake of change).
+ 
 ## Integrity
-
+ 
 :::tip SEE ALSO
 For more detail see the dedicated [page on Integrity](/integrity/).
 :::
-
-For more detail see the dedicated page on Integrity.
-
+ 
 An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.
-
-Concretely and specifically, integrity is Honouring your word. Honouring your word is defined as:
-
+ 
+Concretely and specifically, integrity is **Honouring your word**. Honouring your word is defined as:
+ 
 * Doing what you said you would do OR
-* Whenever you will not be keeping your word you get in action restoring your word with everyone impacted.
-
-Why is integrity so valuable? It is the bridge to workability and performance. 
+* Whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted.
+ 
+Why is integrity so valuable? It is the bridge to workability and performance.
 
 ## Getting Things Done
+
+We ship, we do, we get stuff done.
  
-This is a summary of David Allen's "[Getting Things Done: The Art of Stress Free Productivity](https://gettingthingsdone.com/getting-things-done-the-art-of-stress-free-productivity/)". A more detailed summary can be found at: https://rufuspollock.com/2019/05/27/getting-things-done
+We’re doers as well as thinkers and meditators. We value hard work, commitment, shipping, and getting sh** done.
  
-### Key Principles for Life Itself
- 
-* Stress arises from **a)** using our heads as our todo lists and **b)** not being able to rely on each other to capture and process items reliably. GTD addresses both of these issues.
-* The "Inbox" Process: having a reliable capture location (and separating capture from processing).
-* Next Actions: make tasks actionable and always leave meetings with clear "next actions".
-* Terminology and Structure.
-  * Inbox -- somewhere to capture "unprocessed" stuff.
-  * Reference and Project support folders.
-  * Standard buckets e.g. Next, Tickler, Waiting for, etc.
-* The Natural Planning Model -- along with SCQH this is the GoTo method for planning (smallish) projects.
- 
-### Workflow
- 
-GTD revolves around a core workflow of five steps:
- 
-1. Capture -- What has our attention.
-2. Clarify -- What each item means and what to do about it.
-3. Organize -- The results which presents options we...
-4. Reflect -- On, and which we can then choose to...
-5. Engage -- With.
- 
-#### 1. Capture
- 
-* Get It All Out of Your Head -- have tools immediately on hand to get stuff out of your head.
-* Minimize the Number of Capture Locations -- "You should have as many in-trays as you need and as few as you can get by with."
-* Empty the Capture Tools Regularly, e.g. daily or weekly.
- 
-#### 2. Clarify
-  
-* What Is It?
-* Is it actionable?
-    * No action required. => Trash, Reference, Someday / Maybe, Incubating / Ticker / Reminder
-    * Actionable => Is it a project (multi-step)?
-      * Yes => Projects list -- "A complete and current Projects list is the major operational tool for moving from tree-hugging to forest management."
-        * No => What is the next action? "The “next action” is the next physical, visible activity that needs to be engaged in, in order to move the current reality of this thing toward completion." -- **"This is perhaps the most fundamental practice of this methodology."**
-      * Do it. -- If < 2 minute.
-      * Delegate it.
-      * Defer it. => On *next actions* list.
- 
-#### 3. Organize
- 
-Here are the main buckets:
- 
-* Projects
-* Calendar
-* Next actions
-  * Agenda list (for each person you have meetings with)
-  * Waiting for
-* Someday maybe
-* Tickler
- 
-Plus, you have:
- 
-* Reference
-* Project support materials (including project plans)
- 
-#### 4. Reflect
- 
-* Daily review -- go through the workflow for inbox.
-* Weekly review **critical** "the Weekly Review is the critical success factor for marrying your larger commitments to your day-to-day activities. And a complete Projects list remains the linchpin for that orientation."
-  * Gather and process all your stuff.
-  * Review your system.
-  * Update your lists.
-  * Get clean, clear, current and complete.
- 
-#### 5. Engage
- 
-Use your calendar plus go to your next action list and prioritise via the four-criteria model for choosing actions in the moment. In order:
- 
-* Context
-* Time available
-* Energy available
-* Priority
- 
-### The Natural Planning Model
- 
-A project is any desired result that can be accomplished within a year that requires more than one action step.
- 
-This can be used for projects big or small but is most valuable for that 80%+ of projects that are not "big horsepower" efforts (for those, you may have more formal methods).
- 
-1. Defining purpose and principles
-2. Outcome visioning
-3. Brainstorming
-4. Organizing
-5. Identifying next actions
- 
-> The last time you went out to dinner, what initially caused you to think about doing it? It could have been any number of things -- the desire to satisfy hunger, socialize with friends, celebrate a special occasion, sign a business deal, or develop a romance. As soon as any of these turned into a real inclination that you wanted to move on, you started planning. Your intention was your purpose, and it automatically triggered your internal planning process. Your principles created the boundaries of your plan. You probably didn’t consciously think about your principles regarding going out to dinner, but you thought within them: standards of food and service, affordability, convenience, and comfort all may have played a part. In any case, your purpose and principles were the defining impetus and boundaries of your planning.
->
-> Once you decided to fulfill your purpose, what were your first substantive thoughts? Probably not “Point II.A.3.b. in plan.” Your first ideas were more likely things like “Italian food at Giovanni’s,” or “Sitting at a sidewalk table at the Bistro Café.” You probably also imagined some positive picture of what you might experience or how the evening would turn out -- maybe the people involved, the atmosphere, and/or the outcome. That was your outcome visioning. Whereas your purpose was the why of your going out to dinner, your vision was an image of the what -- of the physical world’s looking, sounding, and feeling the ways that best fulfilled your purpose.
->
-> Once you’d identified with your vision, what did your mind naturally begin doing? What did it start to think about? “What time should we go?” “Is it open tonight?” “Will it be crowded?” “What’s the weather like?” “Should we change clothes?” “Is there gas in the car?” “How hungry are we?” That was brainstorming. ...
->
-> Once you had generated a sufficient number of ideas and details, you couldn’t help but start to organize them. You may have thought or said, “First we need to find out if the restaurant is open,” or “Let’s call the Andersons and see if they’d like to go out with us.” Once you’ve generated various thoughts relevant to the outcome, your mind will automatically begin to sort them by components (subprojects), priorities, and/or sequences of events.
->
-> Finally (assuming that you’re really committed to the project -- in this case, going out to dinner), you focus on the next action that you need to take to make the first component actually happen. “Call Café Rouge to see if it’s open, and make the reservation.”
- 
-### Motivation
- 
-#### Next Actions
- 
-> I have had several sophisticated senior executives tell me that installing “What’s the next action?” as an operational standard in their organization was transformative in terms of measurable performance output. It changed their culture permanently and significantly for the better.
->
-> Why? Because the question forces clarity, accountability, productivity, and empowerment.
->
-> ...
->
-> I am frequently asked to facilitate meetings. I’ve learned the hard way that no matter where we are in the conversation, twenty minutes before the agreed end time of the discussion I must force the question: “So what’s the next action here?” In my experience, there is usually twenty minutes’ worth of clarifying (and sometimes tough decisions) still required to come up with an answer.
- 
-#### Capturing Supports Integrity
- 
-> THERE’S MUCH MORE to these simple techniques and models than may appear at first glance. Indeed, they offer a systematic method to keep your mind distraction-free, ensuring a high level of efficiency and effectiveness in your work. That in itself would be sufficient reason to implement these practices.
->
-> But there are even greater implications for the fundamental principles at work here. What follows in the next three chapters is an accounting of my experience, over the past thirty years, of the subtler and often more profound effects that can transpire from the implementation of these basic principles. The longer-term results can have a significant impact on you as an individual, and they can positively affect larger organizational cultures as well.
->
-> When people with whom you interact notice that without fail you receive, process, and organize in an airtight manner the exchanges and agreements they have with you, they begin to trust you in a unique way. More significantly, you incorporate a level of self-confidence in your engagement with your world that money cannot buy. Such is the power of capturing placeholders for anything that is incomplete or unprocessed in your life. It noticeably enhances your mental well-being and improves the quality of your communications and relationships, both personally and professionally.
->
-> And when organizations expect and reinforce this best practice of allowing nothing to fall through a communication crack, with everyone accountable for resulting actions, and commitments clarified and tracked by the appropriate persons, it can significantly increase a culture’s productivity and reduce its stress.
- 
-#### Integrity in an org is a beautiful thing
- 
-> What happens when everyone involved on a team -- in a marriage, in a department, on a staff, in a family, in a company -- can be trusted not to let anything slip through the cracks? Frankly, once you’ve achieved that, you’ll hardly think about whether people are dropping the ball anymore -- there will be much bigger and better things to occupy your attention.
-> Having to bail water in a leaky boat undermines your ability to direct it and move it forward.
->
-> But if communication gaps are still an issue, there’s likely some layer of frustration and a general nervousness in the relationship or the culture. Most people feel that without constant babysitting and hand-holding, things could disappear in the system and then blow up at any time. They don’t realize that they’re feeling this because they’ve been in this situation so consistently that they relate to it as if it were a permanent law, like gravity. It doesn’t have to be that way.
->
-> I have noticed this for years. Good people who haven’t incorporated these behaviors come into my environment, and they stick out like a sore thumb. I’ve lived with the standards of a clear head and hard, clean edges on in-trays for more than three decades now. When a note sits idle in someone’s in-tray unprocessed, or when he or she nods, “Yes, I will,” in a conversation but doesn’t otherwise capture that in some way, my “uh-oh” bell rings. This is unacceptable behavior in my world. There are much bigger fish to fry than worrying about leaks in the system.
->
-> I need to trust that any request or relevant information I put in an e-mail, on a voice mail, in a conversation, or in a written note will get into the other person’s system and that it will be processed and organized soon, and available for his or her review as an option for action. If the recipient is managing voice mails but not e-mail and paper, I have now been hamstrung to use only his or her trusted medium. That should be unacceptable behavior in any organization that cares about whether things happen with the least amount of effort.
->
-> When change is required, there must be trust that the initiatives for that change will be dealt with appropriately. Any intact system will ultimately be only as good as its weakest link, and often that Achilles’ heel is a key person’s dulled responsiveness to communications in the system.
+It takes dedication and effort to be great, to build something big. We want to create extraordinary enterprises and communities – that can not only co-exist with the existing system on its own terms but can surpass it.
+
+We use David Allen's process for [Getting Things Done](/getting-things-done).
