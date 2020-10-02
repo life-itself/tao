@@ -41,19 +41,12 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * [Culture](/culture/)
 * [Views](/views/)
 * [Principles](/principles/)
-  * [Open-mindedness](/principles/#open-mindedness/)
-  * [Integrity](/principles/#integrity/)
-  * [Getting Things Done]()
-* Practices
-  * [Five Remembrances](/five-remembrances/)
-  * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
-  * [Beginning Anew](/beginning-anew/)
-  * Gratitudes
-  * [Shared Meals Practice](/hubs/agreement/#hub-agreement) 
-* Member characteristics
+* Patterns 
+  * Practices 
+  
 
 # Participate
-* Being a Hub Member
+* Being a Hub Member 
   * [Living in a Hub](/hubs)
   * [Residents' Agreement](/hubs/agreement/)
   * [Hub Context](/context)
