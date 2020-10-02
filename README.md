@@ -45,16 +45,14 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
   * Practices 
   
 # Participate
-* Being a Hub Member 
-  * [Living in a Hub](/hubs)
+* [Being a hub member](/hubs)
   * [Residents' Agreement](/hubs/agreement/)
   * [Hub Context](/context)
 * Being a Team Member
   * [Onboarding Guide](/onboarding/)
   * [Working with us](/working-with-us/)
   * [Project Management Guide](/project-management%20/#project-management-guide/)
-  * [Getting Things Done](/getting-things-done/)
-  * [Getting Work Done]
+  * Getting Work Done
 
 
 # Reference
