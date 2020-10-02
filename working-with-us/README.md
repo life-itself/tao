@@ -59,9 +59,11 @@ None for this issue. Here you might include your questions and hypotheses, or ot
 Once you’ve set out your issue like this, you should keep it up to date so that your team members can follow along. 
 * First, ensure that it is labelled correctly. You can label issues so that issues with the same label appear together in your Issue Board on Gitlab. This makes reviewing outstanding issues easier.
 
-* Then, make comments next to each task, **in bold**, to indicate how you’re progressing with each task. This should be done so that somebody else can see, at a glance, how you’re getting on. 
+* [Record an estimate](https://docs.gitlab.com/ee/user/project/time_tracking.html) of how long it will take you to complete the issue. You will keep track of the time you spend in the same way.
 
-* Third, you should keep a log of your progress in the Comments section of the Issue. The difference between writing updates in the description and in the comments section is that the Comments section represents the _flow_ of your work, whereas the Description represents the most up-to-date _state_ of your work. You should ensure you use both. 
+* Make comments next to each task, **in bold**, to indicate how you’re progressing with each task. This should be done so that somebody else can see, at a glance, how you’re getting on. 
+
+* Third, you should keep a log of your progress in the Comments section of the Issue (including a record of how much time you are spending on the tasks). The difference between writing updates in the description and in the comments section is that the Comments section represents the _flow_ of your work, whereas the Description represents the most up-to-date _state_ of your work. You should ensure you use both. 
 
 * If you need someone else to assist you, you can @ them in the Comments section with a message to indicate what you’d like their help with. However, ensure you’ve generated a hypothesis first, and that you include it in your message. This way, you might find you can solve it yourself, and if you can’t, it helps your team follow your thought process. 
 
