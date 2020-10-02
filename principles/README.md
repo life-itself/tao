@@ -21,6 +21,9 @@ We believe that transformation is possible and that this takes training and appl
 We engage in ongoing practice and training to develop ourselves, to be well and deal with difficulties that come up. We believe in the possibility of creating a radically better future for individuals and the collective through awakening and the transformation of suffering, and we believe it takes commitment and effort to bring this about.
  
 ## Coliving
+
+> The jewel of community, the Sangha, is to be held equal to the Buddha and the Dharma. Indeed the whole of holy life is fulfilled through spiritual friendship. 
+— The Buddha
  
 To nourish and sustain a shared culture we need to spend time together. This can mean living together in community hubs and during the Gathering, or spending time together during work sprints.
  
