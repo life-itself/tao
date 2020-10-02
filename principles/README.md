@@ -62,6 +62,8 @@ For more detail see the primer on [Open-mindedness and Non-attachment to Views](
 :::
  
 ## Experimentation and Creativity
+
+![Experimentation](./experimental.jpg)
  
 We are open to experiment and change.
  
