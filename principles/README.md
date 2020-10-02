@@ -59,9 +59,7 @@ GTD revolves around a core workflow of five steps:
 * Empty the Capture Tools Regularly, e.g. daily or weekly.
  
 #### 2. Clarify
- 
-![GTD flow](./gtd-clarify-flow.png)
- 
+  
 * What Is It?
 * Is it actionable?
     * No action required. => Trash, Reference, Someday / Maybe, Incubating / Ticker / Reminder
