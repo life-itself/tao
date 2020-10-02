@@ -44,22 +44,17 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * Patterns 
   * Practices 
   
-
 # Participate
 * Being a Hub Member 
   * [Living in a Hub](/hubs)
   * [Residents' Agreement](/hubs/agreement/)
   * [Hub Context](/context)
-  * [Co-living Model](/coliving/)
-* Onboarding as a Team Member
-  * [Onboarding Guide](/onboarding/)
-  * [Getting Things Done](/getting-things-done/)
 * Being a Team Member
+  * [Onboarding Guide](/onboarding/)
   * [Working with us](/working-with-us/)
-    * [Getting paid](https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit) 
-    * [Travel](/working-with-us/#expenses-and-travel/) 
-    * [Time Off](/working-with-us/#time-off/) 
   * [Project Management Guide](/project-management%20/#project-management-guide/)
+  * [Getting Things Done](/getting-things-done/)
+  * [Getting Work Done]
 
 
 # Reference
