@@ -33,7 +33,7 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * **What have you done recently?** please see [our blog](https://lifeitself.us/blog/). 
 * **How can I get involved?** you can apply to be a fellow in a [hub](https://lifeitself.us/hubs/), work with us or one of our [enterprises](https://lifeitself.us/jobs/), or [contact us](https://lifeitself.us/contact/) us to collaborate or contribute.
 * **What is your organisational culture?**: read about our [core principles](/principles/).
-* **How do you work?**: read about the [patterns we operate by](/patterns/).
+* **How do you work?**: read about the [patterns we operate by](/patterns%20/#patterns).
 * **Who owns Life Itself?**: we're owned by ourselves with no outside investors and a purpose-lock. Read more in our [Governance](/governance/).
 
 # Culture
@@ -41,8 +41,8 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * [Culture](/culture/)
 * [Views](/views/)
 * [Principles](/principles/)
-* Patterns 
-  * Practices 
+* [Patterns](/patterns%20/#patterns) 
+  * [Practices](/patterns%20/#practices)
   
 # Participate
 * [Being a hub member](/hubs)
