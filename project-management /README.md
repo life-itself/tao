@@ -118,12 +118,12 @@ What can we learn from this sprint for the future? See http://www.mountaingoatso
 #### Sprint Planning 
 
 * Meeting is timeboxed to 1-1.5h. 
-* Team members create promises and goals for this sprint that are reviewed by the team
-* Team members create new issues in gitlab and review the sprint board together 
+* Team members create promises and goals for this sprint that are reviewed by the team.
+* Team members create new issues in gitlab and review the sprint board together. 
 
 * This meeting results in 2 outputs: 
 
-  * A sprint goal for each project – a short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.'
+  * A sprint goal for each project – a short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
   * A sprint backlog -- A sprint backlog is a list of the product backlog items in gitlab the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
      * Individual Tasks should be less than 2d total time (reduces estimation error).
 
