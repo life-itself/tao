@@ -141,133 +141,6 @@ Each space can designate a subpart of its space for use under the residency appr
 Each space maintains a book sheeting and a contact point for booking.
 
 
-### Costing
-
-Base rent = annual rent of that space if rented normally at ~ market rates
-
-Add 30% = additional overhead and management cost
-
-Per night rate is calculated for different lengths of stays roughly based on linear interpolation between occupancy rates (60% for 2+  nights, to 90% for 3 months)[^4]
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>London Hub</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>La Cheraille</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Full time</strong>
-   </td>
-   <td><p style="text-align: right">
-£10725 (£29)</p>
-
-   </td>
-   <td><p style="text-align: right">
-£6750 (£18)</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>3 months</strong>
-   </td>
-   <td><p style="text-align: right">
-£2938 (£33)</p>
-
-   </td>
-   <td><p style="text-align: right">
-£1849 (£21)</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>1 month</strong>
-   </td>
-   <td><p style="text-align: right">
-£1102 (£37)</p>
-
-   </td>
-   <td><p style="text-align: right">
-£693 (£23)</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>2 weeks</strong>
-   </td>
-   <td><p style="text-align: right">
-£588 (£42)</p>
-
-   </td>
-   <td><p style="text-align: right">
-£370 (£26)</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>2 nights+</strong>
-   </td>
-   <td><p style="text-align: right">
-£98 (£49)</p>
-
-   </td>
-   <td><p style="text-align: right">
-£62 (£31)</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>AirBnB (1 night)</strong>
-   </td>
-   <td><p style="text-align: right">
-£59 (£59)</p>
-
-   </td>
-   <td><p style="text-align: right">
-£37 (£37)</p>
-
-   </td>
-  </tr>
-</table>
-
-
-[Calculation spreadsheet](https://docs.google.com/spreadsheets/d/1Z27C3MvAQi0fhi4MgGK3WB5ukldBBAmABoWdSFr4pGU/edit#gid=1151367377)
-
-
-## Harmonious and manageable
-
-For London
-
-
-
-*   Minimum stay (if one-off) of 2 weeks
-*   Minimum subscription of 7 nights
-
-For La Cheraille
-
-
-
-*   Ditto
-
-
-## Next steps 
-
-
-
-*   A residency model will be developed for the ferme auberge apartments at la Cheraille. 
-*   Questions to answer:
-    *   Who gets to set the overall rules? Ans: the community running the hub.
-    *   How to manage overbooking? Have some kind of overflow e.g. couch at London Hub
-    *   How to deal with booking / allocation? Trial a spreadsheet and see how it goes. 
-
-
 # The Co-governance model
 
 The co-governance model is relevant when Life Itself community is residing in a space owned by another party or community. It is a way for the Life Itself community to have security and agency in an area they are already investing their time and emotion in while creating synergies between that community and Life Itself, so that the spaces are co-optimised by both the long-time inhabitants of the existing community and Life Itself community members and all lifestyles are nourished by a deep collaboration between all the parties.
@@ -290,11 +163,9 @@ In exchange, Life Itself will commit to deep collaboration with the existing own
 * Life Itself will create a regular monthly meeting with the owners/community to discuss mutual interests and concerns.
 
 
-
 # Appendix: Community space property features
 
-Relevant for both La Cheraille and the Co-ownership model
-
+Relevant for both Co-governance and the Co-ownership model
 
 <table>
   <tr>
