@@ -25,4 +25,4 @@ It also includes information on:
 
 We use a scrum-based agile process to deliver projects. Our [Project Management Guide](https://tao.lifeitself.us/project-management%20/) introduces the key principles, the roles, and the two-week sprint process that underlies this approach.
 
-For information on our key tools and how we use them, read [Getting Work Done]. 
+For information on our key tools and how we use them, read [Getting Work Done](). 
