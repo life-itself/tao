@@ -8,10 +8,10 @@ Please see here for our [Project Management Guide](/project-management%20/#roles
 
 Practicing together is at the core of Life Itself. It helps us foster our community, maintain and live our values and vision, and transmit them in our daily life.
 
-Among the most important once are: 
+Among the practices we share are: 
  
-  * [Five Remembrances](/five-remembrances/)
-  * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
-  * [Beginning Anew](/beginning-anew/)
+  * [Five Remembrances](/five-remembrances/) - recitation that helps us make friends with our fears of growing old, getting sick, being abandoned, and   dying, while appreciating deeply the wonders of life that are available here and now.
+  * [Five Mindfulness Trainings](/five-mindfulness-trainings/) - true practices of compassion and understanding offering a framework to reflect on our actions, speech and thinking. 
+  * [Beginning Anew](/beginning-anew/) - conflict resolution practice that involves looking deeply at ourselves to create a fresh beginning within ourselves and in our relationships with others. 
   * Gratitudes
-  * [Sharing Meals](/hubs/agreement/#hub-agreement) 
+  * [Sharing Meals](/hubs/agreement/#hub-agreement) - shared meals are an important part of the ‘glue’ that holds our community together.
