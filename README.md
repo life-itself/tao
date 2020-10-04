@@ -45,10 +45,10 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
   * [Practices](/patterns%20/#practices)
   
 # Participate
-* [Being a hub member](/hubs)
+* [Being a Hub Member](/hubs)
   * [Residents' Agreement](/hubs/agreement/)
   * [Hub Context](/context)
-* Being a Team Member
+* [Being a Team Member](https://tao.lifeitself.us/team-member/) 
   * [Onboarding Guide](/onboarding/)
   * [Working with us](/working-with-us/)
   * [Project Management Guide](/project-management%20/#project-management-guide/)
