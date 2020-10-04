@@ -4,12 +4,13 @@ We are a small team of talented professionals with a wide range of skills and ex
 
 ## Becoming a Team Member
 
-If you not yet a part of the Life Itself team and interested, please see [work with us](https://lifeitself.us/jobs/) to check whether there are any open vacancies. You can also read more about our [collaborators](https://lifeitself.us/collaborators/) or [contact us](https://lifeitself.us/contact/). 
+If you not yet a part of the Life Itself team and you are interested, please see [work with us](https://lifeitself.us/jobs/) to check whether there are any open vacancies. You can also read more about our [collaborators](https://lifeitself.us/collaborators/) or [contact us](https://lifeitself.us/contact/). 
 
 ## Onboarding 
 
 Welcome to Life Itself! 🌱 
-If you are a new to the Life Itself team, this Onboarding Guide provides you with a simple step by step process to get set up at Life Itself. It will introduce you to all the key systems and introduce you to the key tools we use. 
+
+If you are a new to the Life Itself team, this [Onboarding Guide](https://tao.lifeitself.us/onboarding/) provides you with a simple step by step process to get set up at Life Itself. It will introduce you to all the key systems and tools we use. 
 
 ## Working with us 
 
@@ -23,6 +24,7 @@ It also includes information on:
 
 ## How we work
 
-We use a scrum-based agile process to deliver projects. Our [Project Management Guide](https://tao.lifeitself.us/project-management%20/) introduces the key principles, the roles, and the two-week sprint process that underlies this approach.
+We use a scrum-based agile process to deliver projects. Our [Project Management Guide](https://tao.lifeitself.us/project-management%20/) introduces the key principles, the roles, and the two-week sprint process that underlie this approach.
 
 For information on our key tools and how we use them, read [Getting Work Done](). 
+
