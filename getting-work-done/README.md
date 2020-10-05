@@ -16,11 +16,11 @@ Finally, we believe in [Getting Things Done](https://tao.lifeitself.us/principle
 
 ## 2-Week Sprint Process 
 
-Work is organized in **short cycles** called **sprints**. Each sprint cycle is initiated by a sprint meeting, where team members review the past sprint and set new goals and tasks for the upcoming sprint. See the [Sprint Process]() below to find out more. 
+Work is organized in **short cycles** called **sprints**. Each sprint cycle is initiated by a sprint meeting, where team members review the past sprint and set new goals and tasks for the upcoming sprint. See the [Sprint Process](/getting-work-done/#sprint-process) below to find out more. 
 
 Most importantly:
   * Tasks are agreed on in the sprint planning meeting on a Wednesday -- the sprint then runs for 2 weeks.
-  * Tasks should be in the [product backlog](). 
+  * Tasks should be in the [product backlog](/getting-work-done/#product-backlog). 
 
 ## Roles
 
