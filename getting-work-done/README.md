@@ -181,6 +181,15 @@ This is done by the Project Owner and Project Owner ultimately has sole responsi
 ### Closing Issues 
 
 
+## Our Culture
+ 
+Working at Life Itself is different from traditional working environments. Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). Read [Working With Us](https://tao.lifeitself.us/working-with-us/#what-s-your-culture-what-makes-you-unique) to find out more about our culture and what makes us unique. 
+
+Finally, we believe in [Getting Things Done] (https://tao.lifeitself.us/principles/#getting-things-done). 
+
+
+
+
 
 
 
