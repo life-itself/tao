@@ -51,8 +51,7 @@ Moreover, there is no fixed teaching. Nevertheless the real wisdom, the teaching
 * [Being a Team Member](https://tao.lifeitself.us/team-member/) 
   * [Onboarding Guide](/onboarding/)
   * [Working with us](/working-with-us/)
-  * [Project Management Guide](/project-management%20/#project-management-guide/)
-  * [Getting Work Done](https://tao.lifeitself.us/getting-work-done/#getting-work-done)
+  * [Getting Stuff Done](https://tao.lifeitself.us/getting-work-done/#getting-work-done)
 
 
 # Reference
