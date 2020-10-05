@@ -12,7 +12,7 @@ We need to share resources to achieve our individual and collective aims. This r
  
 ## Surplus making
 
-![surplus_making](./Surplus_Making.png)
+![surplus_making](./surplus_making.png)
  
 We understand that money is essential to the long-term sustainability and impact of our work at Life Itself.
  
@@ -62,7 +62,7 @@ By Thomas Cleary and J. C. Cleary
  
 ## Open-minded rigour
 
-![open-minded_rigour](./open-minded-rigour.jpg)
+![open-minded_rigour](./open-minded_rigour.jpg)
  
 "Open-mindedness" means openness to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
  
@@ -75,7 +75,7 @@ For more detail see the primer on [Open-mindedness and Non-attachment to Views](
  
 ## Experimentation and Creativity
 
-![Experimentation](./experimental.jpg)
+![experimental](./experimental.jpg)
  
 We are open to experiment and change.
  
