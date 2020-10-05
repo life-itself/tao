@@ -83,6 +83,8 @@ Project Owner as lead with involvement as appropriate of other relevant personne
   * Gets everyone up to speed
   * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
 
+  See [Job Stories](https://playbook.datopian.com/job-stories/). 
+
 
 ## The 2-week Sprint Process
 
@@ -176,10 +178,6 @@ See http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum and http://en.wi
 
   * Answers should be very short -- each person should speak for no more than 2 minutes (less as the team gets larger).
   * If bigger issues arise, take them out of standup.
-
-### Job Stories
-
-See [Job Stories][job stories]
 
 ### Estimating Time
 
