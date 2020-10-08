@@ -2,7 +2,7 @@
 
 Our patterns describe the way we operate at Life Itself. They include various practices that we maintain, as well as how we operate internally - e.g. how we are organized, manage projects, and get stuff done.  
 
-Please see here for our [Project Management Guide](/project-management%20/#roles/) and [how we get work done](). 
+Please see here for our guide on [how we get work done](https://tao.lifeitself.us/getting-work-done/). 
 
 ## Practices
 
