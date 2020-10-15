@@ -1,8 +1,8 @@
 # Getting Stuff Done
 
-This Guide aims to introduce you to the **way we get "stuff"**, i.e. work done at Life Itself. As we work mostly self-organized and independent, it is important to understand some of the key tools and processes that we use.  
+This Guide aims to introduce you to the **way we get "stuff"**, i.e. work, done at Life Itself. As we work mostly self-organized and independent, it is important to understand some of the key tools and processes that we use.  
 
-It introduces our **scrum-based agile process** for delivering projects. This process can be used for both technical and non-technical projects[^1].
+We use a **scrum-based agile process** for delivering projects. This process can be used for both technical and non-technical projects[^1].
 
 If you have not yet been onboarded, please check the [Onboarding Guide](https://tao.lifeitself.us/onboarding/#onboardee-journey-overview) to get set up first.
 
@@ -105,6 +105,20 @@ Read more about [Job Stories](https://playbook.datopian.com/job-stories/).
 
 
 ### SCQH
+
+Project Owner + other relevant personnel **[1-2h]**
+  * An SCQH is best created in a small group of people, say maximum 7-8 (but you can do more) and then shared outwards.
+  * Allow at least 2h to create an SCQH.
+  * It will be faster the smaller the group and the more experience people have with the process. 
+
+SCQH is a problem solving tool that can be used in a number of ways, from telling stories to structuring research programmes to planning projects.
+
+* SCQH stands for Situation, Complication, Question and Hypothesis.
+  * It is sometimes written as SCQA, for Answer, but it is usually helpful to treat the last component as  a Hypothesis, which can then be tested.
+* It describes a problem (situation, complication) frames a question about what to do, and finally offers a solution in the form of the hypothesis. 
+  * The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question). 
+* An SCQH does two things: provides clarity on the problem (and solution) and aligns the group on that.
+  * The SCQH is an important group alignment process.
 
 ### Issue Tree 
 
