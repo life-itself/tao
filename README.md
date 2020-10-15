@@ -14,6 +14,11 @@ Welcome to our community. We are pragmatic utopians, committed to practical acti
 
 This is our tao, or "way". It is a guide to what we stand for and how we operate.
 
+* [Find out more about us &raquo;](#about)
+* [Our culture &raquo;](#culture)
+* [Hub guide &raquo;](/hubs/)
+* [Getting stuff done &raquo;](/#getting-stuff-done)
+
 [hubs]: https://lifeitself.us/hubs/
 [businesses]: https://lifeitself.us/businesses/
 [research]: https://lifeitself.us/institute/
@@ -65,16 +70,12 @@ Further reading:
 * [Principles](/principles/)
 * [Patterns and Practices](/patterns/)
 
-# Participate
+# Getting Stuff Done
 
-* [Being a hub member](/hubs)
-  * [Residents' Agreement](/hubs/agreement/)
-  * [Hub Context](/context)
-* Being a Team Member
-  * [Onboarding Guide](/onboarding/)
-  * [Working with us](/working-with-us/)
-  * [Project Management Guide](/project-management%20/#project-management-guide/)
-  * Getting Work Done
+* [Working with us](/working-with-us/)
+* [Project Management Guide](/project-management%20/#project-management-guide/)
+* Getting Work Done
+* [Onboarding Guide](/onboarding/)
 
 # Reference
 
