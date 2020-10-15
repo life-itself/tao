@@ -111,7 +111,7 @@ Read more about [Job Stories](https://playbook.datopian.com/job-stories/).
 
 ## How do we complete tasks?
 
-We use Gitlab Issues to track our work. See here our guide on issues. 
+We use Gitlab Issues to track our work. Read our guide on how we use [Issues](https://tao.lifeitself.us/getting-work-done/issues/). 
 
 If you are new to Gitlab, you might want to read this [introduction](https://tao.lifeitself.us/git/#part-one-what-is-git) first. 
 
