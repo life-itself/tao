@@ -117,7 +117,7 @@ Equally important as estimating, is **assessing** performance against estimates 
 In general tasks that are over 5d should be broken down into smaller tasks. This will both improve estimation (errors greatly increase as tasks get larger) and make tasks better suited to planning (as tasks can fit inside one sprint).
 
 
-## Completing Tasks
+### Completing Tasks
 
 When completing a task (i.e. a checklist item) you SHOULD:
 
@@ -147,6 +147,7 @@ And the comment here would be almost identical (often comments can be terser):
 
 ```markdown
 Mockup complete:{LINK}. Few minor items to finalize once we have answers from client.
+```
 
 ## Closing Issues
 
