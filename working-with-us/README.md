@@ -20,65 +20,9 @@ Pay particular attention to the importance of capture. If you are assigned a res
 
 ## How should I report on my work / progress? 
 
-We use Gitlab Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step, and you should lay your issue out as follows:
+We use Gitlab Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step.
 
-```md
-## Job Story
-## Acceptance
-## Tasks
-## Analysis
-```
-
-E.g.
-
-```md
-## Job Story
-I want to create an FAQ for new recruits, accessible from the Onboarding guide, so they have access to useful information that will make the joining process as smooth as possible. 
-
-## Acceptance: 
-* [ ] An FAQ section at the end of the Onboarding Guide with answers to the questions below. 
-
-## Tasks: 
-* [ ] Write answers to the following questions:
-   1. How do I write an issue?
-   2. How do I set/plan my work?
-   3. How should I report on my work / progress?
-   4. Who's my 'boss'? Who am I accountable to?
-   5. Outside of my work responsibilities, do I have other commitments / things to attend?
-   6. What's my work responsibilities?
-   7. What's your culture? What makes you unique?
-   8. How do you get stuff done? 
-   9. How do your projects get initiated? 
-   10.How does your budget get set?
-
-## Analysis
-
-None for this issue. Here you might include your questions and hypotheses, or other contextual information relevant to your issue. 
-```
-
-Once you’ve set out your issue like this, you should keep it up to date so that your team members can follow along. 
-* First, ensure that it is labelled correctly. You can label issues so that issues with the same label appear together in your Issue Board on Gitlab. This makes reviewing outstanding issues easier.
-
-* [Record an estimate](https://docs.gitlab.com/ee/user/project/time_tracking.html) of how long it will take you to complete the issue. You will keep track of the time you spend in the same way.
-
-* Make comments next to each task, **in bold**, to indicate how you’re progressing with each task. This should be done so that somebody else can see, at a glance, how you’re getting on. 
-
-* Third, you should keep a log of your progress in the Comments section of the Issue (including a record of how much time you are spending on the tasks). The difference between writing updates in the description and in the comments section is that the Comments section represents the _flow_ of your work, whereas the Description represents the most up-to-date _state_ of your work. You should ensure you use both. 
-
-* If you need someone else to assist you, you can @ them in the Comments section with a message to indicate what you’d like their help with. However, ensure you’ve generated a hypothesis first, and that you include it in your message. This way, you might find you can solve it yourself, and if you can’t, it helps your team follow your thought process. 
-
-* If you are blocked, i.e. you cannot make progress without a response from a team member, label your issue as ‘Blocked’ and ensure the relevant person has been @’d in the comments so they are aware you require their assistance.
-
-* Finally, once you’ve completed your issue, you can label the issue as ‘In review’ if it needs a team member to look over it, or you can close the issue altogether. You must include a brief comment explaining why the issue has been closed. You should start your comment with one of the following:
-
-  * FIXED
-  * INVALID
-  * WONTFIX
-  * DUPLICATE. 
-
-* And follow it up with a short explanation of why the issue has been closed. Read a [more detailed explanation](https://playbook.datopian.com/issues-tasks/#closing-issues) in the Datopian playbook. 
-
-Read more about [Job Stories](https://playbook.datopian.com/job-stories/).
+Read [Getting Work Done](https://tao.lifeitself.us/getting-work-done/#how-do-we-complete-tasks) to learn more about issues and the specific layout we use. 
 
 ## What should I do if I don't have enough work? 
 
@@ -101,7 +45,7 @@ We need to pay an invoice on Xero. How should we do this?
 
 ## How do your projects get initiated?  
 
-Typically by creating a Gitlab issue. See above.
+Typically by creating a Project A10 and a Gitlab issue. See our [Getting Work Done Guide](https://tao.lifeitself.us/getting-work-done/#how-do-we-set-up-projects). 
 
 ## Contacting Ops
 

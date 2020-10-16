@@ -3,24 +3,32 @@
 These are the principles and values which shape the culture of our community.
  
 ## Interdependence
+
+![interdependence](./interdependence.jpg)
  
 We are happy to depend on others, and have them depend on us.
  
 We need to share resources to achieve our individual and collective aims. This requires a desire and willingness to compromise and go beyond our individual convenience in the service of the health and workability of the broader community and vision. Interdependence is not a concept but a lived practice – materially & emotionally. For example, we support basic income, and use revenue sharing to facilitate co-ownership.
  
 ## Surplus making
+
+![surplus_making](./surplus_making.png)
  
 We understand that money is essential to the long-term sustainability and impact of our work at Life Itself.
  
 We want to be materially sustainable and independent (over multiple generations). That requires us to make a surplus. We need community members who are interested in and/or supportive of making money and creating profitable enterprises.
  
 ## Transformation
+
+![transformation](./transformation.jpg)
  
 We believe that transformation is possible and that this takes training and applied practice.
  
 We engage in ongoing practice and training to develop ourselves, to be well and deal with difficulties that come up. We believe in the possibility of creating a radically better future for individuals and the collective through awakening and the transformation of suffering, and we believe it takes commitment and effort to bring this about.
  
 ## Coliving
+
+![coliving](./coliving.png)
 
 > The jewel of community, the Sangha, is to be held equal to the Buddha and the Dharma. Indeed the whole of holy life is fulfilled through spiritual friendship. 
 
@@ -31,6 +39,8 @@ To nourish and sustain a shared culture we need to spend time together. This can
 Coliving brings with it shared practices, fellowship and lived community. It brings direct experience and the practice of interdependence, surplus generation and personal and collective transformation.
  
 ## Zen & Mindfulness
+
+![zen](./zen.jpg)
  
 Our ontology and philosophy are grounded in Zen and mindfulness. Zen is not a philosophy or a religion. Zen tries to free the mind from the slavery of words and the constriction of logic. Zen in its essence is the art of seeing into the nature of one's own being, and it points the way from bondage to freedom. Zen is meditation.
  
@@ -51,6 +61,8 @@ By Thomas Cleary and J. C. Cleary
 > A Ch’an master once wrote that the wise enshrine the miraculous bones of the ancients within themselves; that is, they do not regard teachings of ways to enlightenment as an external body of knowledge or information to be possessed as an acquisition or believed or revered as inflexible dogma, but rather apply it as far as possible to themselves and their situations, vivifying the way of enlightenment with their own bodies and lives, not just in their thoughts.
  
 ## Open-minded rigour
+
+![open-minded_rigour](./open-minded_rigour.jpg)
  
 "Open-mindedness" means openness to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
  
@@ -63,7 +75,7 @@ For more detail see the primer on [Open-mindedness and Non-attachment to Views](
  
 ## Experimentation and Creativity
 
-![Experimentation](./experimental.jpg)
+![experimental](./experimental.jpg)
  
 We are open to experiment and change.
  
@@ -85,6 +97,8 @@ Concretely and specifically, integrity is **Honouring your word**. Honouring you
 Why is integrity so valuable? It is the bridge to workability and performance.
 
 ## Getting Things Done
+
+![getting_stuff_done](./getting_stuff_done.jpg)
 
 We ship, we do, we get stuff done.
  

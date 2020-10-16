@@ -74,7 +74,6 @@ Further reading:
 
 * [Working with us](/working-with-us/)
 * [Project Management Guide](/project-management%20/#project-management-guide/)
-* Getting Work Done
 * [Onboarding Guide](/onboarding/)
 
 # Reference
