@@ -25,6 +25,7 @@ module.exports = {
   },
   plugins: [
     [
+      'vuepress-plugin-mermaidjs',
       '@vuepress/plugin-google-analytics',
       {
         'ga': ''
