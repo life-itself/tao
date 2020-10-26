@@ -1,6 +1,8 @@
 # Our Culture
 
-A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people interact and work together. It is the basic operating system for collective being.
+A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people interact and work together.[^what-is]
+
+[^what-is]: Another definition would be a: a community of practice plus a network of values. An intentional culture would include a shared purpose so it would then be a shared purpose + community of practice + network of values.
 
 Culture is especially important to Life Itself, in a sense it *is* Life Itself -- not only how we operate internally, but the very thing we are creating and sharing as an organization.
 
