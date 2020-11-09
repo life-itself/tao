@@ -131,7 +131,7 @@ This is my exciting onboarding issue! 🌱
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
   * [ ] Confirmed I have the daily standup and fortnightly sprint meetings in my calendar
 * [ ] Standups
-  * [ ] Write a standup in Gitlab
+  * [ ] Write a standup in Gchat
 * [ ] Meetings
   * [ ] Create a meeting doc in the onboarding practice folder by copying the 'Meeting Template for Onboarding' doc: https://drive.google.com/drive/folders/1ACL1ztVfLoe79Akjc0mCx4QRkiMVCX8O
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
