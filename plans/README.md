@@ -35,9 +35,9 @@ Life Itself will focus on 8 key work streams, with the primary focus in 2020 bei
 
 ## 2020 Focus Areas
 
-### Primary focus areas
-
 <img src="./2020.png">
+
+### Primary focus areas
 
 * Finding People: Pioneers and Contributors and Supporters
 
