@@ -82,19 +82,19 @@ In order to find pioneers, contributors and supporters, Life Itself has a pipeli
 The pipeline consists of the following:
 
 1. The proposition: Life Itself can help you:
-  * Connect with people like you
-  * Deepen your practice to perform better in areas you care about
-  * Discuss the big questions of life
+    * Connect with people like you
+    * Deepen your practice to perform better in areas you care about
+    * Discuss the big questions of life
 2. Call to action: Sign up to get info from us (target of 10k participants) *(Set up a patreon that helps fund content development)*
-  * Get info/content on it (newsletter)
+    * Get info/content on it (newsletter)
 3. Call to action: Tell us about you (target of 5k participants) 
-  * We’ll tell you what kind of monk you are.
+    * We’ll tell you what kind of monk you are.
 4. Call to action: Join a virtual story circle (target of 1k participants, 100 per story circle) 
-  * Get real, connected experience with people like you (or, not like you) that we think you’ll like by hearing and sharing life stories
-  * (People who’ve joined these will ultimately run them, but at first they will be run by people in hubs, in nucleus, etc.)
+    * Get real, connected experience with people like you (or, not like you) that we think you’ll like by hearing and sharing life stories
+    * (People who’ve joined these will ultimately run them, but at first they will be run by people in hubs, in nucleus, etc.)
 5. Call to action: Join a family call (call can be in person) for three months (target of 100 participants). 
-  * Sustain and deepen your practice with people like you
-  * (At first, (like now) people in hubs, in nucleus, etc run these but then people who’ve been on them can run them.)
+    * Sustain and deepen your practice with people like you
+    * (At first, (like now) people in hubs, in nucleus, etc run these but then people who’ve been on them can run them.)
 6. Call to action: At three months, see if they want to continue with the family calls. Ideally, they start to host them.
 
 At any point, when available, we can offer the below, but trust that the further down the pipeline people are, the more likely they are to be a good fit for the below. 
