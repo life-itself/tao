@@ -22,6 +22,7 @@ See the full [SCQH](/scqh/) for context.
 ### Programs
 
 Life Itself will focus on 8 key work streams, with the primary focus in 2020 being the recruitment of value-aligned people (Pioneers, Contributors and Supporters):
+
 1. Comms and Branding
 2. Big vision
 3. Spaces
@@ -31,7 +32,9 @@ Life Itself will focus on 8 key work streams, with the primary focus in 2020 bei
 7. Art
 8. Core
 
-<iframe width='853' height='480' src='https://embed.coggle.it/diagram/XiR1dpbiFfqK6G8n/189e515c13b954dac5094a79ae6840811d4faa9c69ba97f92d2800f4bf36dcc3' frameborder='0' allowfullscreen></iframe>
+![](./aet-workstreams-as-of-2020.png)
+
+Life Itself Workstreams as of Jan 2020 ([source coggle](https://coggle.it/diagram/XiR1dpbiFfqK6G8n/t/life-itself-workstreams-as-of-2020)
 
 ## 2020 Focus Areas
 
