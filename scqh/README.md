@@ -1,10 +1,10 @@
 # Reason for our Existence
 
-This document spells out the reason for the existence of Life Itself. It uses the structure of "situation, complication, question, hypothesis (SCQH)" which is a format wee have found a powerful and useful methodology for diagnosing problems and hypothesing solutions. (If you are unfamiliar with SCQH please see http://playbook.datopian.com/scqh).
+This document spells out the reason for the existence of Life Itself. It uses the structure of "situation, complication, question, hypothesis (SCQH)". This is a methodology we have found useful and powerful for diagnosing problems and hypothesing solutions. (If you are unfamiliar with SCQH please see http://playbook.datopian.com/scqh).
 
-The SCQH is intended to set out in a succinct way why we exist and, implicitly, our theory of change. It is intentionally very short and therefore highly distilled (each part should be maximum paragraph and preferably a senctence and the whole should fit in a single page). We are working on a commentary that expands on some of the key points in greater detail.
+The SCQH is intended to set out in a succinct way why we exist and, implicitly, our theory of change. It is intentionally very short and therefore highly distilled (each part of an SCQH should be maximum paragraph and preferably a senctence and the whole should fit in a single page). We are working on a commentary that expands on some of the key points in greater detail.
 
-Like most key documents our SCQH continues to be reviewed and revised and as well as the most recent version (2019) we have also included the previous version (2017).
+Like most key documents our SCQH continues to be reviewed and revised. Thus, as well as the most recent version (2019), we have also included the previous version (2017).
 
 ## 2019 SCQH
 
