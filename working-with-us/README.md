@@ -47,6 +47,14 @@ We need to pay an invoice on Xero. How should we do this?
 
 Typically by creating a Project A10 and a Gitlab issue. See our [Getting Work Done Guide](https://tao.lifeitself.us/getting-work-done/#how-do-we-set-up-projects). 
 
+## Feedback and reviews
+
+At Life Itself we seek to provide value honest, constructive feedback to one another wherever possible. While this can be done informally as required, we also have in place more some formalised review structures.
+
+New team members will have the opportunity for a review session after their first two months at Life Itself, and all staff will have reviews every sixth months. These reviews will collect input from all colleagues who have worked with the reviewee, and are designed to support continuing personal and professional development. Each team member will have the opportunity to request which colleague they would like to conduct their review meeting and go through the feedback they have received with them. 
+
+Alongside this individual review process we seek to conduct regular project check-ins, and project closeout reviews to take stock of what is working and not working so well in our approach, and what we as an organisation can learn. 
+
 ## Contacting Ops
 
 For all things ops related (office/finance/admin) please email ops@lifeitself.us
