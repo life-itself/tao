@@ -209,7 +209,7 @@ Generating money so that we can engage people and expand our work.
 
 * €50k in grants
 * €50k from working cooperative / membership
-* €20k from mutual project co e.g. Datopian
+* €20k from mutual project co e.g. Atomatic/Datopian
 * Potentially launch transformational consulting 
 
 ### Key initiatives
