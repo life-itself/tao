@@ -57,6 +57,7 @@ Further reading:
 * **Principles**: read about our [core principles](/principles/)
 * **Patterns**: read about the [patterns we operate by](/patterns/)
 * **All our initiatives**: see [initiatives](/initiatives/)
+* **Reason for our existence (SCQHs)**: see our [situation, complication, question, hypothesis][scqh], also known as our root cause analysis and/or theory of change.
 
 [people]: https://lifeitself.us/people/
 [story]: https://lifeitself.us/about/story/
@@ -78,9 +79,7 @@ Further reading:
 
 # Reference
 
-* Glossary
-* Further reading
-* Bibliography
+* [Glossary](/glossary/)
+* [Sayings](/sayings/)
+* [Library](/library/)
 * [Press Pack](/press/): this is the narrative of Life Itself; a primer and resource on why we exist and what we are doing.
-* [SCQHs](/scqh/): this is our situation, complication, question, hypothesis, also known as our root cause analysis and/or theory of change.
-
