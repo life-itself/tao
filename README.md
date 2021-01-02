@@ -82,4 +82,3 @@ Further reading:
 * [Glossary](/glossary/)
 * [Sayings](/sayings/)
 * [Library](/library/)
-* [Press Pack](/press/): this is the narrative of Life Itself; a primer and resource on why we exist and what we are doing.
