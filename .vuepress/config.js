@@ -21,6 +21,21 @@ module.exports = {
     editLinks: true,
     sidebar: 'auto',
     nav: [
+      { text: 'About', items: [
+          { text: 'About', link: '/#about' },
+          { text: 'Plans', link: '/plans/' },
+          { text: 'Governance', link: '/governance/' }
+        ]
+      },
+      { text: 'Why', items: [
+          { text: 'Narrative', link: '/narrative/' },
+          { text: 'Reason for existence (SCQH)', link: '/scqh/' }
+        ]
+      },
+      { text: 'Culture', link: '/#culture' },
+      { text: 'Hubs', link: '/hubs/' },
+      { text: 'Getting Stuff Done', link: '/#getting-stuff-done' },
+      { text: 'Reference', link: '/#reference' } 
     ]
   },
   plugins: [
