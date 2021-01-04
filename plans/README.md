@@ -2,9 +2,11 @@
 
 ## Visions
 
-### The Next Five Years
+### The Next Five Years (2018)
 
-Over the next 5 years we will continue to grow and share our culture and commitment to practical action by creating and expanding co-living hubs, increasing our outreach, generating more money to expand and improving our branding. We will begin a big vision conversation about societal transformation which enters mainstream discourse. If you would like more detail, read on for our 2019 and 2020 plans. If you want to know what we've been up to on a monthly basis, check out the updates on our [blog](https://lifeitself.us/blog/).
+Over the next 5 years we will continue to grow and share our culture and commitment to practical action by creating and expanding co-living hubs, increasing our outreach, generating more money to expand and improving our branding. We will begin a big vision conversation about societal transformation which enters mainstream discourse.
+
+If you would like more detail, read on for our 2019 and 2020 plans. If you want to know what we've been up to on a monthly basis, check out the updates on our [blog](https://lifeitself.us/blog/).
 
 ### Long-Term
 
@@ -18,6 +20,10 @@ See the full [SCQH](/scqh/) for context.
 
 1. Nurturing micro-cultures that are waking up, growing up (teal) and cleaning up
 2. Catalysing a big vision conversation
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSGKcj-2KHgGBC_OSnq5_VUAVvCmnf-Upm0xEjast6mzDDzuGYCPKCA0VgDr89oq-iYAQ3BWSgZnsmi/pub?w=1664&amp;h=878">
+
+[Source Drawing](https://docs.google.com/drawings/d/1Lw32SijYsQrVAg6ICsRyEo0VENYwvehqqcTEsf9UM1A/edit)
 
 ### Programs
 
