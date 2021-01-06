@@ -62,8 +62,6 @@ subgraph "Welcome / Getting Started"
   finishbasics --> context[Company Context]
   context --> onboardmeet[Onboarding Meeting]
 end
-
-end
 ```
 
 ## Onboarding Checklist: Issue template
