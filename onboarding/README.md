@@ -2,7 +2,7 @@
 
 Welcome to Life Itself! 👣 🌱
 
-This guide provides you with a simple step by step process to get set up at Life Itself so that you are ready to go. We have designed it to be largely self-service so you can do it on your own, at your own pace.
+This guide provides you with a simple step-by-step process to get set up at Life Itself so that you are ready to go. We have designed it to be largely self-service so you can do it on your own, at your own pace.
 
 :::tip Feedback 📣
 We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (please check in with your Onboarder first). Or you can leave comments using Hypothesis (see below).
