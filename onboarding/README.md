@@ -46,7 +46,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 4. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email.
 5. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
 6. Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
-7. Read about [Working with Us]
+7. Read about [Working with Us][]
 
 [Working with Us]: /working-with-us/
 [phonebook]: https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0
