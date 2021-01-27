@@ -10,9 +10,11 @@ If you would like more detail, read on for our 2019 and 2020 plans. If you want 
 
 ### Long-Term
 
-Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, practices and ideals). These communities will engage with broader society and ally with like-minded groups commited to transforming society and to practical action, including large scale political efforts to address collective challenges.
+Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, values and practices including the possibility of transformation, the primacy of (inter)being and getting stuff done). These communities will engage with broader society and ally with like-minded groups to foster a culture of wisdom and awakening [^1] that can transform society and will be committed to practical action, including large scale political efforts to address collective challenges.
  
 See the full [SCQH](/scqh/) for context.
+
+[^1]: Shorthand for "waking up, growing up, cleaning up and showing up".
 
 ## 2020 Plan
 

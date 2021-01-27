@@ -32,6 +32,8 @@ https://coggle.it/diagram/XSXuEFj7lR6oRu4Y/t/star-within-our-lifetime-a-weller-w
 
 Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, values and practices including the possibility of transformation, the primacy of (inter)being and getting stuff done). These communities will engage with broader society and ally with like-minded groups to foster a culture of wisdom and awakening [^1] that can transform society and will be committed to practical action, including large scale political efforts to address collective challenges.
 
+[^1]: Shorthand for "waking up, growing up, cleaning up and showing up".
+
 #### Hypothesis Tree
 
 ⚠️ Unfinished ⚠️
@@ -76,5 +78,3 @@ What are the foundational values and views, a big vision and its associated road
 Develop a community of people based on a shared culture and shared views that include the possibility of transformation, the primacy of being, getting shit done and [tolerant universalism]; and with a focus on the development of a big vision and committed to powerful, practical action to realise it [including the development of a large-scale political movement] [on the timescale of our lifetimes and those of our children].
 
 Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy
-
-[^1]: Shorthand for "waking up, growing up, cleaning up and showing up".
