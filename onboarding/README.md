@@ -19,17 +19,16 @@ This diagram illustrates how you should work through this onboarding process. Ea
 ```mermaid
 graph TD
 
-Prerequisites[Prerequisites]
-Onboarding["Onboarding Call"]
+pre[Pre-requisites]
+call["Onboarding Call"]
 firststeps[First Steps]
 further[Further Reading]
+comms[How we Communicate]
 
-subgraph "Day 1"
-  Prerequisites --> Onboarding
-  Onboarding --> firststeps
-  firststeps --> Communication
-  Communication --> further 
-end
+pre--> call
+call --> firststeps
+firststeps --> comms
+comms --> further 
 ```
 
 ## Prerequisites 
@@ -76,11 +75,11 @@ When you set up systems, try to pick usernames that will be easy for others to r
 * HackMD -- https://hackmd.io. HackMD is a tool for collaborating on documents with others (it's a bit like Google docs, but it uses a language called MarkDown, which we'll look at in more detail later in the onboarding process).
 * Hypothesis -- https://web.hypothes.is/start/ Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in Hypothesis.
 * Zotero (desktop app) -- https://www.zotero.org/. We use Zotero to share texts and reading lists related to Life Itself
-    * Send your Zotero username to your Onboarder
-    * After being given access, sync the Life Itself library (you will need to enter your username/pw)
+  * Send your Zotero username to your Onboarder
+  * After being given access, sync the Life Itself library (you will need to enter your username/pw)
 * Todoist -- https://todoist.com/. Todoist is an inbox for the initial capture of tasks. You should still create Gitlab issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done.
----
 
+---
 
 ## Key Tools
 
