@@ -1,10 +1,8 @@
-# LIFE ITSELF HUBS CO-LIVING RESIDENCY AGREEMENT
+# Hubs Residency Agreement
 
 We are a mindful community seeking to create a sustainable shared space of warmth, getting stuff done, joy, creativity, generosity, acceptance and authentic connection. 
 
 We are committed to living together in a way that cultivates wisdom, compassion and care for ourselves, each other and the world around us. In order to achieve that we embrace certain principles, such as the [Five Mindfulness Principles](https://tao.lifeitself.us/five-mindfulness-trainings/). 
-
-# Hub Agreement
 
 ## Shared Meals
 
@@ -76,10 +74,6 @@ This applies only if the guest joins the shared communal food:
 * When leaving your residency we ask you to not leave any trace unless agreed, and put things back where you found them; to not colonise the space with information (books, dvd’s etc.), and keep information, materials, equipment and spaces available as you found them.
 * We will not pick you up at train stations or airports, meaning that you have to come by your own means.
 * Hubs can not take animals.
-* Residencies are for individuals and we don’t offer it to partners. If you want to come with a partner please contact us and we can discuss this.
-* Payment is by bank transfer or Paypal within two weeks of receipt of your acceptance to the residency (if this is a problem this can be discussed).
+* Residencies are by default for individuals. If you want to come with a partner, the partner should also be applying to be a resident. Please contact us and we can discuss this.
+* Payment is by bank transfer within two weeks of receipt of your acceptance to the residency (if this is a problem this can be discussed).
 * You are responsible for obtaining any relevant travel permissions including visas (Life Itself may be able to provide you with a letter of support).
-
-## Why?
-
-Please see here for more information about [the context of our hubs](/hubs/context/). 
