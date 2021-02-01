@@ -82,4 +82,4 @@ This applies only if the guest joins the shared communal food:
 
 ## Why?
 
-Please see here for more information about [the context of our hubs](https://tao.lifeitself.us/context/). 
+Please see here for more information about [the context of our hubs](/hubs/context/). 
