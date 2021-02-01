@@ -19,6 +19,11 @@ You can edit any page of the Tao yourself. Just scroll to the bottom of the page
 
 Bear in mind, this is a direct edit, and so will appear on the Tao website without being checked by anyone. Read below about merge reuqests to understand how to make changes that do get checked before going live. 
 
+### Editing the Tao, using cloning, branches and merge requests
+
+You might not want to make direct edits to the Tao, as once you have committed your change, they appear on the website. So you might want to edit the site locally first, and then creating some called a merge request, which allows others to check your work first. 
+
+
 ## Local Development
 
 1. Git clone the repo.
