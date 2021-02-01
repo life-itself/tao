@@ -25,7 +25,7 @@ You might not want to make direct edits to the Tao, as once you have committed y
 
 See these guides for further detail:
 1. [An Introduction to Git](https://tao.lifeitself.us/git/#part-one-what-is-git)
-2. [Gitlabl tutorials](https://docs.gitlab.com/ee/gitlab-basics/)
+2. [Gitlab tutorials](https://docs.gitlab.com/ee/gitlab-basics/)
 
 
 ## Local Development
