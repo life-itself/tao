@@ -1,4 +1,6 @@
- Annual Plans
+# Plans
+
+What we want to do and **how** we are going to do that.
 
 ## Visions
 
@@ -16,10 +18,22 @@ See the full [SCQH](/scqh/) for context.
 
 [^1]: Shorthand for "waking up, growing up, cleaning up and showing up".
 
-## Pillars
+## How we do it
 
-1. Nurturing micro-cultures that are waking up, growing up (teal) and cleaning up
+Our work focuses on two main workstreams or "pillars":
+
+1. Micro-cultures: pioneering an "awakening" culture -- waking up, growing up (teal) and cleaning up -- as home, engine and demonstrator
 2. Catalysing a big vision conversation
+
+### How do they connect?
+
+At first glance, it may seem these two activities are unrelated. However, we believe they are mutually reinforcing in key ways:
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSycO4GSuqaNQQJ_LRJ0pnVzRoKk_0JsrvcB8RYycv27-5Ko9cimvlKrW_y_33ldyB87bHNnlAyMx36/pub?w=983&amp;h=648">
+
+### Drilldown
+
+Vision => Pillars => Programs => Projects
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSGKcj-2KHgGBC_OSnq5_VUAVvCmnf-Upm0xEjast6mzDDzuGYCPKCA0VgDr89oq-iYAQ3BWSgZnsmi/pub?w=1664&amp;h=878">
 
