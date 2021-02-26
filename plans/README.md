@@ -10,6 +10,16 @@ Over the next 5 years we will continue to grow and share our culture and commitm
 
 If you would like more detail, read on for our 2019 and 2020 plans. If you want to know what we've been up to on a monthly basis, check out the updates on our [blog](https://lifeitself.us/blog/).
 
+### 30 Year Aspiration
+
+A new way of being (waking up, growing up, cleaning up, showing up) has been sustained materially and psycho-socially over an extended period by a networked community. A community that is acting as:
+* A home for transformation for its participants
+* A demonstrator to the wider world
+* An engine of wider social transformation (see next paragraph)
+
+A new movement dedicated to political and cultural change has emerged based on a worldview aligned with Life Itself's. Policies and platforms have been created and enacted at a local, regional and even national level.
+
+
 ### Long-Term
 
 Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, values and practices including the possibility of transformation, the primacy of (inter)being and getting stuff done). These communities will engage with broader society and ally with like-minded groups to foster a culture of wisdom and awakening [^1] that can transform society and will be committed to practical action, including large scale political efforts to address collective challenges.
@@ -30,6 +40,17 @@ Our work focuses on two main workstreams or "pillars":
 At first glance, it may seem these two activities are unrelated. However, we believe they are mutually reinforcing in key ways:
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSycO4GSuqaNQQJ_LRJ0pnVzRoKk_0JsrvcB8RYycv27-5Ko9cimvlKrW_y_33ldyB87bHNnlAyMx36/pub?w=983&amp;h=648">
+
+## Pillar Specific Theories of Change
+
+### Micro-cultures
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSHKOtzHdms6phA--0uxBC462ZQE1r_gC_2d1FuB_N1CYguNLec1PBD4zUR0htcd0nFKQ7ZY4JiqTNC/pub?w=1291&amp;h=864">
+
+### Big Vision conversation
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSRTcACwBvhCnIGyOn8PqWOWWmwVjnyad34oTGbXnsddMHyzV95tSGByzHuJik0f6N7L_aRoiSriko4/pub?w=1286&amp;h=966">
+
 
 ### Drilldown
 
@@ -59,6 +80,6 @@ Life Itself Workstreams as of Jan 2020 ([source coggle](https://coggle.it/diagra
 
 ## Plans
 
-* 2021 - coming soon!
+* [2021](/plans/2021/)
 * [2020](/plans/2020/)
 * [2019](/plans/2019/)
