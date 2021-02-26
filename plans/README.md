@@ -1,4 +1,4 @@
-# Plans
+# Plans
 
 What we want to do and **how** we are going to do that.
 
