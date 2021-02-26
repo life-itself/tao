@@ -47,12 +47,12 @@ At first glance, it may seem these two activities are unrelated. However, we bel
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSHKOtzHdms6phA--0uxBC462ZQE1r_gC_2d1FuB_N1CYguNLec1PBD4zUR0htcd0nFKQ7ZY4JiqTNC/pub?w=1291&amp;h=864">
 
-### Big Vision conversation
+### Big Vision Conversation
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSRTcACwBvhCnIGyOn8PqWOWWmwVjnyad34oTGbXnsddMHyzV95tSGByzHuJik0f6N7L_aRoiSriko4/pub?w=1286&amp;h=966">
 
 
-### Drilldown
+## Drilldown
 
 Vision => Pillars => Programs => Projects
 
