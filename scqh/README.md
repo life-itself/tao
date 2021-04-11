@@ -2,7 +2,7 @@
 
 This document spells out the reason for the existence of Life Itself. It uses the structure of "situation, complication, question, hypothesis (SCQH)". This is a methodology we have found useful and powerful for diagnosing problems and hypothesing solutions. (If you are unfamiliar with SCQH please see http://playbook.datopian.com/scqh).
 
-The SCQH is intended to set out in a succinct way why we exist and, implicitly, our theory of change. It is intentionally very short and therefore highly distilled (each part of an SCQH should be maximum paragraph and preferably a senctence and the whole should fit in a single page). We are working on a commentary that expands on some of the key points in greater detail.
+The SCQH sets out why we exist and, implicitly, our theory of change. It is intentionally very short and therefore highly distilled (each part of an SCQH should be maximum paragraph and preferably a senctence and the whole should fit in a single page). We are working on a commentary that expands on some of the key points in greater detail.
 
 Like most key documents our SCQH continues to be reviewed and revised. Thus, as well as the most recent version (2019), we have also included the previous version (2017).
 
@@ -10,13 +10,15 @@ Like most key documents our SCQH continues to be reviewed and revised. Thus, as 
 
 ### Situation 
 
-Over the last century global population has quadrupled to 8 billion and our world is more complex and intertwined than ever before. Unprecedented technological advance has brought great material wealth, but even the rich are still not truly satisfied, happy and at peace. There is a fear of the future, a lack of visionary hope and we distrust ourselves as a species and our capacity to manage our world wisely and address collective challenges such as global warming, inequality and self-government.
+Over the last century global population has quadrupled to 8 billion and our world is more complex and intertwined than ever before. Unprecedented technological advance has brought great material wealth, but even the rich are still not truly satisfied, happy and at peace. There is a fear of the future, a lack of visionary hope and we distrust ourselves as a species and our capacity to manage our world wisely and address collective challenges such as climate change, inequality and self-government.
 
 ### Complication
 
-There is a growing intuition that something is deeply the matter, that we can be radically weller and wiser – both personally and collectively – than we are today. However, our current culture – grounded in materialism, technology and individualism – will not bring this  about; in fact, it presents clear and present dangers both on a personal level in terms of loneliness, acquisitiveness and anomie, and on a collective level in terms of environmental destruction and runaway technology (e.g. AI).
+There is a growing intuition that something is deeply the matter, that we can be radically weller and wiser than we are today -- both personally and collectively. However, our current culture, which is grounded in materialism, technology and individualism, will not bring about this better future; in fact, it presents clear and present dangers both on a personal level in terms of loneliness, acquisitiveness and anomie, and on a collective level in terms of environmental destruction and runaway technology (e.g. AI).
 
-Achieving a radically wiser and weller world requires a breakthrough in individual and collective being. Though simple, this is hard because we “believe together” and it requires reaching (at least partial) consensus on foundational views and values such as the possibility of transformation (hope), the nature and primacy of (inter)being (rather than the primacy of structure or technology), and an interest and trust in big visions and collective action.
+Achieving a radically wiser and weller world requires a breakthrough in individual and collective being. Though simple, this is hard because we “believe together” and it requires reaching (at least partial) consensus on foundational views and values such as the possibility of transformation (hope), the nature and primacy of (inter)being (rather than the primacy of technology or structure)[^primacy], and an interest and trust in big visions and collective action.
+
+[^primary]: see [Primacy of Being](/primacy-of-being/)
 
 ### Question 
 
@@ -40,7 +42,9 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 See https://coggle.it/diagram/XScP2KMV3Tvd5Ec-/t/by-developing-a-big-vision-human-fulfilment-and-flourishing
 
-### Initial Planning
+### Additional Materials
+
+Some of the original brainstorming.
 
 #### Complication
 
