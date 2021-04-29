@@ -51,32 +51,28 @@ Both bergerac hubs are livable and we have planning permission.
 
 ### Key Results
 
-* **PBM:** 
-    * Main house and gite renovated to Life Itself standards and rented and garden started 
-    * Main house renovated
-    * Gite renovated
-    * Barn cleared and kitchen installed for summer
-    * Gardens started
-    * < €150k invested
-    * Planning permission for buildable land
-
-* **Barbacane:**  
+* **PBM:** Main house and gite renovated to Life Itself standards and rented and garden started 
+  * Main house renovated
+  * Gite renovated
+  * Barn cleared and kitchen installed for summer
+  * Gardens started
+  * < €150k invested
+* **Barbacane:** roof renovation done and two houses rentable and rented
     * Roof renovation done 
     * Two houses rentable and rented
     * < €30k invested
+* **PBM New build**: Planning permission for buildable land
 
 ### Initiatives 
 
 * **Spaces development PBM:** 
-    * Find and hire builder(s)
-    * Main building and Gite renovation
+  * Find and hire builder(s)
+  * Main building and Gite renovation
     * Renovation design
     * Building works and management
     * Interior furnishing
-    * Building festival?
-    * Planning for buildable land 
-
-
+  * Building festival?
+* Planning for buildable land 
 * **Spaces development Barbacane:** 
     * Barbacane roof renovation
     * Barbacane other renovations? 
@@ -131,8 +127,8 @@ Both Berlin and Bergerac Hubs are filed to the maximum capacity agreed by Life I
 ### Key Results
 
 * Coverage: at least 1m views via at least 8 appearances at different events/podcasts (each with > 300 viewers)
-    * In person talks at non LI events count for coverage x10 based on number of people actually in the room (so 20 participants = 200 views) etc
-    * 2x counts for online events we run ourselves (if >= 300 views for that online item)
+  * In person talks at non LI events count for coverage x10 based on number of people actually in the room (so 20 participants = 200 views) etc
+  * 2x counts for online events we run ourselves (if >= 300 views for that online item)
 * €100k in closed grants/consulting
 * A single “big vision” conversation brand (e.g. pragmatic utopianism) agreed and all material on the website consolidated around this.
 * 5 academic quality essays (ie not blogs) integrated with this theme
@@ -144,9 +140,9 @@ Both Berlin and Bergerac Hubs are filed to the maximum capacity agreed by Life I
 * Paper writing and publishing
 * Grant finding and funder liaison 
 * Side projects
-    * Contemplative Activism
-    * Ontological Politics
-    * Untitled
+  * Contemplative Activism
+  * Ontological Politics
+  * Untitled
 
 ## Community, Comms & x-Hub Connection
 
