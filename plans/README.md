@@ -4,7 +4,7 @@ What we want to do and **how** we are going to do that.
 
 ## Big Vision 
 
-[source coggle](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/big-vision-conversation-issue-tree-and-is-widely-adopted)
+See our Big Vision Issue Tree, which details our plans for our Big Vision. [Big Vision](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/big-vision-conversation-issue-tree-and-is-widely-adopted)
 
 ## Visions
 
