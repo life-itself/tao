@@ -1,8 +1,8 @@
 # Our Culture
 
-A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people interact and work together.[^what-is]
+A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how a community does things.[^what-is]
 
-[^what-is]: Another definition would be a: a community of practice plus a network of values. An intentional culture would include a shared purpose so it would then be a shared purpose + community of practice + network of values.
+[^what-is]: Another definition: a community of practice plus a network of values. An intentional culture would include a shared purpose and would thus the definition would become: a shared purpose + community of practice + network of values.
 
 Culture is especially important to Life Itself, in a sense it *is* Life Itself -- not only how we operate internally, but the very thing we are creating and sharing as an organization.
 
@@ -35,7 +35,7 @@ In short, we believe we all have "buddha-nature"[^buddha-nature] and it is there
     “How could polishing a tile make a mirror?”
     “How could sitting in zazen make a Buddha?”
 
-We also believe that much that gets in the way of realising that nature: fear, ignorance, delusion, craving, anger etc. In particular, and especially relevant for us as an organization, we believe we humans have a tendency to:
+We also believe that much that gets in the way of realising that nature: fear, ignorance, delusion, craving, anger etc. In particular we believe we humans have a tendency to:
 
 * **Looking good / avoiding looking bad**: we often are concerned with how we appear to others -- rather than actual outcomes in reality.
 * **Judging**: to make ourselves, others and situations "wrong" (or "right"), assessing them as good and bad (and making these assessments on very little evidence).
