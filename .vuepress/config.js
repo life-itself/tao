@@ -32,7 +32,7 @@ module.exports = {
           { text: 'Reason for existence (SCQH)', link: '/scqh/' }
         ]
       },
-      { text: 'Culture', link: '/#culture' },
+      { text: 'Culture', link: '/culture/' },
       { text: 'Hubs', link: '/hubs/' },
       { text: 'Getting Stuff Done', link: '/#getting-stuff-done' },
       { text: 'Reference', link: '/#reference' } 
