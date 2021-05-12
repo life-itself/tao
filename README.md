@@ -5,7 +5,7 @@ tagline: A Guide to Our Way of Being and Doing
 actionText: Get Started →
 actionLink: /#welcome
 heroImage: /img/tao.svg
-footer: Copyright © 2016-present Art / Earth / Tech
+footer: Copyright © 2016-present Life Itself
 ---
 
 # Welcome
