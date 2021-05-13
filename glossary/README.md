@@ -24,6 +24,16 @@ Distinct from the company or any other legal entity or group of people.
 
 Landmark Education and the Landmark Forum. Successor to est and founded by Werner Erhard. Landmark has a major positive impact and influence on Life Itself and much of its terminology has found its way into everyday usage and you can read more about Landmark's terminology here: https://en.wikiversity.org/wiki/Landmark_Education/Abd/Glossary
 
+## Religion
+
+Religion is a collection of beliefs and practices that honor [spirituality](#Spirituality].
+
+## Spirituality
+
+> Spirituality is in part a feeling of being connected to something larger than oneself. Religion is in part a collection of beliefs and practices that honor spirituality. A scientific theory that affirms these statements cannot be entirely hostile to religion. [David Sloan Wilson in Darwin's Cathedral]
+
+See https://lifeitself.us/2019/02/04/darwins-cathedral-david-sloan-wilson/#ode-to-a-future-culturology
+
 ## Triangles
 
 From "Practicing with the Triangle" in Plum Village's *Joyfully Together*:
