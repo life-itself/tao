@@ -26,7 +26,7 @@ Landmark Education and the Landmark Forum. Successor to est and founded by Werne
 
 ## Religion
 
-Religion is a collection of beliefs and practices that honor [spirituality](#Spirituality).
+> Religion is, in part, a collection of beliefs and practices that honor [spirituality](#Spirituality). [David Sloan Wilson in Darwin's Cathedral]
 
 ## Spirituality
 
