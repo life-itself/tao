@@ -1,3 +1,7 @@
+---
+tags: views
+---
+
 # Not Everyone Knows What They Want?
 
 (aka False Consciousness is true at the personal level).
