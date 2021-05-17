@@ -2,10 +2,6 @@
 
 What we want to do and **how** we are going to do that.
 
-## Big Vision 
-
-See our Big Vision Issue Tree, which details our plans for our Big Vision. [Big Vision](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/big-vision-conversation-issue-tree-and-is-widely-adopted)
-
 ## Visions
 
 ### Long-Term
@@ -84,6 +80,10 @@ Life Itself will focus on 8 key work streams, with the primary focus in 2020 bei
 ![](./aet-workstreams-as-of-2020.png)
 
 Life Itself Workstreams as of Jan 2020 ([source coggle](https://coggle.it/diagram/XiR1dpbiFfqK6G8n/t/life-itself-workstreams-as-of-2020)
+
+## Big Vision 
+
+See our Big Vision Issue Tree, which details our plans for our Big Vision. [Big Vision](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/big-vision-conversation-issue-tree-and-is-widely-adopted)
 
 
 ## Annual Plans
