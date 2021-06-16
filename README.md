@@ -73,9 +73,7 @@ Further reading:
 
 # Getting Stuff Done
 
-* [Working with us](/working-with-us/)
-* [Project Management Guide](/project-management/)
-* [Onboarding Guide](/onboarding/)
+See [Getting Work Done section](/getting-work-done).
 
 # Reference
 
