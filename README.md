@@ -73,7 +73,7 @@ Further reading:
 
 # Getting Stuff Done
 
-See [Getting Work Done section](/getting-work-done).
+See [Getting Work Done section](/getting-stuff-done).
 
 # Reference
 

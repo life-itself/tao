@@ -138,7 +138,7 @@ This is my exciting onboarding issue! 🌱
   
 ### Extra Steps
   
-* [ ] Read about how to create a perfect issue in Gitlab: https://tao.lifeitself.us/getting-work-done/issues/
+* [ ] Read about how to create a perfect issue in Gitlab: https://tao.lifeitself.us/issues/
 * Read about getting things done
   * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/

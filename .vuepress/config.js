@@ -35,7 +35,7 @@ module.exports = {
       { text: 'Culture', link: '/culture/' },
       { text: 'Hubs', link: '/hubs/' },
       { text: 'Getting Stuff Done', items: [
-          { text: 'Getting Work Done',  link: '/getting-work-done/' },
+          { text: 'Getting Stuff Done overview',  link: '/getting-stuff-done/' },
           { text: 'Working with Us ',  link: '/working-with-us/' },
           { text: 'Onboarding Guide',  link: '/onboarding/' },
           { text: 'Issues and Tasks',  link: '/issues/' },

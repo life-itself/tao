@@ -22,7 +22,7 @@ Pay particular attention to the importance of capture. If you are assigned a res
 
 We use Gitlab Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step.
 
-Read [Getting Work Done](https://tao.lifeitself.us/getting-work-done/#how-do-we-complete-tasks) to learn more about issues and the specific layout we use. 
+Read [Getting Stuff Done](/getting-stuff-done/#how-do-we-complete-tasks) to learn more about issues and the specific layout we use. 
 
 ## What should I do if I don't have enough work? 
 
@@ -45,7 +45,7 @@ We need to pay an invoice on Xero. How should we do this?
 
 ## How do your projects get initiated?  
 
-Typically by creating a Project A10 and a Gitlab issue. See our [Getting Work Done Guide](https://tao.lifeitself.us/getting-work-done/#how-do-we-set-up-projects). 
+Typically by creating a Project A10 and a Gitlab issue. See our [Getting Work Done Guide](/getting-stuff-done/#how-do-we-set-up-projects).
 
 ## Feedback and reviews
 

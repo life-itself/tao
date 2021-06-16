@@ -1,6 +1,6 @@
 # Getting Stuff Done
 
-This Guide aims to introduce you to the **way we get "stuff"**, i.e. work, done at Life Itself. As we work mostly self-organized and independent, it is important to understand some of the key tools and processes that we use.  
+This Guide aims to introduce you to the **way we get "stuff" done** (e.g. work) at Life Itself. As we work mostly self-organized and independent, it is important to understand some of the key tools and processes that we use.
 
 We use a **scrum-based agile process** for delivering projects. This process can be used for both technical and non-technical projects[^1].
 
@@ -16,11 +16,11 @@ Finally, we believe in [Getting Things Done](https://tao.lifeitself.us/principle
 
 ## 2-Week Sprint Process 
 
-Work is organized in **short cycles** called **sprints**. Each sprint cycle is initiated by a sprint meeting, where team members review the past sprint and set new goals and tasks for the upcoming sprint. See the [Sprint Process](/getting-work-done/#sprint-process) below to find out more. 
+Work is organized in **short cycles** called **sprints**. Each sprint cycle is initiated by a sprint meeting, where team members review the past sprint and set new goals and tasks for the upcoming sprint. See the [Sprint Process](#sprint-process) below to find out more. 
 
 Most importantly:
   * Tasks are agreed on in the sprint planning meeting on a Wednesday -- the sprint then runs for 2 weeks.
-  * Tasks should be in the [product backlog](/getting-work-done/#product-backlog). 
+  * Tasks should be in the [product backlog](#product-backlog). 
 
 ## Roles
 
@@ -125,9 +125,7 @@ SCQH is a problem solving tool that can be used in a number of ways, from tellin
 
 ## How do we complete tasks?
 
-We use Gitlab Issues to track our work. Read our guide on how we use [Issues](https://tao.lifeitself.us/getting-work-done/issues/). 
-
-If you are new to Gitlab, you might want to read this [introduction](https://tao.lifeitself.us/git/#part-one-what-is-git) first. 
+We use Gitlab Issues to track our work. Read our guide on how we use [Issues](/issues/). 
 
 # Sprint Process 
 
