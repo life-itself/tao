@@ -4,15 +4,15 @@ This Guide aims to introduce you to the **way we get "stuff" done** (e.g. work) 
 
 We use a **scrum-based agile process** for delivering projects. This process can be used for both technical and non-technical projects[^1].
 
-If you have not yet been onboarded, please check the [Onboarding Guide](https://tao.lifeitself.us/onboarding/#onboardee-journey-overview) to get set up first.
+If you have not yet been onboarded, please check the [Onboarding Guide](/onboarding/) to get set up first.
 
 [^1]: Whilst Scrum (and Agile generally) was originally developed for software projects, it has now successfully been used for many non-software projects.
 
 ## Our Culture
  
-Working at Life Itself is different from traditional working environments. Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). Read [Working With Us](https://tao.lifeitself.us/working-with-us/#what-s-your-culture-what-makes-you-unique) to find out more about our culture and what makes us unique. 
+Working at Life Itself is different from traditional working environments. Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). Read [Working With Us](/working-with-us/#what-s-your-culture-what-makes-you-unique) to find out more about our culture and what makes us unique. 
 
-Finally, we believe in [Getting Things Done](https://tao.lifeitself.us/principles/#getting-things-done). 
+Finally, we believe in [Getting Things Done](/principles/#getting-things-done). 
 
 ## 2-Week Sprint Process 
 
