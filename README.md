@@ -56,7 +56,7 @@ Further reading:
 * **Governance (who owns us? How are we run?)**: we're owned by ourselves with no outside investors and a purpose-lock and an associated non-profit. Read more in our [governance](/governance/)
 * **Principles**: read about our [core principles](/principles/)
 * **Patterns**: read about the [patterns we operate by](/patterns/)
-* **All our initiatives**: see [initiatives](/initiatives/)
+* **All our initiatives**: see https://lifeitself.us/initiatives/
 * **Reason for our existence (SCQHs)**: see our [situation, complication, question, hypothesis][scqh], also known as our root cause analysis and/or theory of change.
 
 [people]: https://lifeitself.us/people/

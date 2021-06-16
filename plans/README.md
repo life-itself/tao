@@ -2,7 +2,9 @@
 
 What we want to do and **how** we are going to do that.
 
-## Visions
+## Vision
+
+Our intention is to bring about cultural and political transformation and to create a society that embodies our values of wisdom, well-being and awakening. We aim to achieve this by sharing the culture of Life Itself and by bringing a big vision conversation about social transformation into the mainstream.
 
 ### Long-Term
 
@@ -30,12 +32,41 @@ More detail is in our [annual plans below](#annual-plans). If you want to know w
 
 ## How we do it
 
+### Two Pillars
+
 Our work focuses on two main workstreams or "pillars":
 
 1. **Pioneering a culture**: creating a sustainable network of communities within existing society through hubs and businesses that are pioneering an "awakening" culture -- waking up, cleaning up, growing up (teal) and showing up -- as home, engine and demonstrator
 2. **Transforming societies**: Catalysing a big vision conversation to transform the dominant narrative (worldview/paradigm) and associated political and cultural advocacy to enact related social and institutional change.
 
 Pioneering a culture is more local and bottom up. Transforming societies is more societal level and focused on the wider narrative and engagement.
+
+```mermaid
+graph TD
+
+li[Life itself]
+li --> pioneer[Pioneer a culture]
+li --> bigvision["Big Vision conversation"]
+
+pioneer --> hubs[Hubs]
+pioneer --> tao[Tao]
+pioneer --> gatherings[Gatherings]
+
+bigvision --> research[Research]
+bigvision --> ca[Contemplatiive Activism]
+bigvision --> policy[Policy]
+```
+
+Another more "concrete" way to break down what we do based on the concrete activities/entities we have in those areas
+
+```mermaid
+graph TD
+
+li[Life itself]
+li --> hubs[Hubs Network]
+li --> institute["Insitute Think-tank<br/>for a wiser world"]
+```
+ 
 
 ### How do they connect?
 
