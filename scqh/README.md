@@ -90,7 +90,17 @@ Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy
   
 > Where there is no vision, the people perish. (Proverbs 29)
 
+## 2018-02-05
 
+In The Loss of Happiness in Market Democracies, political scientist Robert Lane writes:
+
+> Amidst the satisfaction people feel with their material progress, there is a spirit of unhappiness and depression haunting advanced market democracies throughout the world, a spirit that mocks the idea that markets maximize well-being and the eighteenth-century promise of a right to the pursuit of happiness under benign governments of people’s own choosing. The haunting spirit is manifold: a postwar decline in the United States in people who report themselves as happy, a rising tide in all advanced societies of clinical depression and dysphoria (especially among the young), increasing distrust of each other and of political and other institutions, declining belief that the lot of the average man is getting better . . . a tragic erosion of family solidarity and community integration together with an apparent decline in warm, intimate relations among friends. 44
+
+Via Hedges p.138
+
+> Half of all bankruptcies in America occur because families are unable to pay their medical bills.
+
+Hedges p. 144
 
 
 
