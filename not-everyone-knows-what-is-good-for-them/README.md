@@ -1,5 +1,5 @@
 ---
-tags: views
+tags: ["views"]
 ---
 
 # Not Everyone Knows What They Want?
