@@ -1,5 +1,7 @@
 # Reason for our Existence
 
+> Where there is no vision, the people perish. (Proverbs 29)
+
 This document spells out the reason for the existence of Life Itself. It uses the structure of "situation, complication, question, hypothesis (SCQH)". This is a methodology we have found useful and powerful for diagnosing problems and hypothesing solutions. (If you are unfamiliar with SCQH please see http://playbook.datopian.com/scqh).
 
 The SCQH sets out why we exist and, implicitly, our theory of change. It is intentionally very short and therefore highly distilled (each part of an SCQH should be maximum paragraph and preferably a senctence and the whole should fit in a single page). We are working on a commentary that expands on some of the key points in greater detail.
@@ -46,18 +48,6 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 See https://coggle.it/diagram/XScP2KMV3Tvd5Ec-/t/by-developing-a-big-vision-human-fulfilment-and-flourishing
 
-### Additional Materials
-
-Some of the original brainstorming.
-
-#### Complication
-
-<img src="./Complication.png">
-
-#### Questions
-
-<img src="./Questions.png">
-
 ## 2017 SCQH
 
 See also:
@@ -88,8 +78,6 @@ Develop a community of people based on a shared culture and shared views that in
 Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy
 
   
-> Where there is no vision, the people perish. (Proverbs 29)
-
 ## 2018-02-05
 
 In The Loss of Happiness in Market Democracies, political scientist Robert Lane writes:
@@ -102,5 +90,14 @@ Via Hedges p.138
 
 Hedges p. 144
 
+## Appendix: 2019 SCQH Additional Materials
 
+Some of the original brainstorming.
 
+### Complication
+
+<img src="./Complication.png">
+
+### Questions
+
+<img src="./Questions.png">
