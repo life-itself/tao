@@ -34,7 +34,7 @@ Ultimately our children, our children’s children and the many generations to c
 
 ## What do we value the most?
 
-Mystery, Transformation, Possibility and Joy -– and the commitment, practice and discipline to realise them. Zen Activism, Rigorous Inquiry. Doing the washing up.
+Mystery, Transformation, Possibility and Joy -- and the commitment, practice and discipline to realise them. Zen Activism, Rigorous Inquiry. Doing the washing up.
 
 ## What is our personality?
 

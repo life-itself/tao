@@ -20,7 +20,7 @@ There is a growing intuition that something is deeply the matter, that we can be
 
 Achieving a radically wiser and weller world requires a breakthrough in individual and collective being. Though simple, this is hard because we “believe together” and it requires reaching (at least partial) consensus on foundational views and values such as the possibility of transformation (hope), the nature and primacy of (inter)being (rather than the primacy of technology or structure)[^primacy], and an interest and trust in big visions and collective action.
 
-[^primary]: see [Primacy of Being](/primacy-of-being/)
+[^primacy]: see [Primacy of Being](/primacy-of-being/)
 
 ### Question 
 
