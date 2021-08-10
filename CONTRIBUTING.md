@@ -49,3 +49,23 @@ Tip: whenever you are next editing the Tao repository on your local computer, ma
 3. Install VuePress etc: in this directory do `yarn install`
 4. Then run the dev server: `yarn start`
 
+### In Detail
+
+VuePress is a static site generator like Hugo (it enables you to build a local copy of a website and preview changes you make to the Tao before pushing them to the live site).
+
+Follow these instructions to install VuePress and build a local copy of the Tao.
+
+* Start by cloning the Tao repo to your local machine.
+* You need to use Yarn to install VuePress. To install Yarn, use Homebrew (if you haven’t downloaded Homebrew yet, you’ll need to do that first). You can then download Yarn by entering the command below into Terminal:
+  
+  > brew install yarn
+  
+* Now Yarn has been installed, you can use it to install VuePress within the project folder containing the site you want to be able to build.
+  * Use Terminal to navigate to the location of the repo you just cloned to your local machine
+  * Install VuePress as a local dependency within the repo
+    
+    > yarn add -D vuepress
+    
+* To build a local copy of the site, while inside the Tao repo in Terminal type
+    
+    > yarn start
