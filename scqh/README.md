@@ -8,7 +8,7 @@ The SCQH sets out why we exist and, implicitly, our theory of change. It is inte
 
 Like most key documents our SCQH continues to be reviewed and revised. Thus, as well as the most recent version (2019), we have also included the previous version (2017). We have also included the SCQH that is specific to our 'Transforming Societies' stream of work, completed in 2020.
 
-## 2020 'Transforming Societies' SCQH 
+## 2020 'Transforming the Narrative' SCQH 
 
 ### Situation
 * Our default onto-socio-politico narrative – i.e. individualistic, technocratic materialism for individual and collective wellbeing – is exhausted (no-one thinks doubling GDP will double contentment) and/or not working (e.g. climate change) and there is growing sense of crisis.
@@ -29,11 +29,11 @@ How do we create conversations, initiatives and projects that shift the big visi
 
 #### Issue tree
 
-https://coggle.it/diagram/X5foU48kvlUMpNq_/t/big-vision-conversation-issue-tree-how-widely-adopted
+https://coggle.it/diagram/X5foU48kvlUMpNq_/t/transforming-the-narrative-issue-tree-is-widely-adopted
 
 ### Hypothesis
 
-See: https://tao.lifeitself.us/plans/#transforming-societies for the Theory of Change representing our hypothesis.
+See: https://tao.lifeitself.us/plans/#transforming-the-narrative for the Theory of Change representing our hypothesis.
 
 ## 2019 SCQH
 
