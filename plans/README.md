@@ -37,7 +37,7 @@ More detail is in our [annual plans below](#annual-plans). If you want to know w
 Our work focuses on two main workstreams or "pillars":
 
 1. **Pioneering a culture**: creating a sustainable network of communities within existing society through hubs and businesses that are pioneering an "awakening" culture -- waking up, cleaning up, growing up (teal) and showing up -- as home, engine and demonstrator
-2. **Transforming the Narrative**: Catalysing a big vision conversation to transform the dominant narrative (worldview/paradigm) and associated political and cultural advocacy to enact related social and institutional change.
+2. **Transforming the narrative**: Catalysing a big vision conversation to transform the dominant narrative (worldview/paradigm) and associated political and cultural advocacy to enact related social and institutional change.
 
 Pioneering a culture is more local and bottom up. Transforming societies is more societal level and focused on the wider narrative and engagement.
 
