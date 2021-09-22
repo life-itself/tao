@@ -37,7 +37,7 @@ More detail is in our [annual plans below](#annual-plans). If you want to know w
 Our work focuses on two main workstreams or "pillars":
 
 1. **Pioneering a culture**: creating a sustainable network of communities within existing society through hubs and businesses that are pioneering an "awakening" culture -- waking up, cleaning up, growing up (teal) and showing up -- as home, engine and demonstrator
-2. **Transforming societies**: Catalysing a big vision conversation to transform the dominant narrative (worldview/paradigm) and associated political and cultural advocacy to enact related social and institutional change.
+2. **Transforming the Narrative**: Catalysing a big vision conversation to transform the dominant narrative (worldview/paradigm) and associated political and cultural advocacy to enact related social and institutional change.
 
 Pioneering a culture is more local and bottom up. Transforming societies is more societal level and focused on the wider narrative and engagement.
 
@@ -45,8 +45,8 @@ Pioneering a culture is more local and bottom up. Transforming societies is more
 graph TD
 
 li[Life itself]
-li --> pioneer[Pioneer a culture]
-li --> bigvision["Big Vision conversation"]
+li --> pioneer[Pioneernig a Culture]
+li --> bigvision["Transforming the Narrative"]
 
 pioneer --> hubs[Hubs]
 pioneer --> tao[Tao]
@@ -82,7 +82,7 @@ At first glance, it may seem these two activities are unrelated. However, we bel
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSHKOtzHdms6phA--0uxBC462ZQE1r_gC_2d1FuB_N1CYguNLec1PBD4zUR0htcd0nFKQ7ZY4JiqTNC/pub?w=1291&amp;h=864">
 
-### Transforming Societies
+### Transforming the Narrative
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSRTcACwBvhCnIGyOn8PqWOWWmwVjnyad34oTGbXnsddMHyzV95tSGByzHuJik0f6N7L_aRoiSriko4/pub?w=1286&amp;h=966">
 
@@ -100,7 +100,7 @@ Vision => Pillars => Programs => Projects
 Life Itself will focus on 8 key work streams, with the primary focus in 2020 being the recruitment of value-aligned people (Pioneers, Contributors and Supporters):
 
 1. Comms and Branding
-2. Big vision
+2. Transforming the Narrative
 3. Spaces
 4. Pioneers
 5. Business / Mutual Project Co 
@@ -112,9 +112,9 @@ Life Itself will focus on 8 key work streams, with the primary focus in 2020 bei
 
 Life Itself Workstreams as of Jan 2020 ([source coggle](https://coggle.it/diagram/XiR1dpbiFfqK6G8n/t/life-itself-workstreams-as-of-2020)
 
-## Big Vision 
+## Transforming the Narrative 
 
-See our Big Vision Issue Tree, which details our plans for our Big Vision. [Big Vision](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/big-vision-conversation-issue-tree-and-is-widely-adopted)
+See our Transforming the Narrative Issue Tree, which details our plans for the workstream. [Transforming the Narrative](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/transforming-the-narrative-issue-tree-is-widely-adopted)
 
 
 ## Annual Plans
