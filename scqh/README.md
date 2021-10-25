@@ -8,33 +8,6 @@ The SCQH sets out why we exist and, implicitly, our theory of change. It is inte
 
 Like most key documents our SCQH continues to be reviewed and revised. Thus, as well as the most recent version (2019), we have also included the previous version (2017). We have also included the SCQH that is specific to our 'Transforming Societies' stream of work, completed in 2020.
 
-## 2020 'Transforming the Narrative' SCQH 
-
-### Situation
-* Our default onto-socio-politico narrative – i.e. individualistic, technocratic materialism for individual and collective wellbeing – is exhausted (no-one thinks doubling GDP will double contentment) and/or not working (e.g. climate change) and there is growing sense of crisis.
-* There is no clear, powerful alternative replacement narrative that is widely vocalized (and accepted) – and even the need for this is debated (cf the culture wars)
-* There is a widespread sense of dissatisfaction but without an alternative this does not lead anywhere and results in a sense of resignation or reaction; and finally, there is a general disdain for politics and collective action.
-
-### Complication
-* The default is a continuation of the current trajectory and that has major issues – it’s unfulfilling and risks catastrophe (climate crisis).
-* We could address this (e.g. take collective action), we could create new narratives … but we’re not.
-* The crisis story and associated fear and resignation freezes us, or leads to reaction (or techno-magic). And we have a lot of existing beliefs/assumptions which limits space for imagination (“blindspots”).
-* The new narrative is onto-socio-political in nature (not technological), and that is harder to envision and share – and less directly enrolling (but it is possible).
-* People have to be able to hold that new narrative at the same time as being in the current one which is hard. Plus: a) be able to  see a path to here to there b) whilst still being anchored in our old beliefs and blindspots c) and this a collective problem and so this involves a switch in belief-equilibrium which is not easy and is complicated by the need to co-exist / evolve within the existing paradigm.
-* Finally, we imagine (and believe) together and so we need a space/group in which this kind of imagining can happen and be taken forward into action and there is no obvious group/space for that at present. (And it needs some strongish “guidelines”/principles that shape that space both to spur creativity and limit destructive debate – i.e. consensus on some foundational values and views).
-
-### Question
-
-How do we create conversations, initiatives and projects that shift the big vision conversation [i.e. for a socio-cultural-political paradigm shift] with core principles of wise action, in the most effective and skilful ways possible and cooperating with and enrolling others in this program such that a wiser and weller socio-cultural-political paradigm emerges and is widely adopted.
-
-#### Issue tree
-
-https://coggle.it/diagram/X5foU48kvlUMpNq_/t/transforming-the-narrative-issue-tree-is-widely-adopted
-
-### Hypothesis
-
-See: https://tao.lifeitself.us/plans/#transforming-the-narrative for the Theory of Change representing our hypothesis.
-
 ## 2019 SCQH
 
 ### Situation 
@@ -99,6 +72,43 @@ What are the foundational values and views, a big vision and its associated road
 Develop a community of people based on a shared culture and shared views that include the possibility of transformation, the primacy of being, getting shit done and [tolerant universalism]; and with a focus on the development of a big vision and committed to powerful, practical action to realise it [including the development of a large-scale political movement] [on the timescale of our lifetimes and those of our children].
 
 Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy
+
+## Transforming the Narrative SCQH 2020
+
+### Situation
+
+Our default onto-socio-politico narrative – i.e. individualistic, technocratic materialism for individual and collective wellbeing – is exhausted (no-one thinks doubling GDP will double contentment) and/or not working (e.g. climate change) and there is growing sense of crisis.
+
+There is no clear, powerful alternative replacement narrative that is widely vocalized (and accepted) – and even the need for this is debated (cf the culture wars)
+
+There is a widespread sense of dissatisfaction but without an alternative this does not lead anywhere and results in a sense of resignation or reaction; and finally, there is a general disdain for politics and collective action.
+
+### Complication
+
+The default is a continuation of the current trajectory and that has major issues – it’s unfulfilling and risks catastrophe (climate crisis).
+
+We could address this (e.g. take collective action), we could create new narratives … but we’re not.
+
+The crisis story and associated fear and resignation freezes us, or leads to reaction (or techno-magic). And we have a lot of existing beliefs/assumptions which limits space for imagination (“blindspots”).
+
+The new narrative is onto-socio-political in nature (not technological), and that is harder to envision and share – and less directly enrolling (but it is possible).
+
+People have to be able to hold that new narrative at the same time as being in the current one which is hard. Plus: a) be able to  see a path to here to there b) whilst still being anchored in our old beliefs and blindspots c) and this a collective problem and so this involves a switch in belief-equilibrium which is not easy and is complicated by the need to co-exist / evolve within the existing paradigm.
+
+Finally, we imagine (and believe) together and so we need a space/group in which this kind of imagining can happen and be taken forward into action and there is no obvious group/space for that at present. (And it needs some strongish “guidelines”/principles that shape that space both to spur creativity and limit destructive debate – i.e. consensus on some foundational values and views).
+
+### Question
+
+How do we create conversations, initiatives and projects that shift the big vision conversation [i.e. for a socio-cultural-political paradigm shift] with core principles of wise action, in the most effective and skilful ways possible and cooperating with and enrolling others in this program such that a wiser and weller socio-cultural-political paradigm emerges and is widely adopted.
+
+#### Issue tree
+
+https://coggle.it/diagram/X5foU48kvlUMpNq_/t/transforming-the-narrative-issue-tree-is-widely-adopted
+
+### Hypothesis
+
+See [Plans - Transforming the Narrative](/plans/#transforming-the-narrative) for the Theory of Change representing our hypothesis.
+
 
 ## 2018-02-05
 
