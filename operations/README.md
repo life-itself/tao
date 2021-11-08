@@ -1,15 +1,15 @@
-# Guide to Finance and Operations at Life Itself 
+# Finance and Operations Guide
 
 This guide has been prepared to help you, a member of the ops and finance team, to navigate common and recurring processes that you're responsible for, so that you can ensure that the ops team runs as a smoothly oiled machine, effective and efficient. 
 
-### Objective of the Operations and Finance Team
+## Objective of the Operations and Finance Team
 
-##### _Objective_:  
-To enable Life Itself and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and making available key information (e.g. finances, metrics) to others. 
+Objective: To enable Life Itself and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and making available key information (e.g. finances, metrics) to others. 
 
-_Way of being_: a smoothly oiled machine. Effective and Efficient.
+Way of being: a smoothly oiled machine. Effective and Efficient.
 
-##### Key results:
+## Key results:
+
 - Being legally compliant
 - Providing management information efficiently and appropriately (e.g. timely, needed info)  e.g.
   - Are we P&L positive?
@@ -17,18 +17,16 @@ _Way of being_: a smoothly oiled machine. Effective and Efficient.
   - Being able to report to external stakeholders (such as funders where we have them) in a way they and we are happy with 
   - Doing this efficiently (we perform these tasks cost and time effectively)
 
-##### Key dates:
+## Key dates
 
-HMRC corporation tax payment due by 30 Sep
-Companies House annual account filing due by 30 Sep
-Companies House confirmation statement due by 29 Nov
-HMRC corporation tax return due by 31 Dec
+* HMRC corporation tax payment due by 30 Sep
+* Companies House annual account filing due by 30 Sep
+* Companies House confirmation statement due by 29 Nov
+* HMRC corporation tax return due by 31 Dec
 
 ## Finance
 
-### Key Responsibilites
-
-##### Day-to-day Tasks
+### Day-to-day Tasks
 
 - [Paying team members](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.jaqflu4acb0f). Invoices are to be submitted by the 3rd of each month, and paid by the 10th. Invoices submitted after this date will be paid the following month. 
 - [Reconciling bank transactions](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.xysvmmka5ue8)
@@ -37,7 +35,7 @@ HMRC corporation tax return due by 31 Dec
 
 See here for a comprehensive list of [Finance user stories](https://docs.google.com/spreadsheets/d/1CRZw0d_3wI_JtkkCApEY0vT0lenDJ10B-Cz6JNJBTLs/edit#gid=0) and [processes](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.vorv3tq5tjyr). 
 
-##### Management tasks
+### Management tasks
 
 _Quarterly_
 
@@ -66,8 +64,8 @@ See here for [more guidance](https://docs.google.com/document/d/1rSLj081NKkWPkR0
 
 _NB: We file at Companies House and HMRC together._ 
 
-Every year, Life Itself makes up its annual accounts for the period 1st January to 31st December. This is an account of how much money has been received, how much money has been spent (collectively referred to as the "Profit and Loss" or P&L for short), and how many assets and liabilites the company has on hand at the end of the year (the "Balance Sheet"). An asset might be a piece of property, a car, or the cash sitting in the bank, while a liability might be any outstanding creditors (people/firms who are owed money by the company) such as a mortgage.  
-               
+Every year, Life Itself makes up its annual accounts for the period 1st January to 31st December. This is an account of how much money has been received, how much money has been spent (collectively referred to as the "Profit and Loss" or P&L for short), and how many assets and liabilites the company has on hand at the end of the year (the "Balance Sheet"). An asset might be a piece of property, a car, or the cash sitting in the bank, while a liability might be any outstanding creditors (people/firms who are owed money by the company) such as a mortgage.
+
 _See here for a more detailed explanation of [assets and liabilities](https://digit.business/financial-literacy/what-is-an-asset-what-is-a-liability). Read more about how we [prepare our accounts](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.wb79i011u16d) and how to do so [using Xero](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.q9ko728rlch4)._
 
 Accounts are filed with Companies House each year at the latest 9 months after the end of the accounting period (in our case 31st December), so for us our Companies House deadline is 30th September. 
@@ -79,6 +77,7 @@ Furthermore, we have to pay our corporation tax bill by 1st OCtober each year, 9
 ## Operations
 
 The operations and finance functions are closely connected. In addition to the tasks above, ops handles:
+
 - Signing and filing contracts from [contractors](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.6u8mx8e95k1s) and [clients](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.4gylhjtzszfw)
 - Managing projects (on time and [on budget](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.eizj3jbuimiy)) and [planning sprints](https://docs.google.com/document/d/1RDVx_TbkIhBP6G1ZSkeU3r1ZQHbGJMg27xxl7pzpGQY/edit#heading=h.27nqov9f5wht)
 - [Handling enquires](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.com7dqud936n) and [contact requests](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.34tvi8257lpe). See here for [response templates](https://docs.google.com/document/d/1wP6tczhk6Noiu9Nnwex1a40TJOdNBEbPqIVz8aZDCgQ/edit#heading=h.8p6c55hdzpz6)
@@ -88,24 +87,4 @@ The operations and finance functions are closely connected. In addition to the t
 - [Signing up to a new service](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.lrxorxn5vorw)
 - [Publishing books](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.hu8wuu1jnjn7)
 - [Advertising a new job position](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.1254zj6uhou)
-- [Uploading videos of Rufus' talks](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.jicujnv5a10w)
-
-
-##### Task Management
-
-**Todoist**
-It's important to have a system for organising and completing tasks. Rufus uses [Todoist](https://todoist.com/).  
-You will share an inbox with him so that he can assign tasks to you. Sometimes you will be asked to do a task on gchat or hangout. In these cases you can create a task on Todoist yourself. Remember to assign tasks you’re taking on to yourself. 
-
-**Gitlab**
-He uses [Gitlab](http://gitlab.com/) issues to record and allocate tasks. Following the [Getting Things Done](https://rufuspollock.com/2019/05/27/getting-things-done/) methodology, when you're working on something that contains more than one actionable task, you should [open an issue](https://playbook.datopian.com/issues-tasks/) and list the tasks necessary to complete the project. You can then check them off as you progress. This helps organise your work and helps Rufus see what the team is working on.  
-
-
-
-
-
-
-
-
-
-
+- [Uploading videos of talks](https://docs.google.com/document/d/1cG9975Kz9YM2S5wqNIRY14SxcQMKb9TedriTgAtjCTU/edit#heading=h.jicujnv5a10w)
