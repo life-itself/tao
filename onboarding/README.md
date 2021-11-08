@@ -8,10 +8,6 @@ This guide provides you with a simple step-by-step process to get set up at Life
 We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (please check in with your Onboarder first). Or you can leave comments using Hypothesis (see below).
 :::
 
-:::tip Datopian references
-Some of the links you'll see in this guide will take you to the onboarding guide for Datopian, an organisation that collaborates with Life Itself and shares much of the same culture.
-:::
-
 ## Onboardee Journey Overview
 
 This diagram illustrates how you should work through this onboarding process. Each stage will be covered in more depth further on in the guide.
@@ -41,7 +37,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 
 1. Login in to your email account and check it. See below.
 2. Setup your accounts on the systems we use. See below. Do this before the next step!
-3. Submit your bank account details to your Onboarder, cc-ing ops@lifeitself.us.
+3. Add your bank account details to your Onboarder, cc-ing ops@lifeitself.us.
 4. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email.
 5. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
 6. Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
@@ -72,12 +68,6 @@ When you set up systems, try to pick usernames that will be easy for others to r
 	* When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
 	* [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
 * GitHub -- https://github.com. At Life Itself we use GitHub for collaborating on projects and deploying our website. 
-* HackMD -- https://hackmd.io. HackMD is a tool for collaborating on documents with others (it's a bit like Google docs, but it uses a language called MarkDown, which we'll look at in more detail later in the onboarding process).
-* Hypothesis -- https://web.hypothes.is/start/ Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in Hypothesis.
-* Zotero (desktop app) -- https://www.zotero.org/. We use Zotero to share texts and reading lists related to Life Itself
-  * Send your Zotero username to your Onboarder
-  * After being given access, sync the Life Itself library (you will need to enter your username/pw)
-* Todoist -- https://todoist.com/. Todoist is an inbox for the initial capture of tasks. You should still create GitHub issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done.
 
 ---
 
@@ -97,7 +87,7 @@ You are going to track your onboarding progress using a GitHub issue in the onbo
 
 * Please go to: https://github.com/lifeitself/onboarding/issues
 * Create your own issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
-* Copy and paste the checklist below into your issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, HackMD, GitHub, etc.).
+* Copy and paste the checklist below into your issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, GitHub, etc.).
 
 ```md
 This is my exciting onboarding issue! 🌱
@@ -227,7 +217,7 @@ We use Gmail.
 
 #### Documents
 
-We use Google Drive for all internal documents. We also use HackMD to draft documents.
+We use Google Drive for all internal documents.
 
 ### Standups
 
