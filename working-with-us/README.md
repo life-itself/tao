@@ -20,13 +20,13 @@ Pay particular attention to the importance of capture. If you are assigned a res
 
 ## How should I report on my work / progress? 
 
-We use Gitlab Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step.
+We use GitHub Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step.
 
 Read [Getting Stuff Done](/getting-stuff-done/#how-do-we-complete-tasks) to learn more about issues and the specific layout we use. 
 
 ## What should I do if I don't have enough work? 
 
-If you’re stuck for something to do, there are a few places to look. You could ask your team on Discord or Whatsapp if they have any tasks/issues that they could assign to you. You could look through existing issues in your projects on Gitlab, and take over any that aren’t assigned. You could create your own issue to solve a problem that you’ve identified, but which hasn’t yet been addressed. Or perhaps there’s something in the collaborative inbox that needs actioning. 
+If you’re stuck for something to do, there are a few places to look. You could ask your team on Discord or Whatsapp if they have any tasks/issues that they could assign to you. You could look through existing issues in your projects, and take over any that aren’t assigned. You could create your own issue to solve a problem that you’ve identified, but which hasn’t yet been addressed. Or perhaps there’s something in the collaborative inbox that needs actioning. 
 
 In terms of how you go about doing your work, you have the freedom to choose a work pattern that suits you best, so long as it’s consonant with the needs of your team. Remember to be conscious of your team’s priorities when assigning yourself issues, as it’s generally the case that some issues are less pressing than others. 
 
@@ -41,11 +41,12 @@ Generating a hypothesis is a way problem solving. You begin with a question, and
 E.g.
 
 We need to pay an invoice on Xero. How should we do this?
+
 **Hypothesis:** My hypothesis is that the answer is in the ops guide. I'll find out. 
 
-## How do your projects get initiated?  
+## How do projects get initiated?  
 
-Typically by creating a Project A10 and a Gitlab issue. See our [Getting Work Done Guide](/getting-stuff-done/#how-do-we-set-up-projects).
+Typically by creating a Project A10. See our [Getting Work Done Guide](/getting-stuff-done/#how-do-we-set-up-projects).
 
 ## Feedback and reviews
 

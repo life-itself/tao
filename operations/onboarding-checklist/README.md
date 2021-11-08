@@ -66,10 +66,10 @@ end
 
 ## Onboarding Checklist: Issue template
 
-* Go to https://gitlab.com/lifeitself/ops/
-* Create a Gitlab issue to track the Onboarding process
+* Go to https://github.com/lifeitself/ops/
+* Create an issue to track the Onboarding process
 * Name it `Ops Onboarding {First Name} {Last Name} {Date}`
-* Copy and paste the checklist below into your GitLab issue
+* Copy and paste the checklist below into your GitHub issue
 * Complete the steps to ensure the Onboardee has everything they need.
 
 Next, scroll down for more detail on completing the steps.
@@ -91,7 +91,7 @@ Next, scroll down for more detail on completing the steps.
 * [ ] Add to team Whatsapp channel
 * [ ] Invite to Wordpress
 * [ ] Add to Zotero once username is received
-* [ ] Add to Life Itself and Rufus Pollock Org Gitlab groups once the Onboardee has created a Gitlab account
+* [ ] Add to Life Itself once the Onboardee has created a GitHub account
 * [ ] Welcome/Onboarding call complete
 * [ ] Welcomed to the team on standup
 * [ ] Confirm to the requestor that the Onboarding is complete
@@ -226,4 +226,4 @@ The Onboarder should capture questions during the onboarding meeting and forward
 The Onboarder should have completed most of the [Onboarding Guide](/onboarding/).
 
 * Check that they have done steps and whether they have any blockers or questions **[15m]**
-* Introduce the Onboardee to how we manage our website on Wordpress and answer any questions they have about our other systems, such as Gitlab. Show them around the All-Team Google drive and ensure they know the location of key documents, such as those relating to accounts.
+* Introduce the Onboardee to how we manage our website on Wordpress and answer any questions they have about our other systems, such as GitHub. Show them around the All-Team Google drive and ensure they know the location of key documents, such as those relating to accounts.

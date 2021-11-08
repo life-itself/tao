@@ -122,10 +122,9 @@ SCQH is a problem solving tool that can be used in a number of ways, from tellin
 
 ### Issue Tree 
 
-
 ## How do we complete tasks?
 
-We use Gitlab Issues to track our work. Read our guide on how we use [Issues](/issues/). 
+We use GitHub Issues to track our work. Read our guide on how we use [Issues](/issues/). 
 
 # Sprint Process 
 
@@ -174,20 +173,20 @@ What can we learn from this sprint for the future? See http://www.mountaingoatso
 
 * Meeting is timeboxed to 1-1.5h. 
 * Team members create promises and goals for this sprint that are reviewed by the team.
-* Team members create new issues in gitlab and review the sprint board together. 
+* Team members create new issues and review the sprint board together. 
 
 * This meeting results in 2 outputs: 
 
   * A sprint goal for each project – a short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
-  * A sprint backlog -- A sprint backlog is a list of the product backlog items in gitlab the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
+  * A sprint backlog -- A sprint backlog is a list of the product backlog items that the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
      * Individual Tasks should be less than 2d total time (reduces estimation error).
 
 
 ### Product Backlog
 
-Each sprint has a sprint backlog -- a list of the product backlog items in gitlab the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. 
+Each sprint has a sprint backlog -- a list of the product backlog items that the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. 
 
-See http://www.mountaingoatsoftware.com/agile/scrum/product-backlog -- we use GitLab issues and project boards. 
+See http://www.mountaingoatsoftware.com/agile/scrum/product-backlog
 
 * Product backlog consists of user stories and tasks related to user stories (should flag which user story a task relates to if not a single user story)
 * Tasks are broken into at least 2 groups:

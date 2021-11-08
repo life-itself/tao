@@ -1,6 +1,6 @@
 # An Introduction To Git
 
-A beginner's guide on how to use Git on the command line (for Mac). Thanks to git-scm.com/book and docs.gitlab.com for the information.
+A beginner's guide on how to use Git on the command line (for Mac).
 
 ## Part One - What is Git?
 
@@ -10,22 +10,22 @@ Version control systems are software tools that track changes made to files and 
 
 If you're working with other people who use Git, or want to become good at using Git yourself, you'll need to understand a few concepts that will help make sense of everything else. This tutorial will introduce you to the basics so you can start working with Git.
 
-### What's the difference between Git and Gitlab?
+### What's the difference between Git and GitHub?
 
-Gitlab is not the same as Git! Git tracks changes to files made over time and stores this information in repositories. Gitlab is a website for hosting those repositories. 
+GitHub is not the same as Git! Git tracks changes to files made over time and stores this information in repositories. GitHub is a website for hosting those repositories. 
 
 ### What are repositories?
 
 Good question! A repository (or repo) is a storage space containing all the folders and files relating to a project, including all the snapshots of the files taken by Git at different points in time.
 
-A repo hosted on Gitlab is called a remote repo. If you're part of a team using Gitlab to collaborate on a project, the remote repo will be the shared, online source for viewing files belonging to that project.
+A repo hosted on GitHub is called a remote repo. If you're part of a team using GitHub to collaborate on a project, the remote repo will be the shared, online source for viewing files belonging to that project.
 
-Using Git, you can copy a remote repo onto your computer by 'cloning' it. You then have an exact copy of the remote repo stored offline on your computer. This is called a local repo. You can work on the local repo without affecting the remote repo stored in Gitlab. 
+Using Git, you can copy a remote repo onto your computer by 'cloning' it. You then have an exact copy of the remote repo stored offline on your computer. This is called a local repo. You can work on the local repo without affecting the remote repo stored in GitHub. 
 
 ```mermaid
 graph TD
 
-remote[Remote repo hosted on Gitlab]
+remote[Remote repo hosted on GitHub]
 remote --clone the repo using Git --> local[You now have a local version of the repo on your machine]
 
 ```
@@ -52,9 +52,9 @@ First you need to 'stage' the files. This tells Git that next time it takes a sn
 
 Next, you need to 'commit' the changes. This tells Git to take a snapshot of all the staged files in your local repo at that point in time and store it on your local machine, so it's always possible to refer to and revert back to that version of the files.
 
-Once you've done that, you can 'push' the changes you've made to the remote repo in Gitlab.
+Once you've done that, you can 'push' the changes you've made to the remote repo in GitHub.
 
-Here's a quick visual overview of the key steps involved in making edits to a file and and pushing it to Gitlab:
+Here's a quick visual overview of the key steps involved in making edits to a file and and pushing it to GitHub:
 
 ```mermaid
 graph TD
@@ -63,7 +63,7 @@ clone[Clone the repo you want to work on]
 clone --you now have a local copy of the repo --> file[Make changes to a file]
 file --changes are not yet staged --> Stage[Stage files]
 Stage --write a commit message and... --> Commit[Commit  the changes to your local repo]
-Commit --> Push[Push your changes to the remote repo in Gitlab]
+Commit --> Push[Push your changes to the remote repo in GitHub]
 
 ```
 
@@ -73,17 +73,17 @@ These are the final concepts we'll cover in this section.
 
 #### What is forking?
 
-Rather than clone the remote repo stored in Gitlab to our local machine and push changes back to it, we can choose to fork the repo first, which creates an exact copy of it on Gitlab. 
+Rather than clone the remote repo stored in GitHub to our local machine and push changes back to it, we can choose to fork the repo first, which creates an exact copy of it on GitHub. 
 
-Now instead of cloning the original remote repo, we can clone the *copy* that we've just created. We can work on our local copy of this repo and push any changes back to that copy on Gitlab, without affecting anything in the original repo we cloned.
+Now instead of cloning the original remote repo, we can clone the *copy* that we've just created. We can work on our local copy of this repo and push any changes back to that copy on GitHub, without affecting anything in the original repo we cloned.
 
 ```mermaid
 graph TD
 
-remote[Remote repo hosted on Gitlab]
-remote --fork --> nrepo[Copy of the repo in Gitlab]
+remote[Remote repo hosted on GitHub]
+remote --fork --> nrepo[Copy of the repo in GitHub]
 nrepo --clone --> local[Copy of new repo on your local machine]
-local --push --> nrepo[Copy of the repo in Gitlab]
+local --push --> nrepo[Copy of the repo in GitHub]
 
 ```
 
@@ -93,18 +93,18 @@ Branching is more light-weight than forking. Rather than creating an exact copy 
 
 #### What is merging?
 
-When you create a new branch or fork a repo, change the files, and push the changes to GitLab, you have the option to create a Merge Request, which is essentially a request to merge one branch or repo into another. 
+When you create a new branch or fork a repo, change the files, and push the changes to GitHub, you have the option to create a Merge Request, which is essentially a request to merge one branch or repo into another. 
 
 If your changes are approved by the repository's owner, the changes can then be merged.
 
 ```mermaid
 graph TD
 
-remote[Remote repo in Gitlab]
-remote --fork --> nrepo[Copy of the repo in Gitlab]
+remote[Remote repo in GitHub]
+remote --fork --> nrepo[Copy of the repo in GitHub]
 nrepo --clone --> local[Local repo]
-local --push changes --> nrepo[Copy of the repo in Gitlab]
-nrepo[Copy of the repo in Gitlab]--merge -->remote[Remote repo in Gitlab] 
+local --push changes --> nrepo[Copy of the repo in GitHub]
+nrepo[Copy of the repo in GitHub]--merge -->remote[Remote repo in GitHub] 
 
 ```
 
@@ -140,13 +140,13 @@ Git identifies C0 as the common ancestor of C3 and C4. Going back to the snapsho
 
 Branching and forking are especially important when collaborating with others, because they avoid changes being pushed directly to the master branch or original repo without prior reviews, tests and approvals. 
 
-For example, you might want to use branching or forking if you're working on a website that's being deployed from the master branch. You can fork the repo, clone it so you have a local copy of the repo, make your changes and push them back to Gitlab all without affecting anything on the live site. 
+For example, you might want to use branching or forking if you're working on a website that's being deployed from the master branch. You can fork the repo, clone it so you have a local copy of the repo, make your changes and push them back to GitHub all without affecting anything on the live site. 
 
 Your team can then view and approve your work before the changes are approved via a merge request and deployed to the live site.
 
 ## Part Two - Setting up
 
-In this part of the tutorial you will learn how to do some of the basics of using Git and GitLab yourself; how to install Git, how to clone a repository and how to edit files in a repository.
+In this part of the tutorial you will learn how to do some of the basics of using Git and GitHub yourself; how to install Git, how to clone a repository and how to edit files in a repository.
 
 ### How to install Git
 
@@ -186,7 +186,7 @@ Onto the next steps.
 
 #### First you need to make an SSH Key
 >
-There are two ways to link your local machine with your GitLab account: with HTTPs or SSH. The latter is handier to learn how to use, so for this tutorial that's what I'll tell you how to do.
+There are two ways to link your local machine with your GitHub account: with HTTPs or SSH. The latter is handier to learn how to use, so for this tutorial that's what I'll tell you how to do.
 
 1. Open your terminal 
 2. Generate a new key pair by typing the below into the command line
@@ -197,7 +197,7 @@ Note: replace the example email with your email address!
 
 3. You'll be asked to put in a file path where you want to save your new SSH key. As this is the first one you're making, just use the one the terminal provides for you by pressing 'enter'. If you don't want to add a password to your key, press 'enter' again
 
-Congrats! You've now made your SSH Key. Now, to put it into GitLab.
+Congrats! You've now made your SSH Key. Now, to put it into GitHub.
 
 1. Copy the key code to your clipboard using this command
 > pbcopy < ~/.ssh/id_ed25519.pub
@@ -206,7 +206,7 @@ Congrats! You've now made your SSH Key. Now, to put it into GitLab.
 Alternatively, you can find your key code manually by copying the following file path into your file explorer:
 > C:\Users\user\\.ssh\id_ed25519.pub
 > 
-2. Go online to your GitLab account. Click your Avatar (your little profile picture), then 'Settings', then 'SSH key.' The correct page you're looking for will look like this:
+2. Go online to your GitHub account. Click your Avatar (your little profile picture), then 'Settings', then 'SSH key.' The correct page you're looking for will look like this:
 
 ![](https://i.imgur.com/acOy1oE.png)
 
@@ -236,13 +236,13 @@ If you tell Git to clone a repository while in your src folder on the command li
 
 #### Time to clone a repo!
 
-Now that you've created your SSH key, and initialised your computer to send your files to and from GitLab, cloning a repo is extremely easy; but first you need one to clone.
+Now that you've created your SSH key, and initialised your computer to send your files to and from GitHub, cloning a repo is extremely easy; but first you need one to clone.
 
-#### Clone a repository that already exists in GitLab
+#### Clone a repository that already exists in GitHub
 
 This is really simple.
 
-First navigate to the repo in GitLab.
+First navigate to the repo in GitHub.
 
 In the right corner there is a blue button that says 'clone' with a little arrow on it. Click on that, and the options will come up to clone with SSH or HTTPs. Copy the SSH key.
 
@@ -261,11 +261,11 @@ to navigate to the folder into which you want to clone the repo.
 Then type
 > git clone "SSH Key"
 > 
-Making sure you paste the SSH Key you copied from Gitlab in the place of "SSH Key". If you look in the "src" folder, you will see your copy of the repo. Now you're ready to start working.
+Making sure you paste the SSH Key you copied from GitHub in the place of "SSH Key". If you look in the "src" folder, you will see your copy of the repo. Now you're ready to start working.
 
-#### If you want to create a new repository in GitLab to clone
+#### If you want to create a new repository in GitHub to clone
 
-Go back onto GitLab. At the top right corner, under your Avatar, there is a green button called 'New Project'. Click that and go through the steps to create it
+Go back onto GitHub. At the top right corner, under your Avatar, there is a green button called 'New Project'. Click that and go through the steps to create it
 
 - project name
 - project description
@@ -327,7 +327,7 @@ To check the file is now tracked, type
 
 ## Part Three - Contributing to a project
 
-Once you've edited a file in Visual Studio Code, there are a few steps you need to follow to add it to the remote repo in GitLab. 
+Once you've edited a file in Visual Studio Code, there are a few steps you need to follow to add it to the remote repo in GitHub. 
 
 ### Staging
 
@@ -362,19 +362,19 @@ We write commit messages in a specific format:
 	* We put s/m/l/xl in the second set of brackets to describe the size of the change
 	* Finally we write a short message explaining the change we made
 
-You can look on GitLab for more examples of commit messages.
+You can look on GitHub for more examples of commit messages.
 
-### Pushing changes to GitLab
+### Pushing changes to GitHub
 
-Once you've committed your changes and you're happy with them you can push them to GitLab. This is the final step. 
+Once you've committed your changes and you're happy with them you can push them to GitHub. This is the final step. 
 
 > git push "README.md"
 > 
 [(For more information on these commands.)](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Basic-Snapshotting)
 
-### Pulling changes from GitLab
+### Pulling changes from GitHub
 
-If changes are being made to the remote repo while you're working on your local copy, you will need to 'pull' the latest changes from GitLab to ensure your local copy is up-to-date before you push changes to GitLab. This ensures any changes and commits you make store in GitLab properly.
+If changes are being made to the remote repo while you're working on your local copy, you will need to 'pull' the latest changes from GitHub to ensure your local copy is up-to-date before you push changes to GitHub. This ensures any changes and commits you make store in GitHub properly.
 
 To do this type
 
@@ -386,7 +386,7 @@ If you just want to view differences between your local and remote repo, type:
 
 > git diff
 
-Once you're happy with the changes you have made, and have tracked and committed them using the 'git add' and 'git commit' commands from before, you 'push' the repo back to GitLab.com:
+Once you're happy with the changes you have made, and have tracked and committed them using the 'git add' and 'git commit' commands from before, you 'push' the repo back to GitHub.com:
 
 > git push <REMOTE> <name-of-branch>
 
@@ -410,11 +410,9 @@ The Git directory is where Git stores the metadata and object database for your 
 
 ### How to create a merge request
 
-This is for when you've pushed changes to Gitlab on a new branch and want to merge those changes into the 'master' branch:
+This is for when you've pushed changes to GitHub on a new branch and want to merge those changes into the 'main' branch.
 
-https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html
-
-If you want to create a new branch in your local repo, so that when you push the changes to Gitlab they don't affect the 'master' branch in the remote repo:
+If you want to create a new branch in your local repo, so that when you push the changes to GitHub they don't affect the 'master' branch in the remote repo:
 
 **Git command**
 
@@ -426,17 +424,17 @@ work on your file changes, stage, and commit:
 >
 > git commit -m "my commit message"
 
-once you're done, push your branch to GitLab
+once you're done, push your branch to GitHub
 
 > git push origin 'name of new branch'
 
-In the output, GitLab will prompt you with a direct link for creating a merge request. Copy that link and paste it in your browser, and the 'New Merge Request page' will be displayed. 
+In the output, GitHub will prompt you with a direct link for creating a merge request. Copy that link and paste it in your browser, and the 'New Merge Request page' will be displayed. 
 
 ### Git log
 
 'Git log' is a command you can use after navigating to your local repo in Terminal. It allows you to view activity, such as your recent commits and merge requests.
 
-## Part Four - Final tips for collaborating on Gitlab
+## Part Four - Final tips for collaborating on GitHub
 
 ### Checking for whitespace
 
@@ -464,17 +462,16 @@ Use 'Origin/master' to describe the branch in the remote repo that you want to f
 
 ## GitHub
 
-GitHub is another host for your GitLab repositories. You make an account the way you made a GitLab.com account.
+GitHub is another host for your GitHub repositories. You make an account the way you made a GitHub.com account.
 
-You can use HTTPs to link your GitLab with GitHub, but you're also able to use your SSH key. Use the 'pb copy' command in the 'setting up your SSH key' part of this tutorial to copy it, and add it to your GitHub by going into Settings -> SSH Keys. Adding it to GitHub is the same process as when you added it to GitLab.
+You can use HTTPs to link your GitHub with GitHub, but you're also able to use your SSH key. Use the 'pb copy' command in the 'setting up your SSH key' part of this tutorial to copy it, and add it to your GitHub by going into Settings -> SSH Keys. Adding it to GitHub is the same process as when you added it to GitHub.
 
 In GitHub, you 'fork' a project to make a copy of it to work on before pushing it back to the project owner.
-
 
 *For more in-depth information on github contribution, go [here.](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)*
 
 ## Creating Issues
 
-An issue is a way to put ideas/tasks into GitLab without impacting your repo. They can be edited to be open or closed, with the ability to organise them with tags, assign them to people in the group and apply due dates.
+An issue is a way to put ideas/tasks into GitHub without impacting your repo. They can be edited to be open or closed, with the ability to organise them with tags, assign them to people in the group and apply due dates.
 
 The issue can be written in Markdown, and is a good way of tracking your 'to-do list' in a project. To make one, go onto your sidebar, find the tab that says 'Issues', and click the green and white button that says 'New Issue'. Fill it out, create the issue, and then it will be available to see for you and/or your group, depending on which repo you created it in.

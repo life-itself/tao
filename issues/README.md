@@ -1,6 +1,6 @@
 # Issues / Tasks
 
-An issue is a way to put ideas/tasks into GitLab without impacting your repo. They can be edited to be open or closed, with the ability to organise them with tags, assign them to people in the group and apply due dates.
+An issue is a way to log ideas/tasks. They can be edited to be open or closed, with the ability to organise them with tags, assign them to people in the group and apply due dates.
 
 We create issues for most tasks we are working on. The following provides the pattern for creating and managing issues. We recommend you follow this pattern for two reasons:
 
@@ -61,7 +61,7 @@ None for this issue. Here you might include your questions and hypotheses, or ot
 Once you’ve set out your issue like this, you should keep it up to date so that your team members can follow along. 
 
 ::: tip
-On Github (and GitLab) you can create an issue template so this structure is always present.
+On Github you can create an issue template so this structure is always present.
 :::
 
 ### Issue Naming
@@ -84,14 +84,9 @@ Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the
 
 ## Updating the Issue 
 
-* First, ensure that it is labelled correctly. You can label issues so that issues with the same label appear together in your Issue Board on Gitlab. This makes reviewing outstanding issues easier. See more information on Labels below. 
-
-* [Record an estimate](https://docs.gitlab.com/ee/user/project/time_tracking.html) of how long it will take you to complete the issue. You will keep track of the time you spend in the same way.
-
+* First, ensure that it is labelled correctly. You can label issues so that issues with the same label appear together. This makes reviewing outstanding issues easier. See more information on Labels below. 
 * Make comments next to each task, **in bold**, to indicate how you’re progressing with each task. This should be done so that somebody else can see, at a glance, how you’re getting on. See completing tasks below. 
-
 * If you need someone else to assist you, you can @ them in the Comments section with a message to indicate what you’d like their help with. However, ensure you’ve generated a hypothesis first, and that you include it in your message. This way, you might find you can solve it yourself, and if you can’t, it helps your team follow your thought process. 
-
 * If you are blocked, i.e. you cannot make progress without a response from a team member, label your issue as ‘Blocked’ and ensure the relevant person has been @’d in the comments so they are aware you require their assistance.
 
 ### Labels 
@@ -108,7 +103,7 @@ Labels
 
 ### Estimating Time
 
-Estimation is the process of estimating time to complete tasks. There are many approaches to estimation. See [here](https://playbook.datopian.com/issues-tasks/#adding-an-estimate) for an explanation of how we add time estimates to gitlab issues. 
+Estimation is the process of estimating time to complete tasks. There are many approaches to estimation.
 
 Estimation is central to workability and low-stress because it allows us to make promises grounded in reality. It is up to the delivery team or the individual responsible for delivery to come up with time estimates. 
 

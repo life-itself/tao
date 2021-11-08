@@ -71,35 +71,33 @@ When you set up systems, try to pick usernames that will be easy for others to r
 	* You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
 	* When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
 	* [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
-* GitLab -- https://gitlab.com. At Life Itself we use Gitlab for collaborating on projects and deploying our website. 
+* GitHub -- https://github.com. At Life Itself we use GitHub for collaborating on projects and deploying our website. 
 * HackMD -- https://hackmd.io. HackMD is a tool for collaborating on documents with others (it's a bit like Google docs, but it uses a language called MarkDown, which we'll look at in more detail later in the onboarding process).
 * Hypothesis -- https://web.hypothes.is/start/ Hypothesis is a web annotation tool that you can use to annotate this playbook with questions, comments and corrections. Once you've finished the onboarding process, let your onboarding mentor know if you've made any comments in Hypothesis.
 * Zotero (desktop app) -- https://www.zotero.org/. We use Zotero to share texts and reading lists related to Life Itself
   * Send your Zotero username to your Onboarder
   * After being given access, sync the Life Itself library (you will need to enter your username/pw)
-* Todoist -- https://todoist.com/. Todoist is an inbox for the initial capture of tasks. You should still create Gitlab issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done.
+* Todoist -- https://todoist.com/. Todoist is an inbox for the initial capture of tasks. You should still create GitHub issues for most tasks, unless they can be done very quickly and the rest of the team does not need to see a record that they have been done.
 
 ---
 
 ## Key Tools
 
-### GitLab
+### GitHub
 
-We use GitLab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+We use GitHub https://github.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
 
 The issue tracker is space for storing and sharing task lists - you can think of it as an online notebook full of to-do lists. You can create an issue within the issue tracker to outline all the subtasks associated with something you're working on. Updating the issue records your progress and keeps your team up-to-date.
 
-It's fine if you are unfamiliar with GitLab -- you only need the basics for now.
-
-You can read this [tutorial](https://docs.gitlab.com/ee/gitlab-basics/) in your own time.
+It's fine if you are unfamiliar with GitHub -- you only need the basics for now.
 
 ### Create an Onboarding Issue
 
-You are going to track your onboarding progress using a Gitlab issue in the onboarding project.
+You are going to track your onboarding progress using a GitHub issue in the onboarding project.
 
-* Please go to: https://gitlab.com/lifeitself/dojo/onboarding
-* Create your own GitLab issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
-* Copy and paste the checklist below into your GitLab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, HackMD, GitLab, etc.).
+* Please go to: https://github.com/lifeitself/onboarding/issues
+* Create your own issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
+* Copy and paste the checklist below into your issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, HackMD, GitHub, etc.).
 
 ```md
 This is my exciting onboarding issue! 🌱
@@ -116,7 +114,7 @@ This is my exciting onboarding issue! 🌱
 
 ### First Steps
 
-* [ ] Have created this issue in GitLab 😄
+* [ ] Have created this issue in GitHub 😄
 * [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
 * [ ] I have access to GDrive
   * [ ] Have created my Email signature 
@@ -138,7 +136,7 @@ This is my exciting onboarding issue! 🌱
   
 ### Extra Steps
   
-* [ ] Read about how to create a perfect issue in Gitlab: https://tao.lifeitself.us/issues/
+* [ ] Read about how to create a perfect issue in GitHub: https://tao.lifeitself.us/issues/
 * Read about getting things done
   * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
@@ -259,7 +257,7 @@ Make sure to familiarise yourself with our [meeting protocol](https://playbook.d
 
 ### Markdown
 
-Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools, including HackMD and GitLab.
+Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools, including HackMD and GitHub.
 
 If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopian.com/markdown/)
 
