@@ -43,7 +43,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 6. Read about [Working with Us][]
 
 [Working with Us]: /working-with-us/
-[phonebook]: https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0
+[phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
 [laptop]: https://playbook.datopian.com/laptop-setup/
 
 ### Your Email
