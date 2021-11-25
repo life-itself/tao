@@ -10,22 +10,14 @@ We value feedback 😄 You can make this handbook better by making amendments di
 
 ## Onboardee Journey Overview
 
-This diagram illustrates how you should work through this onboarding process. Each stage will be covered in more depth further on in the guide.
+You onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
 
-```mermaid
-graph TD
-
-pre[Pre-requisites]
-call["Onboarding Call"]
-firststeps[First Steps]
-further[Further Reading]
-comms[How we Communicate]
-
-pre--> call
-call --> firststeps
-firststeps --> comms
-comms --> further 
-```
+1. [Prerequisites](#prerequisites)
+2. Welcome Call - this will be set up by person onboarding you :smile:
+3. [First Steps](#first-steps)
+4. [How we Communicate](#how-we-communicate)
+5. Further Reading
+6. Getting Help and Finding Stuff
 
 ## Prerequisites 
 
@@ -37,8 +29,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 
 1. **Life Itself email**: Login in to your Life Itself email account and check it. You should have received an invitation to your personal email with details of how to sign in to your Life Itself email account and set your password. Sign in and check your account for any email you may have already received.
 2. **Key systems**: Setup your accounts on [the key systems we use](#key-systems). **Do this before the next step!**
-3. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email.
-4. **Phonebook**: Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
+4. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
 5. **Laptop setup**: Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
 6. **Background on working with us:** Read about [Working with Us][]
 
@@ -60,7 +51,7 @@ When you set up systems, try to pick usernames that will be easy for others to r
 
 ---
 
-## Key Tools
+## First Steps
 
 ### GitHub
 
@@ -74,7 +65,7 @@ It's fine if you are unfamiliar with GitHub -- you only need the basics for now.
 
 You are going to track your onboarding progress using a GitHub issue in the onboarding project.
 
-* Please go to: https://github.com/lifeitself/onboarding/issues
+* Please go to: https://github.com/life-itself/onboarding/issues
 * Create your own issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
 * Copy and paste the checklist below into your issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, GitHub, etc.).
 
@@ -87,7 +78,6 @@ This is my exciting onboarding issue! 🌱
 
 * [ ] I have access to Life Itself email
 * [ ] I have set up accounts on all the systems
-* [ ] I have sent bank account details to ops@lifeitself.us
 * [ ] I have submitted my details via the Phonebook form
 * [ ] I have set up my laptop
 
@@ -172,6 +162,7 @@ For info on where to find your primary time zone in the settings, see:
 * To see someone else's calendar, see others' calendars side by side or find a time that someone is free, see: https://support.google.com/calendar/answer/6294878?co=GENIE.Platform%3DDesktop&hl=en
 * You can also add the calendars of the teammates you're mostly working with so you can easily see their availability. For instructions, see https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en
 
+## How We Communicate
 
 ### Communication
 
@@ -241,8 +232,7 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 
 ---
 
-
-## Initial Reading
+## Further Reading
 
 We recommend you look at the reading below as part of your onboarding:
 
