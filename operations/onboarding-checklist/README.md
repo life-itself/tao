@@ -75,23 +75,20 @@ end
 Next, scroll down for more detail on completing the steps.
 
 ```
-* [ ] Folder in Life Itself - People/HR > Contracts created
 * [ ] Contract drafted (and reviewed)
+  * [ ] [Optional] Folder in Life Itself - People/HR > Contracts created
 * [ ] Contract shared with the onboardee (CC the requestor and ops@lifeitself.us)
 * [ ] Contract signed
 * [ ] PDF created and sent to Onboardee
 * [ ] GSuite email created
-* [ ] Add to all-team@lifeitself.us and other email groups as appropriate
+* [ ] ~~Add to all-team@lifeitself.us and other email groups as appropriate~~ (Automatic)
 * [ ] Email sent to welcome onboardee
 * [ ] Invite sent to welcome call
 * [ ] Invite to daily standup on Google calendar
-* [ ] Invite to fortnightly team sprint on Google calendar
 * [ ] Add to appropriate GChat channels
 * [ ] Invite to Xero and add bank details
-* [ ] Add to team Whatsapp channel
 * [ ] Invite to Wordpress
-* [ ] Add to Zotero once username is received
-* [ ] Add to Life Itself once the Onboardee has created a GitHub account
+* [ ] Add to Life Itself on Github once the Onboardee has created a GitHub account
 * [ ] Welcome/Onboarding call complete
 * [ ] Welcomed to the team on standup
 * [ ] Confirm to the requestor that the Onboarding is complete

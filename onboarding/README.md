@@ -35,28 +35,18 @@ Please complete as many of the following steps as you can on or before your Welc
 
 If you get stuck you will be able to ask your Onboarder questions during your onboarding call. 
 
-1. Login in to your email account and check it. See below.
-2. Setup your accounts on the systems we use. See below. Do this before the next step!
+1. **Life Itself email**: Login in to your Life Itself email account and check it. You should have received an invitation to your personal email with details of how to sign in to your Life Itself email account and set your password. Sign in and check your account for any email you may have already received.
+2. **Key systems**: Setup your accounts on [the key systems we use](#key-systems). **Do this before the next step!**
 3. Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email.
-4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
-5. Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
-6. Read about [Working with Us][]
+4. **Phonebook**: Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
+5. **Laptop setup**: Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
+6. **Background on working with us:** Read about [Working with Us][]
 
 [Working with Us]: /working-with-us/
 [phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
 [laptop]: https://playbook.datopian.com/laptop-setup/
 
-### Your Email
-
-The first thing you need to do is log in to your Life Itself email account.
-
-You will receive an invitation to your personal email with details of how to sign in to your Life Itself email account and set your password.
-
-Sign in and check your account for any email you may have already received.
-
 ### Key systems
-
-You now need to create an account on each of these. Please make sure you set up Gravatar first. 
 
 When you set up systems, try to pick usernames that will be easy for others to remember. Using your first and last name is ideal.
 
@@ -104,7 +94,6 @@ This is my exciting onboarding issue! 🌱
 ### First Steps
 
 * [ ] Have created this issue in GitHub 😄
-* [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
 * [ ] I have access to GDrive
   * [ ] Have created my Email signature 
   * [ ] Doc Styles are set. Test by creating a google doc and checking that default doc styles are automatically applied (you can delete this document afterwards).
@@ -257,9 +246,8 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 
 We recommend you look at the reading below as part of your onboarding:
 
-* Read [The Tao of Life Itself](https://tao.lifeitself.us/culture/) for an introduction to the principles behind Life Itself.
+* Read [the culture page](/culture/) for an introduction to the principles behind Life Itself.
 * You can also have a quick look around https://lifeitself.us/.
-
 
 ## Getting Help and Finding Stuff
 
