@@ -38,9 +38,21 @@ Wilber on growth and dominator hierarchies (in Trump and a Post-Truth World):
 
 Landmark Education and the Landmark Forum. Successor to est and founded by Werner Erhard. Landmark has a major positive impact and influence on Life Itself and much of its terminology has found its way into everyday usage and you can read more about Landmark's terminology here: https://en.wikiversity.org/wiki/Landmark_Education/Abd/Glossary
 
+## Multidimensional
+
+As in "multidimensional growth or development".
+
+Multidimensional = waking up, growing up, cleaning up, showing up etc.
+
 ## Religion
 
 > Religion is, in part, a collection of beliefs and practices that honor [spirituality](#Spirituality). [David Sloan Wilson in Darwin's Cathedral]
+
+## Sangha
+
+A community of shared purpose and practice.
+
+Originally a Buddhist term for spiritual community.
 
 ## Spirituality
 
@@ -63,3 +75,7 @@ From "Practicing with the Triangle" in Plum Village's *Joyfully Together*:
 > Sometimes we may also find ourselves standing outside a triangle. Sooner or later the triangle will damage the happiness of our community or family, and we will suffer also. In these times, we can also practice Sangha building by talking with our brothers and sisters in the triangle. Or if we feel we are not able to practice by ourselves, we can call on someone else, perhaps our teacher or an elder who has more skill, and ask him or her to help in resolving the matter.
 > 
 > In any Sangha, lay or monastic, the triangle is a tiny shoot that sprouts from the seed of division and unhappiness in the community. If the shoot continues to grow, the community will become more unhappy. Everyone in the Sangha has the duty to uproot the triangle before it can grow. This is the work of Sangha building, and it has been used in Plum Village for many years now.
+
+## Ultimate dimension
+
+A term from Buddhist thought where ultimate and relative dimensions are distinguished. Relative dimension is that of the everyday: of the washing up, of ideas and concepts. Ultimate dimension is the transcendental, the trans/supra-rational. The space of being beyond language, though concept. Of pure presence etc.
