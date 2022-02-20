@@ -87,19 +87,18 @@ Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the
 * First, ensure that it is labelled correctly. You can label issues so that issues with the same label appear together. This makes reviewing outstanding issues easier. See more information on Labels below. 
 * Make comments next to each task, **in bold**, to indicate how you’re progressing with each task. This should be done so that somebody else can see, at a glance, how you’re getting on. See completing tasks below. 
 * If you need someone else to assist you, you can @ them in the Comments section with a message to indicate what you’d like their help with. However, ensure you’ve generated a hypothesis first, and that you include it in your message. This way, you might find you can solve it yourself, and if you can’t, it helps your team follow your thought process. 
-* If you are blocked, i.e. you cannot make progress without a response from a team member, label your issue as ‘Blocked’ and ensure the relevant person has been @’d in the comments so they are aware you require their assistance.
 
-### Labels 
+### Status  
 
-Labels are a great way to highlight the status, relationship and context of issues. 
+We use a Kanban board to track the status and workflow of issues. An issue might have one of the following statuses:
 
-Labels
-
-* ‘Prioritized Backlog’ - issues that have been reviewed and prioritised but have not been allocated yet.
-* ‘In Progress’ - issues currently worked. 
-* ‘Blocked/Waiting For’ - if there is a blocker. 
-* ‘In Review’ - issue is reviewed and/or has to be signed off. Once signed off, the issue needs to be closed.
-* ‘Wontfix’, ‘Duplicate’, ‘Invalid’ - closed issue without being delivered, e.g. circumstances have changed, a duplicate issue has emerged which provides the desired outcome or the issue isn’t valid anymore. Note: add a short comment specifying the reason why the issue hasn’t been delivered.
+* ‘Backlog’ - 'Backlog' should contain all issues that have been created, but not yet processed. Issues would normally move from 'Backlog' into 'Prioritized' or  'Someday/Maybe'.
+* 'Prioritized' - issues not currently being worked on but which have been identified from the backlog as prioritized for work next.
+* 'Next' - We only use this status if 'Prioritized' is overflowing with issues, essentially to identify the top priorities of the 'Prioritized'. 'Next' should  contain no more than a few issues which are to be worked on immediately next.
+* 'In Progress' - issues that are currently being worked on.
+* 'Done' - issues that have been completed.
+* 'Blocked/Waiting For' - if there is a blocker external to our organization.
+* 'Someday/Maybe' - issues that we don't intend to work on for now but would like to reconsider in the future.
 
 ### Estimating Time
 
@@ -154,6 +153,7 @@ Mockup complete:{LINK}. Few minor items to finalize once we have answers from cl
   * DUPLICATE. 
 
 * And follow it up with a short explanation of why the issue has been closed. 
+* 'Wontfix’, ‘Duplicate’, and ‘Invalid’ are for when an issue is closed  without being delivered, e.g. circumstances have changed, a duplicate issue has emerged which provides the desired outcome or the issue isn’t valid anymore. 
 
 When closing issues you MUST leave a comment like this so that readers (including you later) are clear at glance what the outcome was and why, including being able to locate quickly any outputs produced as part of resolving the issue.
 
