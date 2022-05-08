@@ -53,7 +53,7 @@ pioneer --> tao[Tao]
 pioneer --> gatherings[Gatherings]
 
 bigvision --> research[Research]
-bigvision --> ca[Contemplatiive Activism]
+bigvision --> ca[Contemplative Activism]
 bigvision --> policy[Policy]
 ```
 
