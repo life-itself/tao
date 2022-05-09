@@ -10,18 +10,18 @@ We value feedback 😄 You can make this handbook better by making amendments di
 
 ## Onboardee Journey Overview
 
-You onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
+Your onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
 
 1. [Prerequisites](#prerequisites)
 2. Welcome Call - this will be set up by person onboarding you :smile:
 3. [First Steps](#first-steps)
 4. [How we Communicate](#how-we-communicate)
-5. Further Reading
-6. Getting Help and Finding Stuff
+5. [Further Reading](#further-reading)
+6. [Getting Help and Finding Stuff](#getting-help-and-finding-stuff)
 
 ## Prerequisites 
 
-Before we get to the onboarding proper there are some essential prerequisites to get yourself set up.
+Before we get to the proper onboarding there are some essential prerequisites to get yourself set up.
 
 Please complete as many of the following steps as you can on or before your Welcome Call so we can make sure you have access to all systems. Note: you can begin these steps the moment you have your email account and in advance of your official start date.
 

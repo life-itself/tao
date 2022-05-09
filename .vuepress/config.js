@@ -15,7 +15,7 @@ module.exports = {
   },
   themeConfig: {
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://gitlab.com/artearthtech/tao',
+    repo: 'https://github.com/life-itself/tao',
     repoLabel: 'Contribute!',
     // defaults to false, set to true to enable
     editLinks: true,
