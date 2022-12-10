@@ -76,7 +76,7 @@ As a member, you agree to the following as part of being part of the community:
 ### Communicating & Resolving Conflicts
 
 *   “Getting complete”, emotional “cleaning” and conflict resolution is a priority in our community.
-*   We believe that unspoken resentment and unresolved disagreements cause blocked relationships that damage the community.
+*   We believe that unspoken resentment and unresolved disagreements cause blocked relationships that damage ourselves and the community.
 *   We seek to create safe spaces for each other and to learn tools such as meditation, integrity (restoration), flower watering (acknowledgement), non-violent communication and sharing to help us transform conflict into positive growth.
 *   We are determined to show-up to each other, not hide from things for convenience, when we have a chance to address issues in a sufficiently safe and kind space. 
 
@@ -88,7 +88,7 @@ As a member, you agree to the following as part of being part of the community:
 Life Itself consists of a company limited by shares and a non-profit company limited by guarantee. The core Life Itself entity will probably operate more like a CIC  (community interest company) than a traditional for-profit company though the exact legal structure is to be worked out. Specifically, classic CIC principles:
 
 *   Asset lock: the assets held by Life Itself can not be liquidated and distributed except to another entity pursuing the same purpose and mission.
-*   Distribution to pioneers will be set at a low level, sufficient only to attract necessary capital (for example, repayment of initial investment plus X% a year)
+*   Distribution to capital providers will usually be set at a low level, sufficient only to attract necessary capital (for example, repayment of initial investment plus X% a year)
 
 ## Principles
 
