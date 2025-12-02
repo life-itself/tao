@@ -1,0 +1,26 @@
+{
+  "showSidebar": true,
+  "showEditLink": true,
+  "favicon": "assets/climbing-mountain-liuzhou-man.jpg",
+  "theme": "lessflowery",
+  "nav": {
+    "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
+    "title": "Tao of Life Itself",
+    "social": [
+      {
+        "name": "My main website",
+        "href": "https://lifeitself.org/"
+      },
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/life-itself/tao"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://x.com/forlifeitself"
+      }
+    ]
+  }
+}
