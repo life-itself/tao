@@ -13,29 +13,29 @@ Full brand guidelines and style guide: https://drive.google.com/file/d/1vR-yAyox
 
 ### Filetype: PNG
 
-![[../assets/tao/icon-color-logo.png|Icon only logo in color]]
+![[/assets/icon-color-logo.png|Icon only logo in color]]
 
-![[../assets/tao/icon-black-logo.png|Icon only logo in black]]
-![[../assets/tao/horizontal-color-logo.png|Logotype horizontal in color]]
-![[../assets/tao/horizontal-black-logo.png|Logotype horizontal in black]]
+![[/assets/icon-black-logo.png|Icon only logo in black]]
+![[/assets/horizontal-color-logo.png|Logotype horizontal in color]]
+![[/assets/horizontal-black-logo.png|Logotype horizontal in black]]
 
-![[../assets/tao/condensed-color-logo.png|Logotype condensed in color]]
+![[/assets/condensed-color-logo.png|Logotype condensed in color]]
 
-![[../assets/tao/condensed-black-logo.png|Logotype condensed in black]]
+![[/assets/condensed-black-logo.png|Logotype condensed in black]]
 
 ### Filetype: SVG
 
-![[../assets/tao/icon-color-logo.svg|Icon only logo in color]]
+![[/assets/icon-color-logo.svg|Icon only logo in color]]
 
-![[../assets/tao/icon-black-logo.svg|Icon only logo in black]]
+![[/assets/icon-black-logo.svg|Icon only logo in black]]
 
-![[../assets/tao/horizontal-color-logo.svg|Logotype horizontal in color]]
+![[/assets/horizontal-color-logo.svg|Logotype horizontal in color]]
 
-![[../assets/tao/horizontal-black-logo.svg|Logotype horizontal in black]]
+![[/assets/horizontal-black-logo.svg|Logotype horizontal in black]]
 
-![[../assets/tao/condensed-color-logo.svg|Logotype condensed in color]]
+![[/assets/condensed-color-logo.svg|Logotype condensed in color]]
 
-![[../assets/tao/condensed-black-logo.svg|Logotype condensed in black]]
+![[/assets/condensed-black-logo.svg|Logotype condensed in black]]
 
 
 ## How to use our logos
@@ -61,5 +61,5 @@ Sometimes it is possible that we need to create a logo variation for a particula
 7. Resize the text so that "Life Itself" and the project title are balanced with width and height (see image below)
 8. Download the design as a png and svg file with a transparent background
 
-![[../assets/tao/logo-text-balancing.jpg]]]
+![[/assets/logo-text-balancing.jpg]]]
 _Examples of text balancing for longer and shorter project titles. Observe that the combined height of the text is balanced along the horizontal center with equal spacing above and below. Also note that the combined text has less height than the logo icon._
