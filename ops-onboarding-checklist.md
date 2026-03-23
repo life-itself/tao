@@ -167,13 +167,13 @@ Once both parties have signed we:
     ```
     Hi {XXX},
 
-    Welcome to Life Itself. This is the beginning of an amazing journey! 🚀 👩‍🚀
+    Welcome to Life Itself. This is the beginning of an amazing journey! 🌱👣
 
     **1. Start Setting Yourself Up!**
 
     Please start getting yourself set up here:
 
-    https://tao.lifeitself.us/onboarding/
+    https://tao.lifeitself.org/onboarding/
 
     **Please complete as much of the Onboarding Guide as possible before your Welcome Call, making note of any questions you have**. Doing this allows us to grant you access to all systems and makes the the onboarding process super-smooth.
 	
@@ -218,7 +218,7 @@ Here is the suggested agenda for the Welcome Call with the new team member. It s
 
 ### Onboarding
 
-The Onboarder should have completed most of the [Onboarding Guide](tao/onboarding).
+The Onboarder should have completed most of the [Onboarding Guide](/onboarding).
 
 * Check that they have done steps and whether they have any blockers or questions **[15m]**
 * Introduce the Onboardee to how we manage our website on Wordpress and answer any questions they have about our other systems, such as GitHub. Show them around the All-Team Google drive and ensure they know the location of key documents, such as those relating to accounts.
