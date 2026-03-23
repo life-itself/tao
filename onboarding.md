@@ -32,15 +32,15 @@ If you get stuck please contact your onboarder and let them know.
    * Gravatar -- https://gravatar.com. **Do this FIRST so your Gravatar is used on the other accounts you create.** To be able to create a Gravatar, you have to create a WordPress account first. You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
      * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts. [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
    * GitHub -- https://github.com. This may seem a bit geeky but bear with us 😉 At Life Itself we use GitHub for a variety of things from collaborating on projects to deploying our website.
-4. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
+3. **Message your onboarder**: with your Github username so they can get you added and you have access for the following steps.
 
 These additional items can be done out of order and at any time (even before you have your email etc)
 
 - **Background on working with us:** Read about [[working-with-us|Working with Us]] and [[getting-stuff-done|Getting Stuff Done]]
 - **Laptop setup**: we recommend installing the following
-  - Google or Arc browser.
-  - [Obsidian](https://obsidian.md) for markdown editing
-  - [Github desktop](https://desktop.github.com)
+  - Browser: ChatGPT Atlas
+  - Antigravity: for markdown editing with AI support
+  - [Obsidian](https://obsidian.md) for markdown editing and knowledgebase management
 - **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
 
 [phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
@@ -74,7 +74,6 @@ This is my exciting onboarding issue! 🌱
 
 * [ ] I have access to Life Itself email
 * [ ] I have set up accounts on all the systems
-* [ ] I have submitted my details via the Phonebook form
 * [ ] I have set up my laptop
 
 ### First Steps
@@ -90,26 +89,22 @@ This is my exciting onboarding issue! 🌱
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
-  * [ ] Confirmed I have the daily standup and fortnightly sprint meetings in my calendar
 * [ ] Standups
   * [ ] Read about standups
   * [ ] Wrote a standup as a comment in this github issue
-* [ ] Meetings
-  * [ ] Create a meeting doc in the onboarding practice folder by copying the 'Meeting Template for Onboarding' doc: https://drive.google.com/drive/folders/1ACL1ztVfLoe79Akjc0mCx4QRkiMVCX8O
-  * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
-  * [ ] Leave a comment in the doc asking whoever is onboarding you to review it
+* [ ] Meetings - read about meeting best practices
   
 ### Extra Steps
 
 * [ ] Watched (or read) "What Life Itself is about" from Further Reading
   * [ ] Written a short summary about integrity and other values (part I)
   * [ ] Written a short summary of our theory of change (part II)
-* [ ] Read about how to create a perfect issue in GitHub: https://lifeitself.org/tao/issues/
+* [ ] Read about how to create a perfect issue in GitHub: https://tao.lifeitself.org/issues/
 * Read about getting things done
-  * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
+  * [ ] Playbook: https://datopian.com/playbook/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
-* [ ] Read about SCQH: https://playbook.datopian.com/scqh/
-* [ ] *Really* read about [job stories](http://playbook.datopian.com/job-stories/) (and user stories)
+* [ ] Read about SCQH: https://issuetrees.com/
+* [ ] *Really* read about [job stories](http://datopian.com/playbook/job-stories/) (and user stories)
   * [ ] 📝 Summarize in your own words with examples why "so that" is so important 
 * [ ] 📝 At end: notify your onboarder if you made comments (using hypothesis or otherwise) and put link to your comment stream e.g. https://hypothes.is/users/rufuspollock so that they can quickly find all your comments. 
 ```
@@ -159,8 +154,8 @@ For info on where to find your primary time zone in the settings, see:
 
 #### View your teammates' calendars
 
-* To see someone else's calendar, see others' calendars side by side or find a time that someone is free, see: https://support.google.com/calendar/answer/6294878?co=GENIE.Platform%3DDesktop&hl=en
-* You can also add the calendars of the teammates you're mostly working with so you can easily see their availability. For instructions, see https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en
+* To see someone else's calendar, see others' calendars side by side or find a time that someone is free, see: https://support.google.com/calendar/answer/6294878
+* You can also add the calendars of the teammates you're mostly working with so you can easily see their availability. For instructions, see https://support.google.com/calendar/answer/37100
 
 ## How We Communicate
 
@@ -175,13 +170,14 @@ sync((Synchronous))
 async((Asynchronous))
 
 sync --> video[Video]
-async --> chat[Whatsapp]
+async --> chat[GChat + WhatsApp]
 async --> github[Github Issues/Discussions]
 async --> email[Email]
 ```
+
 #### Chat
 
-We use Whatsapp for quick messages of which there is no need to keep a record. We use Github issues and discussions, and secondarily email, for longer messages and messages that someone may want to refer back to. You'll be added to relevant groups as part of your onboarding.
+We use GChat (Google Chat) for team discussions and Whatsapp more for community messages of which there is no need to keep a record. We use Github issues and discussions, and secondarily email, for longer messages and messages that someone may want to refer back to. You'll be added to relevant groups as part of your onboarding.
 
 #### Voice / Video calls
 
@@ -201,7 +197,7 @@ We use markdown documents in Github or Google Drive for all internal documents.
 
 ### Meetings
 
-Make sure to familiarise yourself with our [meeting protocol](/tao/meetings). 
+Make sure to familiarise yourself with our [[meetings|patterns for meetings]]. 
 
 ### Markdown
 
