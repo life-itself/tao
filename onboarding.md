@@ -201,7 +201,7 @@ Make sure to familiarise yourself with our [[meetings|patterns for meetings]].
 
 ### Markdown
 
-Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools, including HackMD and GitHub.
+Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools, including GitHub.
 
 If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopian.com/markdown/)
 
