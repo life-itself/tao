@@ -1,3 +1,7 @@
+---
+syntaxMode: mdx
+---
+
 # Onboarding Guide
 
 Welcome to Life Itself! 👣 🌱
