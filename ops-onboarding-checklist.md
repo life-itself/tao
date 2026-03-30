@@ -1,3 +1,7 @@
+---
+syntaxMode: mdx
+---
+
 # Onboarding A New Team Member
 
 ## Principles
@@ -118,17 +122,21 @@ Next, scroll down for more detail on completing the steps.
     Subject: Your Life Itself Contract: Please Review and Complete
 
     ```
-    Hi XXX,
+    For review: your contractor agreement contract with Life Itself
+	
+    Hi,
 
-    Welcome! This is your contract:
+    We have prepared your draft contractor agreement using our standard template:
 
     {Insert Link to Google Doc}
 
+	Note that the main substance of the document is in the schedule of services at the end with the initial part being more standard terms and conditions.
+
     Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. 
 
-    EITHER: you have questions. If so, please email us to let us know so we can get those resolved 😀
+    If you have questions let us know and we can take a look (and have a chat if needed).
 
-    OR: it all looks good and you have no questions. Please then sign (insert your signature and date) and email us to let us know. We will then sign and send you a copy.
+    Once it all looks good we can then sign. Please insert your signature and date and let us know. We will then sign and send you a copy.
 
     Many thanks,
 
