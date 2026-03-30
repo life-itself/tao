@@ -123,22 +123,20 @@ Next, scroll down for more detail on completing the steps.
 
     ```
     For review: your contractor agreement contract with Life Itself
-	
+
     Hi,
+    
+    Please find the draft contractor agreement here for your review.
 
-    We have prepared your draft contractor agreement using our standard template:
+    {insert link}
+    
+    Note: The document's main substance is in the schedule of services at the end. The initial part contains standard terms and conditions.
+    
+    Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc and we can review and discuss them.
+    
+    Once everything looks good, sign and date it, let us know and then we will sign. Finally, we can send you a copy.
 
-    {Insert Link to Google Doc}
-
-	Note that the main substance of the document is in the schedule of services at the end with the initial part being more standard terms and conditions.
-
-    Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. 
-
-    If you have questions let us know and we can take a look (and have a chat if needed).
-
-    Once it all looks good we can then sign. Please insert your signature and date and let us know. We will then sign and send you a copy.
-
-    Many thanks,
+    Best,
 
     XXX
     ```
