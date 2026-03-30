@@ -80,7 +80,7 @@ Next, scroll down for more detail on completing the steps.
 
 ```
 * [ ] Contract drafted (and reviewed)
-* [ ] Contract shared with the onboardee (CC the requestor and ops@lifeitself.us)
+* [ ] Contract shared with the onboardee (CC the requestor and people-team@lifeitself.org)
 * [ ] Contract signed
 * [ ] PDF created and sent to Onboardee
 * [ ] GSuite email created
