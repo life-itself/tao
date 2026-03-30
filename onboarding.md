@@ -37,14 +37,10 @@ If you get stuck please contact your onboarder and let them know.
 These additional items can be done out of order and at any time (even before you have your email etc)
 
 - **Background on working with us:** Read about [[working-with-us|Working with Us]] and [[getting-stuff-done|Getting Stuff Done]]
-- **Laptop setup**: we recommend installing the following
-  - Browser: ChatGPT Atlas
-  - Antigravity: for markdown editing with AI support
-  - [Obsidian](https://obsidian.md) for markdown editing and knowledgebase management
+- **Laptop setup**: we recommend installing the following (on MacOS at least)
+  - Browser: ChatGPT Atlas (or Chrome)
 - **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
-
-[phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
-[laptop]: https://playbook.datopian.com/laptop-setup/
+  - (Optional) [Obsidian](https://obsidian.md) for markdown editing and knowledgebase management
 
 ## First Steps
 
