@@ -2,7 +2,7 @@
 
 ## What's your culture?
 
-Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). You won’t have management “checking up” on you. You’re accountable to your team, and it’s your responsibility to ensure that you’re keeping your word. We think this sets us apart from conventional work environments. Add to that that we’re 100% remote, asynchronous, and distributed, i.e. we work from different places, at different times, using our own computers: it all makes for an entirely different way of working. We prioritise explicit and clear communication, and take extra care in tracking our progress so that we don’t miss or duplicate work. We check in with each other daily to catch up and see if anyone has any blockers we can help with. And finally, when we ask you how you are, we actually mean it!
+Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). You won’t have management “checking up” on you. You’re accountable to your team, and it’s your responsibility to ensure that you’re keeping your word. We think this sets us apart from conventional work environments. Add to that that we're often a remote, asynchronous, and distributed team i.e. we work from different places, at different times, using our own computers. This all makes for an entirely different way of working. We prioritise explicit and clear communication, and take extra care in tracking our progress so that we don’t miss or duplicate work. We check in with each other daily to catch up and see if anyone has any blockers we can help with. And finally, when we ask you how you are, we actually mean it!
 
 ## Who's my 'boss'? Who am I accountable to? 
 
@@ -19,16 +19,6 @@ See [[getting-stuff-done|Getting Stuff Done]]
 ## Outside of my work responsibilities, do I have other commitments/things to attend? 
 
 Life Itself runs events throughout the year that you’ll be invited to attend, and your presence, while not mandatory, would be welcome!
-
-## What's a hypothesis? 
-
-Generating a hypothesis is a way problem solving. You begin with a question, and then, before you ask someone the question, you create a hypothesis about what the answer might be. In doing this, you’re building the muscle of finding the answers to your own problems first. Of course, if you’re still in need of assistance, you should ask the relevant team member. But make sure when you ask questions, you always present the hypothesis at the same time.
-
-E.g.
-
-We need to pay an invoice on Xero. How should we do this?
-
-**Hypothesis:** My hypothesis is that the answer is in the ops guide. I'll find out. 
 
 ## Contacting Ops
 
@@ -53,10 +43,6 @@ All work related travel arrangements MUST be approved by the Accountable person 
 ## Core Hours
 
 Our general working hours are 9am UK – 5pm UK. Not necessarily when you work but when it is permissible to schedule meetings.
-
-## Phone book
-
-You can find team members’ phone numbers, usernames, phone numbers in [Team Phonebook](https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0).
 
 ## Time-off
 
