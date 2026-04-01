@@ -88,6 +88,7 @@ Next, scroll down for more detail on completing the steps.
 * [ ] Invite sent to welcome call
 * [ ] Add to appropriate WhatsApp channels
 * [ ] Added to Youtube Channel
+* [ ] Added to Substack
 * [ ] Invite to Xero and add bank details
 * [ ] Send Getting Paid doc (https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit)
 * [ ] Add to Life Itself on Github once the Onboardee has created a GitHub account
