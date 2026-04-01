@@ -2,15 +2,25 @@
 
 This Guide aims to introduce you to the way we "get stuff done" (e.g. work) at Life Itself.
 
-We use a "Shape and Ship" model. This is inspired by [[shapeup|Basecamp's ShapeUp]].
+For now, rather than an overall systematic approach, we share some of the key patterns we use:
+
+- [[issues|Issues and Tasks]]
+- [[meetings|Patterns for Meetings]]
+- [Getting things Done (David Allen)](https://rufuspollock.com/post/getting-things-done)
+- "Shaping and Shipping" (see below)
+
+> [!important]
+> The shape and ship model below is **no longer** formally used at Life Itsef. However, the terminology and concepts are still relevant so it is worth looking at. (Originally developed in Jan/Feb 2024)
 
 ## Overview of Shape and Ship
+
+We use a "Shape and Ship" model. This is inspired by [[shapeup|Basecamp's ShapeUp]].
 
 In the "Shape and Ship" model, items pass through a process which starts from a raw idea and results in a "shipped" item.
 
 The diagram below illustrates the key components of this process.
 
-![](https://basecamp.com/assets/books/shapeup/4.2/phases_of_work-c2d3f6225e1b92af9453047a4364a174099de56289f0082a3d39673c20bd2db3.png)
+![[shapeup-phases-of-work.png]]
 
 > [!note]
 > There is selection at each stage: only *some* raw ideas are shaped and only some shaped ideas are selected ("bet on") to be shipped.
@@ -41,7 +51,7 @@ During the shipping phase, we deliver a (set of) shaped idea(s) that we selected
 
 As a team we work together in 4 week cycles that are split into two phases.
 
-![[../excalidraw/getting-stuff-done-work-cycle-2024-03-01.excalidraw.svg]]
+![[excalidraw/getting-stuff-done-work-cycle-2024-03-01.excalidraw.svg]]
 
 > [!note]
 > This schedule differs from the one detailed in ShapeUp. See [[#Shaping cycle is different]]
@@ -213,7 +223,7 @@ This
 - An 'annual meeting' in early January
 - Quarter planning can be a 'check in point' 
 
-![levelsofscale](https://github.com/life-itself/community/assets/131390186/ebf351b2-849f-4377-bdca-1ce0a8c1fbdd)
+![[planning-levels-of-scale.jpg]]
 
 ## Appendix: how shape and ship differs from other approaches
 
@@ -223,4 +233,4 @@ How does Shape and Ship differ from e.g. agile that we had before, or our projec
 
 ### Shaping cycle is different
 
-![[../excalidraw/shape-and-ship-cycles-us-vs-standard-2024-03-01.excalidraw.svg]]
+![[excalidraw/shape-and-ship-cycles-us-vs-standard-2024-03-01.excalidraw.svg]]
