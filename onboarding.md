@@ -224,8 +224,6 @@ Read [[issues|Issues and Tasks]] and apply it (see checklist in onboarding issue
 
 We recommend you look at the reading below as part of your onboarding:
 
-* [📺 What is Life Itself up to? (June 2020)](https://drive.google.com/file/d/1VPOLs_IsXqAHC_wPJQvmnCw_1EX_02gv/view?usp=drive_link) - plus [full transcript if you prefer reading](https://docs.google.com/document/d/19ANLS1iYIU4NoecNAh0QQ8twH9EX-P7WDO1HWRwlKuk/edit). Part I is about integrity and other core values, part II is about Life Itself's theory of change.
-* Read the [[culture]] page for an introduction to the principles behind Life Itself.
 * [[working-with-us|Working with Us]]
 * [[getting-stuff-done|Getting Stuff Done]]
 * You can also have a quick look around https://lifeitself.org/ - bonus points for comments on what works and what could be improved!
