@@ -89,10 +89,11 @@ This is my exciting onboarding issue! 🌱
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
+* [ ] Meetings - read about meeting best practices
 * [ ] Standups
   * [ ] Read about standups
   * [ ] Wrote a standup as a comment in this github issue
-* [ ] Meetings - read about meeting best practices
+* [ ] Update this issue following the issue and tasks instructions
   
 ### Extra Steps
 
@@ -208,6 +209,14 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 ### Passwords and Logins
 
 Passwords and logins for common services can be found in a private location. Check with your onboarder for access.
+
+### Standups
+
+Read https://tao.rufuspollock.com/Standups
+
+### Issues and Tasks
+
+Read [[issues|Issues and Tasks]] and apply it (see checklist in onboarding issue)
 
 ---
 
