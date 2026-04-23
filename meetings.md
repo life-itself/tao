@@ -1,3 +1,9 @@
+# Meetings
+
+Meeting notes are in the [[meetings/|meetings folder]]. This page covers patterns and guidance for running meetings.
+
+---
+
 # Patterns for Meetings
 
 - Take meeting notes in hackmd in markdown or google docs. Markdown is the preference.

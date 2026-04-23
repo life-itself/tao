@@ -6,6 +6,15 @@
   "nav": {
     "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
     "title": "Tao of Life Itself",
+    "links": [
+      { "href": "/initiatives", "name": "Initiatives" },
+      { "href": "/portfolio", "name": "Portfolio" },
+      { "href": "/projects", "name": "Projects" },
+      { "href": "/plans", "name": "Plans" },
+      { "href": "/meetings", "name": "Meetings" },
+      { "href": "/people", "name": "People" },
+      { "href": "/strategy", "name": "Strategy" }
+    ],
     "social": [
       {
         "name": "My main website",

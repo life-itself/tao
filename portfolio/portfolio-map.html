@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portfolio Map</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #fafafa; }
+  #container { width: 100vw; height: 100vh; position: relative; }
+  svg { width: 100%; height: 100%; }
+
+  .panel {
+    position: absolute; background: white; border: 1px solid #ddd;
+    border-radius: 8px; padding: 12px 16px; font-size: 12px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  }
+  .legend { top: 16px; left: 16px; min-width: 190px; }
+  .legend h3 { font-size: 15px; margin-bottom: 10px; }
+
+  .legend-group { margin-bottom: 10px; }
+  .legend-group-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #aaa; margin-bottom: 5px; }
+  .legend-item { display: flex; align-items: center; gap: 8px; margin: 4px 0; color: #555; }
+  .l-circle { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
+  .l-square  { width: 11px; height: 11px; border-radius: 2px; flex-shrink: 0; }
+
+  .status-filters { top: 16px; right: 16px; }
+  .status-filters p { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; color: #aaa; margin-bottom: 8px; }
+  .sf-btn {
+    display: flex; align-items: center; gap: 6px; padding: 3px 8px;
+    border: 1px solid #eee; border-radius: 12px; cursor: pointer;
+    user-select: none; background: #fff; margin-bottom: 4px; font-size: 12px;
+  }
+  .sf-btn:hover { background: #f5f5f5; }
+  .sf-btn.off { opacity: 0.35; }
+  .sf-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .sf-count { margin-left: auto; color: #aaa; font-size: 11px; padding-left: 8px; }
+
+  .tooltip {
+    position: absolute; background: white; border: 1px solid #ccc;
+    border-radius: 6px; padding: 10px 14px; font-size: 13px;
+    max-width: 300px; pointer-events: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12); display: none;
+  }
+  .tooltip h4 { margin-bottom: 4px; }
+  .tooltip .meta { margin-top: 6px; color: #888; font-size: 11px; }
+  .tooltip .desc { margin-top: 4px; color: #444; font-size: 12px; line-height: 1.4; }
+</style>
+</head>
+<body>
+<div id="container">
+  <svg></svg>
+
+  <div class="panel legend">
+    <h3>Portfolio Map</h3>
+    <div class="legend-group">
+      <div class="legend-group-label">Type (colour)</div>
+      <div class="legend-item"><div class="l-circle" style="background:#4A90D9"></div> Initiative</div>
+      <div class="legend-item"><div class="l-circle" style="background:#50B86C"></div> Project</div>
+      <div class="legend-item"><div class="l-circle" style="background:#F2D96B;opacity:0.55"></div> Idea</div>
+      <div class="legend-item"><div class="l-circle" style="background:transparent;border:2px solid #4A90D9;opacity:0.4"></div> Grouping</div>
+    </div>
+    <div class="legend-group">
+      <div class="legend-group-label">Status (opacity)</div>
+      <div class="legend-item"><div class="l-circle" style="background:#4A90D9;opacity:1.0"></div> Active</div>
+      <div class="legend-item"><div class="l-circle" style="background:#4A90D9;opacity:0.7"></div> Maintenance ⚙️</div>
+      <div class="legend-item"><div class="l-circle" style="background:#4A90D9;opacity:0.25"></div> Paused ⏸️</div>
+      <div class="legend-item"><div class="l-circle" style="background:#4A90D9;opacity:0.15"></div> Archived 🗄️</div>
+    </div>
+    <div style="font-size:11px;color:#aaa;margin-top:4px;">Drag · Scroll to zoom · Click opens page</div>
+  </div>
+
+  <div class="panel status-filters">
+    <p>Filter by status</p>
+    <div id="sf-btns"></div>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="index.js"></script>
+<script>
+const TYPE_COLOR     = { initiative: "#4A90D9", project: "#50B86C", idea: "#F2D96B" };
+const STATUS_OPACITY = { active: 1.0, maintenance: 0.7, paused: 0.25, idea: 0.55, archived: 0.15 };
+const STATUS_LABEL   = { active: "Active", maintenance: "Maintenance", paused: "Paused", idea: "Idea", archived: "Archived" };
+const STATUS_ICON    = { maintenance: "⚙️", paused: "⏸️", archived: "🗄️" };
+const STATUSES       = ["active", "maintenance", "paused", "idea", "archived"];
+
+function nodeColor(d)   { return (d.status === "idea" || d.type === "idea") ? TYPE_COLOR.idea : (TYPE_COLOR[d.type] || "#AAAAAA"); }
+function nodeOpacity(d) { return STATUS_OPACITY[d.status] ?? 0.5; }
+
+const isGrouping = d => d.category === "grouping";
+const hiddenStatuses = new Set();
+const counts = {};
+STATUSES.forEach(s => counts[s] = PORTFOLIO_DATA.filter(d => d.status === s && !isGrouping(d)).length);
+
+const sfContainer = document.getElementById("sf-btns");
+STATUSES.forEach(s => {
+  if (!counts[s]) return;
+  const btn = document.createElement("div");
+  btn.className = "sf-btn"; btn.id = "sfbtn-" + s;
+  const dotColor = s === "idea" ? TYPE_COLOR.idea : "#4A90D9";
+  btn.innerHTML = `<div class="sf-dot" style="background:${dotColor};opacity:${STATUS_OPACITY[s]}"></div>${STATUS_LABEL[s]}<span class="sf-count">${counts[s]}</span>`;
+  btn.addEventListener("click", () => {
+    if (hiddenStatuses.has(s)) hiddenStatuses.delete(s); else hiddenStatuses.add(s);
+    btn.classList.toggle("off", hiddenStatuses.has(s));
+    applyFilter();
+  });
+  sfContainer.appendChild(btn);
+});
+
+const RADIUS = { initiative: 18, project: 11, idea: 15 };
+
+const slugSet = new Set(PORTFOLIO_DATA.map(e => e.slug));
+const nodes = PORTFOLIO_DATA.map(e => ({ ...e, id: e.slug }));
+const links = PORTFOLIO_DATA
+  .filter(e => e.parent && slugSet.has(e.parent))
+  .map(e => ({ source: e.parent, target: e.slug }));
+
+const svg    = d3.select("svg");
+const cont   = document.getElementById("container");
+const tip    = document.getElementById("tooltip");
+const W = cont.clientWidth, H = cont.clientHeight;
+
+const g = svg.append("g");
+svg.call(d3.zoom().scaleExtent([0.2, 5]).on("zoom", e => g.attr("transform", e.transform)));
+
+const simulation = d3.forceSimulation(nodes)
+  .force("link",      d3.forceLink(links).id(d => d.id).distance(110).strength(0.6))
+  .force("charge",    d3.forceManyBody().strength(-280))
+  .force("center",    d3.forceCenter(W / 2, H / 2))
+  .force("collision", d3.forceCollide().radius(d => (RADIUS[d.type] || 10) + 6))
+  .force("x",         d3.forceX(W / 2).strength(0.04))
+  .force("y",         d3.forceY(H / 2).strength(0.04));
+
+svg.append("defs").append("marker")
+  .attr("id", "arrow").attr("viewBox", "0 -4 8 8")
+  .attr("refX", 22).attr("refY", 0)
+  .attr("markerWidth", 6).attr("markerHeight", 6)
+  .attr("orient", "auto")
+  .append("path").attr("d", "M0,-4L8,0L0,4").attr("fill", "#ccc");
+
+const link = g.append("g")
+  .selectAll("line").data(links).join("line")
+  .attr("stroke", "#ddd").attr("stroke-width", 1.2)
+  .attr("marker-end", "url(#arrow)");
+
+const node = g.append("g")
+  .selectAll("g").data(nodes).join("g")
+  .style("cursor", d => d.sitePath ? "pointer" : "default")
+  .call(d3.drag()
+    .on("start", (e, d) => { if (!e.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+    .on("drag",  (e, d) => { d.fx = e.x; d.fy = e.y; })
+    .on("end",   (e, d) => { if (!e.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; })
+  );
+
+node.append("circle")
+  .attr("r", d => isGrouping(d) ? (RADIUS[d.type] || 10) - 3 : (RADIUS[d.type] || 10))
+  .attr("fill", d => isGrouping(d) ? "none" : nodeColor(d))
+  .attr("opacity", d => isGrouping(d) ? 0.4 : nodeOpacity(d))
+  .attr("stroke", d => nodeColor(d))
+  .attr("stroke-width", d => isGrouping(d) ? 2 : 0);
+
+node.append("text")
+  .text(d => STATUS_ICON[d.status] || "")
+  .attr("dy", "0.35em")
+  .attr("text-anchor", "middle")
+  .attr("font-size", d => Math.max((RADIUS[d.type] || 10) * 0.85, 10) + "px")
+  .attr("pointer-events", "none");
+
+node.append("text")
+  .text(d => d.title && d.title.length > 22 ? d.title.slice(0, 20) + "…" : (d.title || d.slug))
+  .attr("dy", d => (RADIUS[d.type] || 10) + 13)
+  .attr("text-anchor", "middle")
+  .attr("font-size", d => d.type === "initiative" ? "11px" : "10px")
+  .attr("fill", "#333")
+  .attr("opacity", d => Math.max(nodeOpacity(d), 0.5))
+  .attr("pointer-events", "none");
+
+node.on("mouseover", (e, d) => {
+  let html = `<h4>${d.title || d.slug}</h4>`;
+  html += `<div class="meta">${d.type} · ${STATUS_LABEL[d.status] || d.status}</div>`;
+  if (d.description) html += `<div class="desc">${d.description}</div>`;
+  if (d.tags && d.tags.length) html += `<div class="meta">#${d.tags.join(" #")}</div>`;
+  tip.innerHTML = html;
+  tip.style.display = "block";
+}).on("mousemove", e => {
+  tip.style.left = (e.pageX + 14) + "px";
+  tip.style.top  = (e.pageY - 14) + "px";
+}).on("mouseout", () => { tip.style.display = "none"; });
+
+node.on("click", (e, d) => {
+  if (d.sitePath) window.location.href = d.sitePath;
+});
+
+simulation.on("tick", () => {
+  link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+      .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+  node.attr("transform", d => `translate(${d.x},${d.y})`);
+});
+
+function applyFilter() {
+  const vis = d => !hiddenStatuses.has(d.status || "");
+  node.attr("display", d => vis(d) ? null : "none");
+  link.attr("display", d => vis(d.source) && vis(d.target) ? null : "none");
+}
+</script>
+</body>
+</html>

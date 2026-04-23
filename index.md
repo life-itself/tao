@@ -77,3 +77,13 @@ See [[getting-stuff-done|Getting Work Done section]].
 
 - [[communications|Comms Guide]]
 - [[logos|Logo Assets]]
+
+# Strategy and Portfolio
+
+- [[portfolio/|Portfolio map]] — visual overview of all initiatives and projects
+- [[initiatives/|Initiatives]] — what Life Itself does
+- [[projects/|Projects]] — bounded efforts under initiatives
+- [[plans/|Weekly plans]] — operational week plans
+- [[meetings/|Meeting notes]] — ongoing meeting records
+- [[people/|People]] — team profiles
+- [[strategy/|Strategy]] — thinking layer: analysis docs, archive, log

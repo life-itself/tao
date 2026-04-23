@@ -121,3 +121,11 @@ See our Transforming the Narrative Issue Tree, which details our plans for the w
 * [[plan-2021|2021 Plan]]
 * [[plan-2020|2020 Plan]]
 * [[plan-2019|2019 Plan]]
+
+## Weekly Plans
+
+Current operational week plans live in the [[plans/|plans folder]]:
+
+* [[plans/week-2026-04-27|Week 2026-04-27]]
+* [[plans/week-2026-04-20|Week 2026-04-20]]
+* [[plans/week-2026-04-13|Week 2026-04-13]]
