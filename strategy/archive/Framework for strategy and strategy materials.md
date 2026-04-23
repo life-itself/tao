@@ -18,7 +18,7 @@ We have a 3 dimensional framework/terminology for organizing our strategy materi
   - How do these relate? e.g. brand narrative vs SCQA?
 - **Version**: which version of the strategy is this e.g. v1 (2015-17), v2 (2018-2020), v3 (2021-2023) etc
 
-![[Excalidraw/framework-for-strategy-2024-02-12.excalidraw.svg]]
+![[../../excalidraw/framework-for-strategy-2024-02-12.excalidraw.svg]]
 
 ## Levels
 

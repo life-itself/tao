@@ -57,7 +57,7 @@ strategy/           ← thinking layer: analysis docs, archive, log
 | `plans/` | `plans/` | Merge with tao's existing `plans/` folder |
 | `meetings/` | `meetings/` | New top-level folder; tao's `meetings.md` becomes its index |
 | `people/` | `people/` | New top-level folder |
-| `Excalidraw/` | `excalidraw/` | Tao already has `exalidraw/` — merge, normalise to lowercase |
+| `Excalidraw/` | `excalidraw/` | Tao uses the normalized lowercase `excalidraw/` folder |
 | `assets/` | `assets/` | Merge into tao's existing `assets/` |
 | `calendar/` | `strategy/calendar/` | Or drop if unused |
 | `Templates/` | `strategy/templates/` | Or integrate into relevant sections |
@@ -126,7 +126,7 @@ cp -r ~/src/lifeitself/strategy/people/. ~/src/lifeitself/tao/people/
 # Assets — merge
 cp -r ~/src/lifeitself/strategy/assets/. ~/src/lifeitself/tao/assets/
 
-# Excalidraw — merge into tao's existing exalidraw folder (note spelling difference)
+# Excalidraw — merge into tao's existing excalidraw folder
 cp -r ~/src/lifeitself/strategy/Excalidraw/. ~/src/lifeitself/tao/excalidraw/
 
 # Calendar (if it has content worth keeping)
@@ -261,7 +261,7 @@ Do **not** delete the strategy repo — keep as read-only archive for git histor
 ## What to watch out for
 
 - **`portfolio/scripts/node_modules/`** — use `rsync --exclude` as shown in Step 2, then verify with `rm -rf` and add to `.gitignore`.
-- **Excalidraw folder name** — strategy uses `Excalidraw/` (capital E), tao uses `exalidraw/` (lowercase). Merge into lowercase.
+- **Excalidraw folder name** — strategy uses `Excalidraw/` (capital E), tao uses `excalidraw/` (lowercase). Merge into lowercase.
 - **`config.json` conflicts** — both repos have a `config.json` for the Flowershow site. Do not overwrite tao's config; manually merge the relevant nav entries.
 - **`plans/README.md`** — strategy repo has one at `plans/README.md`; handle as part of the README split in Step 9.
 - **Tao's existing root-level plan files** — tao has `plan-2018.md` through `plan-2023.md` at root and a `plans.md` index. These are historical annual plans; leave them at root or move into `plans/` for consistency — decide before committing.

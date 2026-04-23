@@ -2,7 +2,7 @@
 
 An archive of Life Itself strategy documents — SCQHs, theories of change, narratives, plans, and reviews. Most are working documents from various points in time rather than polished publications.
 
-For context on how these fit together see the [overview diagram](../Excalidraw/materials-overview-2024-02-14.excalidraw.png) or the root [README](../README.md).
+For context on how these fit together see the [overview diagram](../../excalidraw/materials-overview-2024-02-14.excalidraw.png) or the root [README](../README.md).
 
 ## Index
 
