@@ -15,3 +15,4 @@ tags:
 
 - [[online-community|Online Community]]
 - [[gatherings|Gatherings]]
+- [[local-groups|Local Groups]]
