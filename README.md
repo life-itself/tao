@@ -19,3 +19,5 @@ The rest of the repo is the Tao itself: culture, principles, practices, ops, onb
 ## Working in this repo
 
 See [AGENTS.md](AGENTS.md) for the data model, frontmatter schema, file conventions, status values, and build instructions.
+
+For local Git hook setup, see [CONTRIBUTING.md](CONTRIBUTING.md).
