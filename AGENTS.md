@@ -57,6 +57,7 @@ Themes and organizational groupings (media, spaces, courses) are metadata, not h
 
 ## Conventions
 
+- Add `created: YYYY-MM-DD` frontmatter to all new markdown pages.
 - Use stable semantic slugs for initiative filenames. Use `YYYY-` prefixes for project filenames.
 - Express parent relationships in frontmatter as wiki-link slugs: `parent: [[life-itself]]`.
 - Use `tags` for cross-cutting themes rather than creating grouping initiatives that aren't real initiatives.
