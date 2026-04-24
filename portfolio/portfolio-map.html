@@ -157,7 +157,7 @@ const node = g.append("g")
 
 node.append("circle")
   .attr("r", d => isGrouping(d) ? (RADIUS[d.type] || 10) - 3 : (RADIUS[d.type] || 10))
-  .attr("fill", d => isGrouping(d) ? "none" : nodeColor(d))
+  .attr("fill", d => isGrouping(d) ? "transparent" : nodeColor(d))
   .attr("opacity", d => isGrouping(d) ? 0.4 : nodeOpacity(d))
   .attr("stroke", d => nodeColor(d))
   .attr("stroke-width", d => isGrouping(d) ? 2 : 0);
