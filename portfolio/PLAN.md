@@ -105,6 +105,26 @@ The name "portfolio map" is preferred over "initiatives map" since the scope inc
 - [ ] Add support for initiative/project start and end dates in the portfolio data model and visualizations
   - [ ] When dates are supported, record a start date for Sensemaking Studio (`2024-01-01`) and leave end date empty while it remains paused rather than finished
 
+---
+
+## Visualization improvements
+
+### Quick wins
+
+- [ ] **Indented tree: collapse-all / expand-all buttons** — two buttons above the tree to collapse or expand every node at once. Useful when the tree is long and you want to see the top level only, or open everything for a full scan.
+- [ ] **Force-directed: persist positions to `localStorage`** — save each node's `x/y` on drag-end; restore on load. Eliminates the random-reset problem. Layout still settable by dragging; falls back to simulation on first load or if data changes.
+
+### Medium effort
+
+- [ ] **Tidy tree view** (`d3.tree()`) — a stable, deterministic left-to-right hierarchy layout as an alternative to the force-directed graph. Pannable and zoomable. Same data, same colour/opacity encoding. Trades the "organic cluster" feel for clean readability and no resets.
+- [ ] **`owner` display** — show owner on hover tooltip and as a small label on the indented view's active rows (once owner field is populated on active initiatives).
+
+### Longer-term / to explore
+
+- [ ] **Circle packing view** (`d3.pack()`) — initiatives as large labelled circles, projects nested inside. Stable layout, good at-a-glance sense of scope, status encoded by opacity. Potentially the best "what are we working on" view for external audiences (Job 1).
+- [ ] **Operational table view** — filterable/sortable table showing active items only: title, type, owner, status, link. Best layout for Job 2 (ops/weekly scanning). No D3 needed, plain HTML table.
+- [ ] **Tag-based domain grouping** — once tags like `domain: media` / `domain: spaces` are added to frontmatter, add a view that groups by domain rather than parent hierarchy. Supports multiple classifications that a single tree can't express.
+
 ### Open questions (deferred)
 
 **Hierarchy: parent vs. tag?**
