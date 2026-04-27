@@ -21,7 +21,21 @@
   .legend-group-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #aaa; margin-bottom: 2px; }
   .legend-item { display: flex; align-items: center; gap: 7px; }
   .l-circle { width: 10px; height: 10px; border-radius: 50%; background: #4A90D9; flex-shrink: 0; }
-  .l-grey   { width: 10px; height: 10px; border-radius: 50%; background: #AAAAAA; flex-shrink: 0; }
+
+  .toolbar {
+    display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+    margin-bottom: 12px;
+  }
+  .tb-btn {
+    font-size: 12px; padding: 3px 10px; border: 1px solid #ddd;
+    border-radius: 12px; cursor: pointer; background: #fff; user-select: none;
+    color: #555;
+  }
+  .tb-btn:hover { background: #f5f5f5; }
+  .tb-sep { width: 1px; height: 20px; background: #e0e0e0; margin: 0 4px; }
+  .tb-btn.active-on {
+    background: #4A90D9; color: #fff; border-color: #4A90D9;
+  }
 
   .status-filters {
     display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; font-size: 12px; align-items: center;
@@ -36,14 +50,15 @@
   .sf-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
   .sf-count { color: #aaa; font-size: 11px; }
 
-  .tree { max-width: 900px; }
+  .tree { max-width: 960px; }
   .tree-row {
     display: flex; align-items: center; gap: 8px;
     padding: 5px 0; border-bottom: 1px solid #f0f0f0;
-    cursor: default;
+    cursor: default; transition: opacity 0.15s;
   }
   .tree-row:hover { background: #f5f8ff; }
   .tree-row.has-children { cursor: pointer; }
+  .tree-row.greyed { opacity: 0.18; }
   .indent { flex-shrink: 0; }
   .toggle {
     width: 16px; height: 16px; flex-shrink: 0;
@@ -51,8 +66,11 @@
     font-size: 10px; color: #999; user-select: none;
   }
   .dot-circle { flex-shrink: 0; width: 10px; height: 10px; border-radius: 50%; }
-  .dot-square { flex-shrink: 0; width: 10px; height: 10px; border-radius: 2px; }
   .name { font-size: 13px; font-weight: 500; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .owner-label {
+    flex-shrink: 0; font-size: 11px; color: #aaa;
+    white-space: nowrap; max-width: 140px; overflow: hidden; text-overflow: ellipsis;
+  }
   .type-label { flex-shrink: 0; font-size: 10px; text-transform: uppercase; letter-spacing: 0.3px; color: #ccc; width: 60px; }
   .status-badge {
     flex-shrink: 0; font-size: 10px; text-transform: uppercase;
@@ -65,13 +83,13 @@
     border: 1px solid #dbe7f7; border-radius: 999px;
     padding: 2px 8px; background: #fff;
   }
-  .view-link:hover { background: #f5f8ff; text-decoration: none; }
+  .view-link:hover { background: #f5f8ff; }
 </style>
 </head>
 <body>
 
-<h1>Portfolio – Indented Tree</h1>
-<p class="subtitle">Click rows with children to collapse/expand. Use View to open the local page. Click a status to toggle it.</p>
+<h1>Portfolio</h1>
+<p class="subtitle">Click rows with children to collapse/expand. Click a status filter to show/hide. Use <em>Active focus</em> to grey out inactive items.</p>
 
 <div class="legend-bar">
   <div class="legend-group">
@@ -88,6 +106,13 @@
     <div class="legend-item"><div class="l-circle" style="background:#4A90D9;opacity:0.25"></div> ⏸️ Paused</div>
     <div class="legend-item"><div class="l-circle" style="background:#4A90D9;opacity:0.15"></div> 🗄️ Archived</div>
   </div>
+</div>
+
+<div class="toolbar">
+  <div class="tb-btn" id="btn-expand-all">▾ Expand all</div>
+  <div class="tb-btn" id="btn-collapse-all">▸ Collapse all</div>
+  <div class="tb-sep"></div>
+  <div class="tb-btn" id="btn-focus">Active focus</div>
 </div>
 
 <div class="status-filters" id="status-filters">
@@ -107,7 +132,7 @@ const isGrouping = d => d.category === "grouping";
 function nodeColor(d)   { return (d.status === "idea" || d.type === "idea") ? TYPE_COLOR.idea : (TYPE_COLOR[d.type] || "#AAAAAA"); }
 function nodeOpacity(d) { return isGrouping(d) ? 0.35 : (STATUS_OPACITY[d.status] ?? 0.5); }
 
-// Build status filter buttons — exclude grouping nodes from counts
+// Status filter
 const hiddenStatuses = new Set();
 const counts = {};
 STATUSES.forEach(s => counts[s] = PORTFOLIO_DATA.filter(d => d.status === s && !isGrouping(d)).length);
@@ -121,14 +146,14 @@ STATUSES.forEach(s => {
   const dotColor = s === "idea" ? TYPE_COLOR.idea : "#4A90D9";
   btn.innerHTML = `<div class="sf-dot" style="background:${dotColor};opacity:${STATUS_OPACITY[s]}"></div>${STATUS_LABEL[s]}<span class="sf-count">${counts[s]}</span>`;
   btn.addEventListener("click", () => {
-    if (hiddenStatuses.has(s)) hiddenStatuses.delete(s);
-    else hiddenStatuses.add(s);
+    hiddenStatuses.has(s) ? hiddenStatuses.delete(s) : hiddenStatuses.add(s);
     btn.classList.toggle("off", hiddenStatuses.has(s));
     draw();
   });
   filtersEl.appendChild(btn);
 });
 
+// Tree builder
 function buildTree(entries) {
   const bySlug = new Map(entries.map(e => [e.slug, e]));
   const childrenMap = new Map();
@@ -142,7 +167,10 @@ function buildTree(entries) {
   function toNode(entry, depth) {
     const kids = (childrenMap.get(entry.slug) || [])
       .sort((a, b) => (a.title || a.slug).localeCompare(b.title || b.slug));
-    return { entry, depth, children: kids.map(k => toNode(k, depth + 1)) };
+    const node = { entry, depth, children: kids.map(k => toNode(k, depth + 1)) };
+    // bottom-up: effectively active if self is active, or any descendant is active
+    node.effectivelyActive = entry.status === "active" || node.children.some(c => c.effectivelyActive);
+    return node;
   }
   roots.sort((a, b) => {
     const aK = (childrenMap.get(a.slug) || []).length;
@@ -152,9 +180,28 @@ function buildTree(entries) {
   return roots.map(r => toNode(r, 0));
 }
 
-const tree = buildTree(PORTFOLIO_DATA);
+const tree = buildTree(PORTFOLIO_DATA.filter(e => e.slug !== "life-itself"));
 const collapsed = new Set();
+let focusMode = false;
 const container = document.getElementById("tree");
+
+// Toolbar
+document.getElementById("btn-expand-all").addEventListener("click", () => {
+  collapsed.clear();
+  draw();
+});
+document.getElementById("btn-collapse-all").addEventListener("click", () => {
+  function collectSlugs(nodes) {
+    for (const n of nodes) { if (n.children.length) { collapsed.add(n.entry.slug); collectSlugs(n.children); } }
+  }
+  collectSlugs(tree);
+  draw();
+});
+document.getElementById("btn-focus").addEventListener("click", () => {
+  focusMode = !focusMode;
+  document.getElementById("btn-focus").classList.toggle("active-on", focusMode);
+  draw();
+});
 
 function isVisible(node) { return !hiddenStatuses.has(node.entry.status || ""); }
 
@@ -176,7 +223,9 @@ function draw() {
     const hasKids = visibleKids.length > 0;
 
     const row = document.createElement("div");
-    row.className = "tree-row" + (hasKids ? " has-children" : "");
+    let cls = "tree-row" + (hasKids ? " has-children" : "");
+    if (focusMode && !node.effectivelyActive) cls += " greyed";
+    row.className = cls;
 
     const indent = document.createElement("div");
     indent.className = "indent";
@@ -206,6 +255,13 @@ function draw() {
     name.style.opacity = nodeOpacity(e);
     row.appendChild(name);
 
+    if (e.owner) {
+      const ownerEl = document.createElement("div");
+      ownerEl.className = "owner-label";
+      ownerEl.textContent = e.owner;
+      row.appendChild(ownerEl);
+    }
+
     const typeLabel = document.createElement("div");
     typeLabel.className = "type-label";
     typeLabel.textContent = e.type;
@@ -223,7 +279,7 @@ function draw() {
       viewLink.className = "view-link";
       viewLink.href = e.sitePath;
       viewLink.textContent = "View";
-      viewLink.addEventListener("click", clickEvent => clickEvent.stopPropagation());
+      viewLink.addEventListener("click", ev => ev.stopPropagation());
       row.appendChild(viewLink);
     }
 

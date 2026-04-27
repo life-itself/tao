@@ -17,6 +17,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/initiatives/2r-art-collective"
   },
   {
@@ -38,6 +39,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/initiatives/2r-festival"
   },
   {
@@ -59,6 +61,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/2rcon"
   },
   {
@@ -76,6 +79,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/ai-sense-making"
   },
   {
@@ -93,6 +97,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/archipelago-place"
   },
   {
@@ -110,6 +115,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/collective-action-course"
   },
   {
@@ -131,6 +137,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "yoyo-pasieka",
     "sitePath": "/initiatives/comms"
   },
   {
@@ -151,6 +158,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "armelle-boussidan",
     "sitePath": "/initiatives/community"
   },
   {
@@ -172,6 +180,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": null,
     "sitePath": "/initiatives/conscious-careers-guide"
   },
   {
@@ -193,6 +202,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/conscious-coliving-courses"
   },
   {
@@ -213,6 +223,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/conscious-coliving"
   },
   {
@@ -230,6 +241,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/developmental-spaces-dds"
   },
   {
@@ -250,6 +262,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/developmental-spaces-infrastructure"
   },
   {
@@ -270,6 +283,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/developmental-spaces-network"
   },
   {
@@ -291,6 +305,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "armelle-boussidan",
     "sitePath": "/initiatives/farmhouse-hub"
   },
   {
@@ -312,6 +327,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "manon-kersten",
     "sitePath": "/initiatives/felix-hub"
   },
   {
@@ -333,6 +349,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/gatherings"
   },
   {
@@ -353,6 +370,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/life-guild"
   },
   {
@@ -373,6 +391,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": null,
     "sitePath": "/initiatives/life-itself-courses"
   },
   {
@@ -394,6 +413,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "matthew-de-caussin",
     "sitePath": "/initiatives/life-itself-hubs"
   },
   {
@@ -414,6 +434,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "matthew-de-caussin",
     "sitePath": "/initiatives/life-itself-management"
   },
   {
@@ -436,6 +457,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "yoyo-pasieka",
     "sitePath": "/initiatives/life-itself-newsletter"
   },
   {
@@ -456,6 +478,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "jarlath-rice",
     "sitePath": "/initiatives/life-itself-podcast"
   },
   {
@@ -477,6 +500,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": null,
     "sitePath": "/initiatives/life-itself-practicum"
   },
   {
@@ -497,6 +521,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/life-itself-research"
   },
   {
@@ -517,6 +542,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/life-itself-strategy"
   },
   {
@@ -538,6 +564,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/life-itself-websites"
   },
   {
@@ -555,7 +582,30 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/life-itself"
+  },
+  {
+    "slug": "local-groups",
+    "type": "initiative",
+    "file": "initiatives/local-groups.md",
+    "title": "Local Groups",
+    "description": "Life Itself local groups around the world — self-organised community nodes.",
+    "status": "active",
+    "category": null,
+    "created": "Fri Apr 24 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "parent": "community",
+    "tags": [
+      "lifeitself",
+      "community",
+      "local-groups"
+    ],
+    "url": null,
+    "github": null,
+    "phase": null,
+    "tracker": null,
+    "owner": "rufus-pollock",
+    "sitePath": "/initiatives/local-groups"
   },
   {
     "slug": "online-community",
@@ -576,6 +626,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "armelle-boussidan",
     "sitePath": "/initiatives/online-community"
   },
   {
@@ -595,6 +646,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/online-shop"
   },
   {
@@ -615,6 +667,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "matthew-de-caussin",
     "sitePath": "/initiatives/ops"
   },
   {
@@ -636,6 +689,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "jarlath-rice",
     "sitePath": "/initiatives/over-the-mountains"
   },
   {
@@ -657,6 +711,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "valerie-duvauchelle",
     "sitePath": "/initiatives/praxis-ecology"
   },
   {
@@ -678,6 +733,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/riverside-hub"
   },
   {
@@ -699,6 +755,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/second-renaissance-book"
   },
   {
@@ -719,6 +776,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": null,
     "sitePath": "/initiatives/second-renaissance-community-calls"
   },
   {
@@ -739,6 +797,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/second-renaissance-course"
   },
   {
@@ -760,6 +819,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/initiatives/second-renaissance-magazine"
   },
   {
@@ -780,6 +840,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "yoyo-pasieka",
     "sitePath": "/initiatives/second-renaissance-newsletter"
   },
   {
@@ -797,6 +858,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/second-renaissance"
   },
   {
@@ -814,6 +876,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/sensemaking-studio"
   },
   {
@@ -835,6 +898,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "yoyo-pasieka",
     "sitePath": "/initiatives/social-media"
   },
   {
@@ -852,6 +916,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/initiatives/teal-estate"
   },
   {
@@ -869,6 +934,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/projects/2022-11-10-uber-epic-strategy-v3-v4"
   },
   {
@@ -886,6 +952,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/projects/2024-presenting-our-strategy-v3"
   },
   {
@@ -907,6 +974,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/projects/2026-art-of-ritual-workshop"
   },
   {
@@ -929,6 +997,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/projects/2026-channels-brands-consolidation"
   },
   {
@@ -949,6 +1018,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "matthew-de-caussin",
     "sitePath": "/projects/2026-digital-asset-management-setup"
   },
   {
@@ -966,6 +1036,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "jarlath-rice",
     "sitePath": "/projects/2026-intro-to-life-itself-videos"
   },
   {
@@ -983,6 +1054,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "jarlath-rice",
     "sitePath": "/projects/2026-otm-next-podcast-set"
   },
   {
@@ -1003,6 +1075,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/projects/2026-portfolio-map"
   },
   {
@@ -1020,6 +1093,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "valerie-duvauchelle",
     "sitePath": "/projects/2026-praxis-ecology-course-v1"
   },
   {
@@ -1037,6 +1111,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/projects/2026-second-renaissance-explorer-course-v4"
   },
   {
@@ -1057,6 +1132,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/projects/2026-second-renaissance-mythos"
   },
   {
@@ -1077,6 +1153,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/projects/2026-strategy"
   },
   {
@@ -1098,6 +1175,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/projects/2026-taiwan-film"
   },
   {
@@ -1119,6 +1197,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "petronella-tyson",
     "sitePath": "/projects/2026-uk-gathering"
   },
   {
@@ -1139,6 +1218,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
+    "owner": "rufus-pollock",
     "sitePath": "/projects/developmental-spaces-consolidation"
   },
   {
@@ -1156,6 +1236,7 @@ const PORTFOLIO_DATA = [
     "github": "https://github.com/life-itself/next.lifeitself.org",
     "phase": "shipping",
     "tracker": "https://github.com/life-itself/next.lifeitself.org/issues",
+    "owner": "rufus-pollock",
     "sitePath": "/projects/life-itself-websites-2025"
   }
 ];

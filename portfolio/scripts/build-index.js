@@ -23,7 +23,7 @@ const FOLDERS = {
 
 const FIELDS = [
   "title", "description", "status", "category", "created", "parent",
-  "tags", "url", "github", "phase", "tracker",
+  "tags", "url", "github", "phase", "tracker", "owner",
 ];
 
 function parseFile(filePath, folder, type) {
