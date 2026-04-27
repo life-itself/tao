@@ -33,9 +33,7 @@
   }
   .tb-btn:hover { background: #f5f5f5; }
   .tb-sep { width: 1px; height: 20px; background: #e0e0e0; margin: 0 4px; }
-  .tb-btn.active-on {
-    background: #4A90D9; color: #fff; border-color: #4A90D9;
-  }
+  .tb-btn.active-on { background: #4A90D9; color: #fff; border-color: #4A90D9; }
 
   .status-filters {
     display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; font-size: 12px; align-items: center;
@@ -59,6 +57,18 @@
   .tree-row:hover { background: #f5f8ff; }
   .tree-row.has-children { cursor: pointer; }
   .tree-row.greyed { opacity: 0.18; }
+
+  /* projects view: initiative divider rows */
+  .initiative-divider {
+    display: flex; align-items: center; gap: 8px;
+    padding: 10px 0 3px; border-bottom: none;
+    font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.4px; color: #aaa; user-select: none;
+  }
+  .initiative-divider .div-dot {
+    width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+  }
+
   .indent { flex-shrink: 0; }
   .toggle {
     width: 16px; height: 16px; flex-shrink: 0;
@@ -67,6 +77,10 @@
   }
   .dot-circle { flex-shrink: 0; width: 10px; height: 10px; border-radius: 50%; }
   .name { font-size: 13px; font-weight: 500; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .initiative-tag {
+    flex-shrink: 0; font-size: 11px; color: #bbb;
+    white-space: nowrap; max-width: 180px; overflow: hidden; text-overflow: ellipsis;
+  }
   .owner-label {
     flex-shrink: 0; font-size: 11px; color: #aaa;
     white-space: nowrap; max-width: 140px; overflow: hidden; text-overflow: ellipsis;
@@ -113,6 +127,8 @@
   <div class="tb-btn" id="btn-collapse-all">▸ Collapse all</div>
   <div class="tb-sep"></div>
   <div class="tb-btn" id="btn-focus">Active focus</div>
+  <div class="tb-sep"></div>
+  <div class="tb-btn" id="btn-projects">Projects view</div>
 </div>
 
 <div class="status-filters" id="status-filters">
@@ -131,6 +147,9 @@ const STATUSES = ["active", "maintenance", "paused", "idea", "archived"];
 const isGrouping = d => d.category === "grouping";
 function nodeColor(d)   { return (d.status === "idea" || d.type === "idea") ? TYPE_COLOR.idea : (TYPE_COLOR[d.type] || "#AAAAAA"); }
 function nodeOpacity(d) { return isGrouping(d) ? 0.35 : (STATUS_OPACITY[d.status] ?? 0.5); }
+
+// Slug → entry lookup for parent title resolution
+const bySlug = new Map(PORTFOLIO_DATA.map(e => [e.slug, e]));
 
 // Status filter
 const hiddenStatuses = new Set();
@@ -155,20 +174,19 @@ STATUSES.forEach(s => {
 
 // Tree builder
 function buildTree(entries) {
-  const bySlug = new Map(entries.map(e => [e.slug, e]));
+  const localBySlug = new Map(entries.map(e => [e.slug, e]));
   const childrenMap = new Map();
   for (const e of entries) {
-    if (e.parent && bySlug.has(e.parent)) {
+    if (e.parent && localBySlug.has(e.parent)) {
       if (!childrenMap.has(e.parent)) childrenMap.set(e.parent, []);
       childrenMap.get(e.parent).push(e);
     }
   }
-  const roots = entries.filter(e => !e.parent || !bySlug.has(e.parent));
+  const roots = entries.filter(e => !e.parent || !localBySlug.has(e.parent));
   function toNode(entry, depth) {
     const kids = (childrenMap.get(entry.slug) || [])
       .sort((a, b) => (a.title || a.slug).localeCompare(b.title || b.slug));
     const node = { entry, depth, children: kids.map(k => toNode(k, depth + 1)) };
-    // bottom-up: effectively active if self is active, or any descendant is active
     node.effectivelyActive = entry.status === "active" || node.children.some(c => c.effectivelyActive);
     return node;
   }
@@ -183,12 +201,12 @@ function buildTree(entries) {
 const tree = buildTree(PORTFOLIO_DATA.filter(e => e.slug !== "life-itself"));
 const collapsed = new Set();
 let focusMode = false;
+let projectsMode = false;
 const container = document.getElementById("tree");
 
 // Toolbar
 document.getElementById("btn-expand-all").addEventListener("click", () => {
-  collapsed.clear();
-  draw();
+  collapsed.clear(); draw();
 });
 document.getElementById("btn-collapse-all").addEventListener("click", () => {
   function collectSlugs(nodes) {
@@ -202,10 +220,154 @@ document.getElementById("btn-focus").addEventListener("click", () => {
   document.getElementById("btn-focus").classList.toggle("active-on", focusMode);
   draw();
 });
+document.getElementById("btn-projects").addEventListener("click", () => {
+  projectsMode = !projectsMode;
+  document.getElementById("btn-projects").classList.toggle("active-on", projectsMode);
+  // expand/collapse all buttons only meaningful in tree mode
+  document.getElementById("btn-expand-all").style.display = projectsMode ? "none" : "";
+  document.getElementById("btn-collapse-all").style.display = projectsMode ? "none" : "";
+  draw();
+});
 
 function isVisible(node) { return !hiddenStatuses.has(node.entry.status || ""); }
 
-function draw() {
+// ── Projects view ────────────────────────────────────────────────────────────
+
+function drawProjects() {
+  container.innerHTML = "";
+
+  // Collect all project/idea entries (not initiatives, not groupings)
+  const projects = PORTFOLIO_DATA
+    .filter(e => e.type === "project" || e.type === "idea")
+    .filter(e => !hiddenStatuses.has(e.status || ""));
+
+  // Group by parent initiative slug
+  const groups = new Map(); // initiative slug → { initiative entry, projects[] }
+  const noParent = [];
+
+  for (const e of projects) {
+    const parent = e.parent ? bySlug.get(e.parent) : null;
+    if (parent) {
+      if (!groups.has(parent.slug)) groups.set(parent.slug, { initiative: parent, projects: [] });
+      groups.get(parent.slug).projects.push(e);
+    } else {
+      noParent.push(e);
+    }
+  }
+
+  // Sort groups: active initiatives first (those with any active project), then alpha
+  const sortedGroups = [...groups.values()].sort((a, b) => {
+    const aActive = a.projects.some(p => p.status === "active");
+    const bActive = b.projects.some(p => p.status === "active");
+    if (aActive !== bActive) return aActive ? -1 : 1;
+    return (a.initiative.title || a.initiative.slug).localeCompare(b.initiative.title || b.initiative.slug);
+  });
+
+  // Sort projects within each group: active first, then alpha
+  const projectSort = (a, b) => {
+    const aA = a.status === "active", bA = b.status === "active";
+    if (aA !== bA) return aA ? -1 : 1;
+    return (a.title || a.slug).localeCompare(b.title || b.slug);
+  };
+
+  function renderProjectRow(e) {
+    const isActive = e.status === "active";
+    const row = document.createElement("div");
+    let cls = "tree-row";
+    if (focusMode && !isActive) cls += " greyed";
+    row.className = cls;
+
+    // spacer in place of indent/toggle
+    const spacer = document.createElement("div");
+    spacer.style.width = "32px"; spacer.style.flexShrink = "0";
+    row.appendChild(spacer);
+
+    const dot = document.createElement("div");
+    dot.className = "dot-circle";
+    dot.style.background = nodeColor(e);
+    dot.style.opacity = nodeOpacity(e);
+    row.appendChild(dot);
+
+    const name = document.createElement("div");
+    name.className = "name";
+    name.textContent = e.title || e.slug;
+    name.style.opacity = nodeOpacity(e);
+    row.appendChild(name);
+
+    if (e.owner) {
+      const ownerEl = document.createElement("div");
+      ownerEl.className = "owner-label";
+      ownerEl.textContent = e.owner;
+      row.appendChild(ownerEl);
+    }
+
+    const typeLabel = document.createElement("div");
+    typeLabel.className = "type-label";
+    typeLabel.textContent = e.type;
+    row.appendChild(typeLabel);
+
+    if (e.status) {
+      const badge = document.createElement("span");
+      badge.className = "status-badge";
+      badge.textContent = STATUS_LABEL[e.status] || e.status;
+      row.appendChild(badge);
+    }
+
+    if (e.sitePath) {
+      const viewLink = document.createElement("a");
+      viewLink.className = "view-link";
+      viewLink.href = e.sitePath;
+      viewLink.textContent = "View";
+      viewLink.addEventListener("click", ev => ev.stopPropagation());
+      row.appendChild(viewLink);
+    }
+
+    container.appendChild(row);
+  }
+
+  for (const { initiative: ini, projects: projs } of sortedGroups) {
+    const hasActive = projs.some(p => p.status === "active");
+
+    // Initiative divider
+    const div = document.createElement("div");
+    div.className = "initiative-divider";
+    if (focusMode && !hasActive) div.style.opacity = "0.18";
+
+    const dot = document.createElement("div");
+    dot.className = "div-dot";
+    dot.style.background = "#4A90D9";
+    dot.style.opacity = hasActive ? "1" : "0.3";
+    div.appendChild(dot);
+
+    const label = document.createElement("span");
+    label.textContent = ini.title || ini.slug;
+    div.appendChild(label);
+
+    if (ini.sitePath) {
+      const lnk = document.createElement("a");
+      lnk.href = ini.sitePath;
+      lnk.textContent = "↗";
+      lnk.style.cssText = "font-size:10px;color:#aaa;text-decoration:none;margin-left:4px;";
+      lnk.addEventListener("click", ev => ev.stopPropagation());
+      div.appendChild(lnk);
+    }
+
+    container.appendChild(div);
+    projs.sort(projectSort).forEach(renderProjectRow);
+  }
+
+  if (noParent.length) {
+    const div = document.createElement("div");
+    div.className = "initiative-divider";
+    div.textContent = "No initiative";
+    container.appendChild(div);
+    noParent.sort(projectSort).forEach(renderProjectRow);
+  }
+}
+
+// ── Tree view ────────────────────────────────────────────────────────────────
+
+function drawTree() {
   container.innerHTML = "";
   const flat = [];
   function flatten(nodes) {
@@ -292,6 +454,10 @@ function draw() {
 
     container.appendChild(row);
   }
+}
+
+function draw() {
+  projectsMode ? drawProjects() : drawTree();
 }
 
 draw();
