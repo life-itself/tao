@@ -10,7 +10,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Portfolio</div>
     <div class="text-sm text-gray-600">Current initiatives and projects — what Life Itself is working on right now.</div>
   </a>
-  <a href="/inbox" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <a href="/handbook/inbox" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">💡</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Capture an Idea</div>
     <div class="text-sm text-gray-600">Got a thought or suggestion? Log it before it disappears.</div>
@@ -20,7 +20,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Weekly Focus</div>
     <div class="text-sm text-gray-600">Who is working on what this week — team plans and current focus.</div>
   </a>
-  <a href="/start-project" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <a href="/handbook/start-project" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">🚀</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Start a Project</div>
     <div class="text-sm text-gray-600">Propose or kick off something new — the Working Backwards process.</div>
@@ -36,13 +36,13 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
 - [[narrative|Narrative]] — why we do what we do
 - [[scqh|SCQH]] — situation, complication, question, hypothesis
 
-### Operations
+### Handbook
 
-- [[ops|Operations Guide]]
+- [[ops|Operations and Finance]]
 - [[getting-stuff-done|Getting Stuff Done]]
-- [[meetings|Meetings]]
+- [[working-with-us|Working With Us]]
 - [[communications|Comms Guide]]
-- [[governance|Governance]]
+- [[library|Library]]
 
 ### Culture and principles
 
@@ -57,6 +57,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
 - [[initiatives/|Initiatives]] — full list
 - [[projects/|Projects]] — full list
 - [[meetings/|Meeting notes]]
+- [[plans/|Weekly plans]]
 
 ---
 

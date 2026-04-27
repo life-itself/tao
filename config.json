@@ -31,5 +31,30 @@
         "href": "https://x.com/forlifeitself"
       }
     ]
-  }
+  },
+  "redirects": [
+    { "from": "/communications", "to": "/handbook/communications" },
+    { "from": "/events", "to": "/handbook/events" },
+    { "from": "/getting-stuff-done", "to": "/handbook/getting-stuff-done" },
+    { "from": "/inbox", "to": "/handbook/inbox" },
+    { "from": "/issues", "to": "/handbook/issues" },
+    { "from": "/library", "to": "/handbook/library" },
+    { "from": "/logos", "to": "/handbook/logos" },
+    { "from": "/meetings", "to": "/handbook/meetings" },
+    { "from": "/onboarding", "to": "/handbook/onboarding" },
+    { "from": "/ops-offboarding", "to": "/handbook/ops-offboarding" },
+    { "from": "/ops-onboarding-checklist", "to": "/handbook/ops-onboarding-checklist" },
+    { "from": "/ops", "to": "/handbook/ops" },
+    { "from": "/shapeup", "to": "/handbook/shapeup" },
+    { "from": "/start-project", "to": "/handbook/start-project" },
+    { "from": "/working-with-us", "to": "/handbook/working-with-us" },
+    { "from": "/governance", "to": "/strategy/archive/governance" },
+    { "from": "/plan-2018", "to": "/strategy/plans/2018" },
+    { "from": "/plan-2019", "to": "/strategy/plans/2019" },
+    { "from": "/plan-2020", "to": "/strategy/plans/2020" },
+    { "from": "/plan-2021", "to": "/strategy/plans/2021" },
+    { "from": "/plan-2022", "to": "/strategy/plans/2022" },
+    { "from": "/plan-2023", "to": "/strategy/plans/2023" },
+    { "from": "/plans", "to": "/strategy/plans" }
+  ]
 }
