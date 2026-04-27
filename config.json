@@ -7,12 +7,10 @@
     "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
     "title": "Tao of Life Itself",
     "links": [
-      { "href": "/initiatives", "name": "Initiatives" },
       { "href": "/portfolio", "name": "Portfolio" },
-      { "href": "/projects", "name": "Projects" },
       { "href": "/plans", "name": "Plans" },
-      { "href": "/meetings", "name": "Meetings" },
       { "href": "/people", "name": "People" },
+      { "href": "/handbook", "name": "Handbook" },
       { "href": "/strategy", "name": "Strategy" }
     ],
     "social": [
@@ -42,7 +40,6 @@
     { "from": "/issues", "to": "/handbook/issues" },
     { "from": "/library", "to": "/handbook/library" },
     { "from": "/logos", "to": "/handbook/logos" },
-    { "from": "/meetings", "to": "/handbook/meetings" },
     { "from": "/onboarding", "to": "/handbook/onboarding" },
     { "from": "/ops-offboarding", "to": "/handbook/ops-offboarding" },
     { "from": "/ops-onboarding-checklist", "to": "/handbook/ops-onboarding-checklist" },
