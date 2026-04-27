@@ -4,14 +4,28 @@ This file documents conventions for working in this repository — useful both f
 
 ## Directory structure
 
-- `initiatives/` — one file per initiative. An initiative is an enduring effort that can contain projects. Use stable semantic slugs as filenames (e.g. `second-renaissance.md`).
-- `projects/` — one file per project. A project is a bounded effort nested under an initiative. Use `YYYY-` prefixed filenames (e.g. `2024-presenting-our-strategy-v3.md`).
+The repo has four layers:
+
+**Identity** (root) — the philosophical core of the tao: `culture.md`, `views.md`, `principles.md`, `practices.md`, `narrative.md`, `scqh.md`.
+
+**Handbook** (`handbook/`) — day-to-day operational how-to docs: onboarding, ops, comms, getting-stuff-done, working-with-us, inbox, start-project, etc.
+
+**Portfolio and operations** — structured data and records:
+- `initiatives/` — one file per initiative. Use stable semantic slugs (e.g. `second-renaissance.md`).
+- `projects/` — one file per project. Use `YYYY-` prefixed filenames (e.g. `2024-presenting-our-strategy-v3.md`).
 - `plans/` — weekly operational plans. Use `week-YYYY-MM-DD.md` filenames.
 - `meetings/` — meeting notes. Use `YYYY-MM-DD-topic.md` filenames.
 - `people/` — team profiles. One file per person using their slug (e.g. `rufus-pollock.md`).
 - `portfolio/` — interactive D3 visualizations of the portfolio. Open any HTML file directly in a browser. See `portfolio/README.md` for build instructions.
 - `portfolio/scripts/` — build tooling. `build-index.js` generates `portfolio/index.js` from markdown frontmatter.
-- `strategy/` — thinking and analysis layer: planning docs (`strategy/docs/`), historical archive (`strategy/archive/`), raw log (`strategy/log/`).
+
+**Strategy** (`strategy/`) — thinking and analysis layer:
+- `strategy/docs/` — planning docs and strategic analysis
+- `strategy/plans/` — annual plans, named by year (e.g. `2023.md`)
+- `strategy/archive/` — historical strategy materials (hidden from sidebar)
+- `strategy/log/` — raw outflow notes (hidden from sidebar)
+
+**Planning docs for the tao itself** (`docs/plans/`) — improvement plans and UX work for this site.
 
 ## Data model
 
