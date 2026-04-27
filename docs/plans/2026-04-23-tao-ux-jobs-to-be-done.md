@@ -137,20 +137,20 @@ Secondary navigation (sidebar or "More" section):
 
 ## Implementation Steps
 
-### Step 1: Define the jobs (this document — done)
+### Step 1: Define the jobs (this document — done ✓)
 
 ### Step 2: Fill the gaps — create missing destination pages
 
-- [ ] Create `/ideas.md` — "How to capture an idea": one-paragraph instructions, single inbox location (decide: GitHub issue vs Drive folder vs dedicated file)
-- [ ] Create or sharpen `getting-stuff-done.md#starting-a-project` — clear step-by-step for proposing a new project/initiative
-- [ ] Add a short document conventions page or section (from the hub notes answers)
-- [ ] Stub a `/strategy/index.md` summary page linking to the key strategy docs
+- [x] Create `inbox.md` — ideas inbox with two paths: Google Doc in Drive folder or direct GitHub issue, both tracked as GitHub issues with `inbox` label. Drive folder: https://drive.google.com/drive/u/0/folders/1lXkwDJzeh4ky399XTJWXjhvtDlijK6dr
+- [x] Create `start-project.md` — Working Backwards PR/FAQ process: press release required, FAQ and SCQH optional
+- [ ] Add a short document conventions page or section (from the hub notes answers) — deferred; prefer surfacing implicitly via UX rather than a separate doc
+- [x] ~~Stub a `/strategy/index.md`~~ — already exists as `strategy/README.md`
 
 ### Step 3: Redesign `index.md` landing page
 
-- [ ] Replace current wall-of-links with 4 primary cards
-- [ ] Move remaining links into a secondary "More" section
-- [ ] Test: can a new team member find the portfolio, log an idea, and check weekly focus in under 60 seconds?
+- [x] Replace current wall-of-links with 4 primary cards (HTML/Tailwind grid)
+- [x] Move remaining links into secondary "Everything else" section with markdown subheadings
+- [ ] Test: can a new team member find the portfolio, log an idea, and check weekly focus in under 60 seconds? — needs live site check
 
 ### Step 4: Improve sidebar / navigation config
 
@@ -165,6 +165,6 @@ Secondary navigation (sidebar or "More" section):
 
 ## Open Questions
 
-1. **Idea inbox location**: GitHub issue, Google Drive folder, or a dedicated `inbox.md` file? Needs a decision before Step 2.
-2. **Cards as HTML or Markdown**: Flowershow supports HTML+Tailwind in `.md` files — is that already working in this repo?
+1. ~~**Idea inbox location**~~ — resolved: `inbox.md` with Google Drive folder + GitHub issue tracking
+2. **Cards as HTML or Markdown**: Flowershow supports HTML+Tailwind in `.md` files — needs live site verification
 3. **Portfolio map update process**: Is the portfolio auto-generated from project files, or manually maintained? Affects B1.
