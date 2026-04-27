@@ -15,7 +15,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Capture an Idea</div>
     <div class="text-sm text-gray-600">Got a thought or suggestion? Log it before it disappears.</div>
   </a>
-  <a href="/plans/" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <a href="/handbook/weekly-focus" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">📅</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Weekly Focus</div>
     <div class="text-sm text-gray-600">Who is working on what this week — team plans and current focus.</div>

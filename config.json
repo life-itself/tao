@@ -55,6 +55,6 @@
     { "from": "/plan-2021", "to": "/strategy/plans/2021" },
     { "from": "/plan-2022", "to": "/strategy/plans/2022" },
     { "from": "/plan-2023", "to": "/strategy/plans/2023" },
-    { "from": "/plans", "to": "/strategy/plans" }
+    { "from": "/plans-overview", "to": "/strategy/plans" }
   ]
 }
