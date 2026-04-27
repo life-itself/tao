@@ -150,14 +150,30 @@ Secondary navigation (sidebar or "More" section):
 
 - [x] Replace current wall-of-links with 4 primary cards (HTML/Tailwind grid)
 - [x] Move remaining links into secondary "Everything else" section with markdown subheadings
-- [ ] Test: can a new team member find the portfolio, log an idea, and check weekly focus in under 60 seconds? — needs live site check
+- [x] Cards confirmed rendering on live site
 
-### Step 4: Improve sidebar / navigation config
+### Step 4: Improve sidebar / navigation config — done ✓
 
-- [ ] Review `config.json` sidebar to group by the categories above, not by file structure
-- [ ] Remove or nest stale top-level links
+- [x] Simplify nav bar: Portfolio, Plans, People, Handbook, Strategy
+- [x] Remove Initiatives, Projects, Meetings from nav (accessible via portfolio or off-repo)
+- [x] Exclude AGENTS.md and CLAUDE.md from publishing (`contentExclude`)
+- [x] Hide `strategy/archive/` and `strategy/log/` from sidebar (`contentHide`)
 
-### Step 5 (future): Search optimisation
+### Step 5: Repo reorganisation — done ✓
+
+Not in original plan but done as part of this work:
+- [x] Create `handbook/` — moved all operational how-to docs there
+- [x] Create `strategy/plans/` — moved annual plans (renamed to year only)
+- [x] Move `governance.md` to `strategy/archive/`
+- [x] Add `handbook/README.md` index page
+- [x] Add redirects in `config.json` for all moved paths
+- [x] Update `AGENTS.md` to document the four-layer structure
+
+### Step 6 (future): Weekly focus
+
+- [ ] Decide on approach for lightweight weekly focus visibility — options: GitHub issues, a dedicated weekly update format, or something else. `handbook/weekly-focus.md` is stubbed as placeholder. Needs team input on what level of visibility is actually useful before building anything.
+
+### Step 7 (future): Search optimisation
 
 - [ ] Ensure key pages have good front-matter titles so Typesense (Flowershow built-in search) surfaces them correctly
 
@@ -165,6 +181,6 @@ Secondary navigation (sidebar or "More" section):
 
 ## Open Questions
 
-1. ~~**Idea inbox location**~~ — resolved: `inbox.md` with Google Drive folder + GitHub issue tracking
-2. **Cards as HTML or Markdown**: Flowershow supports HTML+Tailwind in `.md` files — needs live site verification
+1. ~~**Idea inbox location**~~ — resolved: `handbook/inbox.md` with Google Drive folder + GitHub issue tracking
+2. ~~**Cards as HTML or Markdown**~~ — resolved: confirmed working on live site
 3. **Portfolio map update process**: Is the portfolio auto-generated from project files, or manually maintained? Affects B1.
