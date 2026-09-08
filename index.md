@@ -1,10 +1,10 @@
 ---
-title: Welcome to the Dao of Life Itself
+title: Welcome to the Tao of Life Itself
 ---
 
 Welcome. Whether you're new here or have been with us for years, this is our shared home for how we work and what we care about.
 
-The Dao is Life Itself's guide to what we stand for and how we operate.
+The Tao is Life Itself's guide to what we stand for and how we operate.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8 not-prose">
   <a href="https://docs.google.com/spreadsheets/d/1Zre0sYeIeFTqij5FWYIzPlvto95XDcSev4Y7YRJnXco/edit?gid=1792775552#gid=1792775552" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
@@ -103,10 +103,10 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
 - [[practices|Practices]]
 -->
 
-<!-- "How to Read the Dao" hidden, homepage kept to tiles only
+<!-- "How to Read the Tao" hidden, homepage kept to tiles only
 ---
 
-## How to Read the Dao
+## How to Read the Tao
 
 *Or ... The Truth Believed is a Lie. Live the Way, do not Follow It.*
 

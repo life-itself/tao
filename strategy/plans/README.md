@@ -53,7 +53,7 @@ li --> pioneer[Pioneernig a Culture]
 li --> bigvision["Transforming the Narrative"]
 
 pioneer --> hubs[Hubs]
-pioneer --> dao[Dao]
+pioneer --> tao[Tao]
 pioneer --> gatherings[Gatherings]
 
 bigvision --> research[Research]

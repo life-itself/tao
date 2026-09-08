@@ -1,5 +1,5 @@
 {
-  "title": "Dao of Life Itself",
+  "title": "Tao of Life Itself",
   "description": "Life Itself's guide to what we stand for and how we operate.",
   "showSidebar": true,
   "showEditLink": true,
@@ -7,7 +7,7 @@
   "theme": "lessflowery",
   "nav": {
     "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
-    "title": "Dao of Life Itself",
+    "title": "Tao of Life Itself",
     "links": [
       { "href": "/portfolio", "name": "Portfolio" },
       { "href": "/plans", "name": "Plans" },
