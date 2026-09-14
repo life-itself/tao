@@ -4,28 +4,17 @@ created: 2026-05-18
 
 # People
 
-Life Itself team members and their email addresses.
-
-| Name | Tags | Email |
-|------|------|-------|
-| [[rufus-pollock\|Rufus Pollock]] | Founder | rufus@lifeitself.org |
-| [[sylvie-barbier\|Sylvie Barbier]] | Founder | sylvie@lifeitself.org |
-| [[armelle-boussidan\|Armelle Boussidan]] | Coordination | armelle@lifeitself.org |
-| [[jarlath-rice\|Jarlath Rice]] | Video Production, Education | jarlath@lifeitself.org |
-| [[yoyo-pasieka\|Yoyo Pasieka]] | Communications | yoyo@lifeitself.org |
-| [[matthew-de-caussin\|Matthew de Caussin]] | Operations | matthew@lifeitself.org |
-| [[valerie-duvauchelle\|Valérie Duvauchelle]] | Tenzo, Retreat Host | valerie@lifeitself.org |
+See https://lifeitself.org/team
 
 ## Shared inboxes
 
 | Address | Purpose |
 |---------|---------|
-| hello@lifeitself.org | General enquiries |
-| ops@lifeitself.us | Operations, finance, admin |
-| ops-france@lifeitself.org | France operations |
-| accounts@lifeitself.org | Shared logins / accounts |
-| people-team@lifeitself.org | HR and onboarding |
-| praxis@lifeitself.org | Bergerac hub |
-| comms-team@lifeitself.org | Communications |
-| jobs@lifeitself.org | Hiring |
-| all-team@lifeitself.org | Whole-team distribution + calendar |
+| hello@ | General enquiries |
+| ops@ | Operations, finance, admin |
+| ops-france@ | France operations |
+| accounts | Shared logins / accounts |
+| praxis@ | Riverside hub |
+| comms-team@ | Communications |
+| jobs@ | Hiring |
+| all-team@ | Whole-team distribution + calendar |
