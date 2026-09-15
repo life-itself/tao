@@ -2,7 +2,7 @@
 
 When somone leaves their role with Life Itself, they write a Handover guide. This guide details their role and responsibilities, so that any future team member can pick up from they left off. This task is for the team member to complete themselves.
   
-For remaining Life Itself staff, the following tasks must be carried out. These are generally removing the team member’s access to the websites and software used by Life Itself:
+For remaining Life Itself staff, the following tasks must be carried out. These are generally removing the team member's access to the websites and software used by Life Itself (passwords for shared accounts are tracked in this spreadsheet: https://docs.google.com/spreadsheets/d/11I4fvDNYIpkx_G0DbtbYNNXScvLd7nGF5unU8PmdX3U/edit?gid=302615471#gid=302615471):
   
 * Xero - Remove team member as user from Xero. Only Rufus has admin access to do this. 
 * Github - Remove team member’s access to the Life Itself group on Github.
