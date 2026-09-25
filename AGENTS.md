@@ -13,7 +13,7 @@ The repo has four layers:
 **Portfolio and operations** — structured data and records:
 - `plans/` — weekly operational plans. Use `week-YYYY-MM-DD.md` filenames.
 - `meetings/` — meeting notes. Use `YYYY-MM-DD-topic.md` filenames.
-- `people/` — team profiles. One file per person using their slug (e.g. `rufus-pollock.md`).
+- `people/` — the 10 team profiles here were migrated to [life-itself/planning](https://github.com/life-itself/planning)'s `people/` directory on 2026-09-25 and removed from this repo; only `README.md` (shared inboxes) remains.
 - `portfolio/` — interactive D3 visualizations of the portfolio plus the local `index.js` data snapshot. Open any HTML file directly in a browser. See `portfolio/README.md` for details.
 - `portfolio/scripts/` — build tooling and helpers for the portfolio visualisations.
 
