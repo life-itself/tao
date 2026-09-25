@@ -29,7 +29,7 @@ The repo has four layers:
 
 The portfolio is maintained as a data snapshot in `portfolio/index.js`. Parent relationships are stored as slugs on each entry.
 
-The old markdown-backed initiative/project database is no longer maintained locally in this repo.
+The old markdown-backed initiative/project database (`initiatives/`) has been removed from this repo (2026-09-25). Life Itself's initiatives and projects now live as Markdown in [life-itself/planning](https://github.com/life-itself/planning) (`initiatives/`, `projects/`), with Beads for execution — see that repo's `docs/data-model.md`. This repo's own `portfolio/index.js` snapshot and diagram assets under `initiatives/*/` (e.g. farmhouse-hub, life-itself-hubs, life-itself-research) are retained; only the duplicate stub Markdown files were removed.
 
 ## Conventions
 
