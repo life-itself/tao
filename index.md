@@ -55,12 +55,12 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
   </div>
   <div class="block p-6 border border-gray-200 rounded-lg">
     <div class="text-3xl mb-3">🚀</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Proposals &amp; Projects</div>
-    <div class="text-sm text-gray-600 mb-3">From idea to validated project. Capture a proposal and discuss it; once it's greenlit, fill the A10, then file it for review and validation.</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Start a project</div>
+    <div class="text-sm text-gray-600 mb-3">Choose a project file in Planning or an A10 in Google Docs. Describe the outcome, agree who is involved, and link the task tracker. No Tao issue or duplicate record needed.</div>
     <div class="flex flex-col gap-2">
-      <a href="https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ 1. Capture a proposal (team Sheet)</a>
-      <a href="https://docs.google.com/document/d/1OQNdrZuejA-z9nRI6ahegmRkF3bt2Gw4EgUML0g2fqo/edit?tab=t.0#heading=h.599vpyhb8naq" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ 2. A10 template — fill once greenlit</a>
-      <a href="https://drive.google.com/drive/folders/1HX7piAU2exI9-8MwdgFPv-wf3WyvXPBn" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ 3. Projects folder — file your A10</a>
+      <a href="https://github.com/life-itself/planning/blob/main/docs/workflow.md#start-a-project" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Quick start: choose your route</a>
+      <a href="https://docs.google.com/document/d/1OQNdrZuejA-z9nRI6ahegmRkF3bt2Gw4EgUML0g2fqo/edit?tab=t.0#heading=h.599vpyhb8naq" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Copy the A10 template (Google Docs route)</a>
+      <a href="https://drive.google.com/drive/folders/1HX7piAU2exI9-8MwdgFPv-wf3WyvXPBn" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Projects folder (Google Drive)</a>
     </div>
   </div>
   <a href="https://docs.google.com/spreadsheets/d/1VGCWfhdS_QkhPVJO_UcwSkFzIJYFr2_tdcakTHxwU2o/edit?gid=0#gid=0" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
