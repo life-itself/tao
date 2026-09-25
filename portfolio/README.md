@@ -1,6 +1,6 @@
 # Portfolio
 
-Interactive visualisation of the Life Itself strategy portfolio. The indented tree is the primary overview; the map is kept as a secondary link.
+**Deprecated historical snapshot.** The current portfolio is in [Life Itself Planning](https://github.com/life-itself/planning/blob/main/portfolio/README.md). Maintain initiative records there and follow its [workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) for project documentation and task locations. The views below are retained for reference, not current commitments.
 
 ## Visualisations
 
@@ -22,4 +22,4 @@ Draws from `index.js`.
 
 ## Data Snapshot
 
-`index.js` is the local portfolio snapshot used by the visualisations. It is maintained directly rather than reconstructed from markdown in this repo.
+`index.js` is the historical snapshot used by these visualisations. Do not edit it as a current portfolio; the authoritative records and generated view are now in Planning.

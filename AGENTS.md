@@ -27,15 +27,13 @@ The repo has four layers:
 
 ## Data model
 
-The portfolio is maintained as a data snapshot in `portfolio/index.js`. Parent relationships are stored as slugs on each entry.
-
-The old markdown-backed initiative/project database (`initiatives/`) has been removed from this repo (2026-09-25). Life Itself's initiatives and projects now live as Markdown in [life-itself/planning](https://github.com/life-itself/planning) (`initiatives/`, `projects/`), with Beads for execution — see that repo's `docs/data-model.md`. This repo's own `portfolio/index.js` snapshot and diagram assets under `initiatives/*/` (e.g. farmhouse-hub, life-itself-hubs, life-itself-research) are retained; only the duplicate stub Markdown files were removed.
+The current portfolio and its schema are maintained in [life-itself/planning](https://github.com/life-itself/planning). Local portfolio data and old initiative/project pages are historical references, not a competing editable source of truth.
 
 ## Conventions
 
-- Keep `portfolio/index.js` as the source of truth for portfolio items in this repository.
-- Preserve existing slugs and parent references when editing portfolio entries.
-- Use `portfolio/README.md` as the canonical place for portfolio snapshot workflow notes.
+- Keep culture, principles and general handbook guidance in Tao. Link to the [canonical planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) for initiative maintenance, project creation and tracker routing; do not duplicate those rules here.
+- Maintain initiatives in planning. Projects can use a planning-repository record or an A10 / similar Google Doc. No Tao issue is required to start a project.
+- Do not update the deprecated portfolio snapshot as if it were current. Preserve historical material and source links; task cleanup belongs to the separately tracked audit, not automatic bulk deletion.
 
 ## Site publishing
 
@@ -43,4 +41,4 @@ This repo is published as a website via [Flowershow](https://flowershow.app) at 
 
 ## Building the data index
 
-See `portfolio/README.md` for the current portfolio data snapshot note.
+No current portfolio index is maintained here. See `portfolio/README.md` for the historical snapshot and current destination.

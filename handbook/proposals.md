@@ -4,6 +4,10 @@ created: 2026-05-18
 
 # Proposals & Ideas
 
+**Historical process — deprecated 2026-09-25.** The sheet, roles and steps below are retained as source material, not current requirements. Use the [planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) and [[start-project|Starting a Project]] instead; neither a Tao issue nor this sheet is required to start a project.
+
+## Former process
+
 Got an idea or a proposal? Capture it in the team Proposals Sheet so it doesn't get lost — and so it can be triaged, discussed, or shaped when the moment is right.
 
 **[Open the Proposals Google Sheet →](https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446)**

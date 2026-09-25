@@ -1,8 +1,10 @@
 # Issues / Tasks
 
+This page covers writing tasks **when GitHub Issues is the chosen tracker**. For choosing between GitHub, Asana and Beads, follow the [planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md). No Tao issue is required to start a project, and tasks already tracked elsewhere should not be copied here.
+
 An issue is a way to log ideas/tasks. They can be edited to be open or closed, with the ability to organise them with tags, assign them to people in the group and apply due dates.
 
-We create issues for most tasks we are working on. The following provides the pattern for creating and managing issues. We recommend you follow this pattern for two reasons:
+For work tracked in GitHub, the following provides a pattern for creating and managing issues. We recommend it for two reasons:
 
 1. It helps *you* think through the task (much effort has been saved by good job stories even on the most mundane of tasks).
 2. A good, consistent structure helps *others* understand and facilitates communication in a distributed, multi-cultural team.
@@ -23,7 +25,7 @@ This key information SHOULD be present:
 
 ### Issue Layout 
 
-You should create an issue for any assignment, or project, that has more than one actionable step, and you should lay your issue out as follows:
+When creating a GitHub issue for work with multiple actionable steps, lay it out as follows:
 
 * **Description** — at the top, without a heading. What is involved, ideally as a user story/job story.
 * **Acceptance** — what constitutes done/success.
@@ -190,6 +192,5 @@ Notes:
 **Tip:** Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
 
 You can refer to issues in another repo by using the full notation, e.g. 'fixes DatopianGlobal/PM#10'.
-
 
 

@@ -4,9 +4,13 @@ created: 2026-04-24
 
 # Starting a Project
 
+Use the [planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) for current guidance. A project can start as a numbered record in the planning repository **or** an A10 / similar Google Doc. No duplicate record or Tao issue is required. Project creation is still evolving; content-production items have their own workflow under development.
+
+Initiatives are different: they are enduring areas of work and their records are maintained in the planning repository. This page keeps an optional framing technique, not a separate project-registration process.
+
 ## The approach: Working Backwards
 
-Before committing time and energy to something new, write a short **PR/FAQ** — a press release and optional FAQ. This comes from Amazon's "Working Backwards" process, where you start from the desired outcome and reason backwards to what needs to be built, rather than starting from what you can already do.
+One useful way to frame a project is a short **PR/FAQ** — a press release and optional FAQ. This comes from Amazon's "Working Backwards" process, where you start from the desired outcome and reason backwards to what needs to be built, rather than starting from what you can already do. It is optional, not an additional requirement on top of an A10 or project record.
 
 The press release here is **not** a traditional marketing press release. It is a short internal document written *as if the project is already complete and being announced* — a forcing function that makes you articulate what you are actually trying to achieve before you start. If you cannot write a crisp press release, the idea needs more thinking first.
 
@@ -16,7 +20,7 @@ The goal is velocity over speed: a little thinking upfront prevents a lot of was
 
 ## The template
 
-Copy the template below, fill it in, and open a GitHub issue in this repo with the completed document as the body. Add the label `proposal`. That becomes the record and the place for discussion.
+If useful, copy this template into your chosen project document. The former instruction to open a `proposal` issue in Tao is deprecated.
 
 ---
 
@@ -59,6 +63,6 @@ For larger or more ambiguous projects — especially where the *why* is not obvi
 
 ## What happens next
 
-Someone will comment on the issue, ask questions, or give a go/no-go. For small projects owned entirely by one person, that may just be a quick acknowledgement. For larger efforts touching shared resources or strategy, it will involve more discussion.
+Share the chosen document with the people involved and agree any needed commitment of shared resources. Track actions in the project's designated tracker; the document and tracker do not have to be in the same tool.
 
-If your idea is not yet ready for a press release, use the [[inbox|Ideas Inbox]] instead.
+A small idea or task need not become a project: capture it in the relevant tracker without creating another queue here.
