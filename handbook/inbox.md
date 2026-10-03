@@ -6,7 +6,7 @@ created: 2026-04-24
 
 Got an idea, suggestion, or rough thought? Capture it here before it disappears.
 
-The inbox is for **rough, unformed inputs** — anything from a project idea to a process improvement to a question worth exploring. It is not for formal proposals or active tasks; those live in the portfolio and weekly plans.
+The inbox is for **rough, unformed inputs** — anything from a project idea to a process improvement to a question worth exploring. It is not for formal proposals or active tasks; those live in [Planning](https://github.com/life-itself/planning) and weekly plans.
 
 ## How to add an item
 

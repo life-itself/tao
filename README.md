@@ -8,14 +8,14 @@ Published at https://tao.lifeitself.org
 
 ## What's here
 
-- [`portfolio/`](portfolio/) — historical portfolio snapshot; see Planning for current records
 - [`plans/`](plans/) — weekly operational plans
 - [`meetings/`](meetings/) — meeting notes
-- [`people/`](people/) — team profiles
 - [`strategy/`](strategy/) — thinking layer: strategic analysis, historical archive, log
+
+Portfolio, initiatives and people profiles live in [Planning](https://github.com/life-itself/planning).
 
 The rest of the repo is the Tao itself: culture, principles, practices, ops, onboarding.
 
 ## Working in this repo
 
-See [AGENTS.md](AGENTS.md) for the data model, file conventions, and current portfolio data layout.
+See [AGENTS.md](AGENTS.md) for the file conventions.

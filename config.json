@@ -9,9 +9,9 @@
     "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
     "title": "Tao of Life Itself",
     "links": [
-      { "href": "/portfolio", "name": "Portfolio" },
+      { "href": "https://github.com/life-itself/planning", "name": "Portfolio" },
       { "href": "/plans", "name": "Plans" },
-      { "href": "/people", "name": "People" },
+      { "href": "https://github.com/life-itself/planning/tree/main/people", "name": "People" },
       { "href": "/handbook", "name": "Handbook" },
       { "href": "/strategy", "name": "Strategy" }
     ],
@@ -33,7 +33,7 @@
     ]
   },
   "contentExclude": ["AGENTS.md", "CLAUDE.md"],
-  "contentHide": ["strategy/archive", "strategy/log", "people", "excalidraw", "docs", "plans", "communications", "initiatives"],
+  "contentHide": ["strategy/archive", "strategy/log", "excalidraw", "docs", "plans", "communications"],
   "redirects": [
     { "from": "/culture/fourteen-mindfulness-trainings", "to": "https://lifeitself.org/blog/fourteen-mindfulness-trainings-life-itself" },
     { "from": "/communications", "to": "/handbook/communications" },
