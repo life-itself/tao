@@ -16,7 +16,7 @@ How we work at Life Itself — practical guides for team members and collaborato
 ## Starting and capturing work
 
 - [[start-project|Start a Project]] — choose a planning-repository record or Google Doc; links to the current workflow
-- [[proposals|Proposals & Ideas]] — historical process, retained for reference
+- [[proposals|Proposals & Ideas]] — in development
 
 ## Operations and admin
 
