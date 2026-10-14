@@ -94,6 +94,10 @@ This is my exciting onboarding issue! 🌱
   * [ ] Read about standups
   * [ ] Wrote a standup as a comment in this github issue
 * [ ] Update this issue following the issue and tasks instructions
+* [ ] Beads identity (so tasks assigned to you work)
+  * [ ] Ask for your `people/<id>.md` record in the planning repo (it fixes your ID, usually your lowercase first name, and records your GitHub username in `github:`)
+  * [ ] Added `export BEADS_ACTOR=<your-id>` to `~/.zshenv` and opened a new terminal
+  * [ ] `echo $BEADS_ACTOR` prints your ID
   
 ### Extra Steps
 
@@ -214,6 +218,16 @@ Read https://tao.rufuspollock.com/Standups
 ### Issues and Tasks
 
 Read [[issues|Issues and Tasks]] and apply it (see checklist in onboarding issue)
+
+#### Your Beads identity
+
+We track tasks in Beads (see [Getting set up with GitHub and Beads](https://github.com/life-itself/planning/blob/main/guides/github-and-beads-setup.md)). Tasks are assigned by person ID, not by GitHub or git name, so do this in order:
+
+1. Make sure you have a record in the planning repo's `people/` (ask if not). The filename is your ID, usually your lowercase first name, and the `github:` field links it to your GitHub username, which can differ.
+2. Add `export BEADS_ACTOR=<your-id>` to `~/.zshenv` and open a new terminal.
+3. Check: `echo $BEADS_ACTOR` prints your ID.
+
+If Beads says `cannot close … assignee is "X", actor is "Y"`, the names don't match: fix `BEADS_ACTOR`, don't use `--force`. Details: [Beads assignee conventions](https://github.com/life-itself/planning/blob/main/docs/bd-task-conventions.md#setting-your-identity).
 
 ---
 
