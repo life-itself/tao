@@ -17,11 +17,12 @@ This guide provides you with a simple step-by-step process to get set up at Life
 Your onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
 
 1. [Prerequisites](#prerequisites)
-2. Welcome Call - this will be set up by person onboarding you 😄
-3. [First Steps](#first-steps)
-4. [How we Communicate](#how-we-communicate)
-5. [[further-reading|Further Reading]]
-6. [Getting Help and Finding Stuff](#getting-help-and-finding-stuff)
+2. [Set up your computer (with AI)](#set-up-your-computer-with-ai)
+3. Welcome Call - this will be set up by person onboarding you 😄
+4. [First Steps](#first-steps)
+5. [How we Communicate](#how-we-communicate)
+6. [[further-reading|Further Reading]]
+7. [Getting Help and Finding Stuff](#getting-help-and-finding-stuff)
 
 ## Prerequisites 
 
@@ -37,6 +38,7 @@ If you get stuck please contact your onboarder and let them know.
      * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts. [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
    * GitHub -- https://github.com. This may seem a bit geeky but bear with us 😉 At Life Itself we use GitHub for a variety of things from collaborating on projects to deploying our website.
 3. **Message your onboarder**: with your Github username so they can get you added and you have access for the following steps.
+4. **Set up your AI**: we default to Claude. Install the Claude desktop app (https://claude.ai/download) and sign in with your Life Itself email. You'll use its Code tab in the [next step](#set-up-your-computer-with-ai).
 
 These additional items can be done out of order and at any time (even before you have your email etc)
 
@@ -45,6 +47,27 @@ These additional items can be done out of order and at any time (even before you
   - Browser: ChatGPT Atlas (or Chrome)
 - **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
   - (Optional) [Obsidian](https://obsidian.md) for markdown editing and knowledgebase management
+
+## Set up your computer (with AI)
+
+This gets your computer ready to work with us: git, GitHub access, and Beads, our task tracker, with the team's planning repo on your machine. Claude does the work. You only sign in and paste a key when it asks.
+
+Do this once you are in the `life-itself` GitHub organisation (prerequisite 3) and have Claude installed (prerequisite 4). Open the Code tab in the Claude desktop app and paste this:
+
+```
+I'm joining the Life Itself team. Set up this computer so I can work with you in the life-itself GitHub organisation: git, SSH access to GitHub, the GitHub CLI (`gh`), and Beads (`bd`, our task tracker), with the life-itself/planning repo cloned to ~/code/life-itself/planning.
+
+Do it for me. Check what's already there, run the commands yourself, and pick sensible defaults for my machine (Mac or Windows). Only stop when I have to act myself: signing in, pasting a key into github.com, typing my computer password. Never ask me for a password or token in chat. Get my name and email from my GitHub account once I'm signed in; ask only if something is missing.
+
+Key points:
+- SSH key: no passphrase. If GitHub shows "Configure SSO" next to the key, have me authorise life-itself. Check GitHub's host key against its published fingerprints before accepting it.
+- Beads: install the latest official release (github.com/gastownhall/beads), without admin rights if needed. In the planning repo, run `bd bootstrap`, never `bd init`.
+- Set BEADS_ACTOR permanently to my team ID: my lowercase first name unless I say otherwise.
+
+If something fails, work out why before changing anything. When done, read planning's README and AGENTS.md, give me a five-line summary of how the team works, and list what works and anything left for me to do.
+```
+
+Stuck? Paste the error into Claude and ask it to work out what's wrong. Still stuck, message your onboarder.
 
 ## First Steps
 
@@ -94,10 +117,8 @@ This is my exciting onboarding issue! 🌱
   * [ ] Read about standups
   * [ ] Wrote a standup as a comment in this github issue
 * [ ] Update this issue following the issue and tasks instructions
-* [ ] Beads identity (so tasks assigned to you work)
-  * [ ] Ask for your `people/<id>.md` record in the planning repo (it fixes your ID, usually your lowercase first name, and records your GitHub username in `github:`)
-  * [ ] Added `export BEADS_ACTOR=<your-id>` to `~/.zshenv` and opened a new terminal
-  * [ ] `echo $BEADS_ACTOR` prints your ID
+* [ ] Computer set up with AI (git, GitHub, Beads): see [computer setup](#set-up-your-computer-with-ai)
+  * [ ] Asked for your `people/<id>.md` record in the planning repo (it fixes your ID, usually your lowercase first name, and records your GitHub username in `github:`)
   
 ### Extra Steps
 
