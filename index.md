@@ -56,7 +56,6 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="flex flex-col gap-2">
       <a href="/handbook/" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Open the Handbook</a>
       <a href="/handbook/onboarding" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Onboarding: start here</a>
-      <a href="/handbook/working-with-ai" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ How we work (with AI)</a>
     </div>
   </div>
   <div class="block p-6 border border-gray-200 rounded-lg">

@@ -1,8 +1,5 @@
 # Getting Stuff Done
 
-> [!tip]
-> Start with [[working-with-ai|How we work (with AI)]], which is gradually replacing this page.
-
 This Guide aims to introduce you to the way we "get stuff done" (e.g. work) at Life Itself.
 
 For now, rather than an overall systematic approach, we share some of the key patterns we use:
