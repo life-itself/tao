@@ -17,12 +17,11 @@ This guide provides you with a simple step-by-step process to get set up at Life
 Your onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
 
 1. [Prerequisites](#prerequisites)
-2. [Set up your computer (with AI)](#set-up-your-computer-with-ai)
-3. Welcome Call - this will be set up by person onboarding you 😄
-4. [First Steps](#first-steps)
-5. [How we Communicate](#how-we-communicate)
-6. [[further-reading|Further Reading]]
-7. [Getting Help and Finding Stuff](#getting-help-and-finding-stuff)
+2. Welcome Call - this will be set up by person onboarding you 😄
+3. [First Steps](#first-steps), starting with [setting up your computer (with AI)](#set-up-your-computer-with-ai)
+4. [How we Communicate](#how-we-communicate)
+5. [[further-reading|Further Reading]]
+6. [Getting Help and Finding Stuff](#getting-help-and-finding-stuff)
 
 ## Prerequisites 
 
@@ -38,7 +37,7 @@ If you get stuck please contact your onboarder and let them know.
      * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts. [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
    * GitHub -- https://github.com. This may seem a bit geeky but bear with us 😉 At Life Itself we use GitHub for a variety of things from collaborating on projects to deploying our website.
 3. **Message your onboarder**: with your Github username so they can get you added and you have access for the following steps.
-4. **Set up your AI**: we default to Claude. Install the Claude desktop app (https://claude.ai/download) and sign in with your Life Itself email. You'll use its Code tab in the [next step](#set-up-your-computer-with-ai).
+4. **Set up your AI**: we default to Claude. Install the Claude desktop app (https://claude.ai/download) and sign in with your Life Itself email. You'll use its Code tab to [set up your computer](#set-up-your-computer-with-ai) in First Steps.
 
 These additional items can be done out of order and at any time (even before you have your email etc)
 
@@ -48,7 +47,18 @@ These additional items can be done out of order and at any time (even before you
 - **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
   - (Optional) [Obsidian](https://obsidian.md) for markdown editing and knowledgebase management
 
-## Set up your computer (with AI)
+## First Steps
+
+### GitHub
+
+✋ It's fine if you are unfamiliar with GitHub -- you only need the basics for now. 🙂
+
+We use GitHub https://github.com/ for a lot of project management as well as managing some of our websites. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+
+The issue tracker is space for storing and sharing task lists - you can think of it as an online notebook full of to-do lists. You can create an issue within the issue tracker to outline all the subtasks associated with something you're working on. Updating the issue records your progress and keeps your team up-to-date.
+
+
+### Set up your computer (with AI)
 
 This gets your computer ready to work with us: git, GitHub access, and Beads, our task tracker, with the team's planning repo on your machine. Claude does the work. You only sign in and paste a key when it asks.
 
@@ -68,17 +78,6 @@ If something fails, work out why before changing anything. When done, read plann
 ```
 
 Stuck? Paste the error into Claude and ask it to work out what's wrong. Still stuck, message your onboarder.
-
-## First Steps
-
-### GitHub
-
-✋ It's fine if you are unfamiliar with GitHub -- you only need the basics for now. 🙂
-
-We use GitHub https://github.com/ for a lot of project management as well as managing some of our websites. We want to introduce you to it here briefly because we will use its issue tracker functionality.
-
-The issue tracker is space for storing and sharing task lists - you can think of it as an online notebook full of to-do lists. You can create an issue within the issue tracker to outline all the subtasks associated with something you're working on. Updating the issue records your progress and keeps your team up-to-date.
-
 
 ### Create an Onboarding Issue
 
