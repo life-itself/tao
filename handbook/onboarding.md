@@ -260,9 +260,7 @@ We recommend you look at the reading below as part of your onboarding:
 
 * [[working-with-us|Working with Us]]
 * [[getting-stuff-done|Getting Stuff Done]]
-* [Post-its and filing cabinets](https://wayintoai.com/use/knowledge-work/concepts), then [Our office](https://planning.lifeitself.org/guides/our-office): how we organise shared work
-* [AI is the interface: how to use AI for knowledge work](https://wayintoai.com/use/knowledge-work/how-to-use-ai)
-* [Beads](https://planning.lifeitself.org/guides/beads): the task board your AI uses
+* [[working-with-ai|How we work (with AI)]]: how we organise shared work and use AI to do it, as a reading path
 * You can also have a quick look around https://lifeitself.org/ - bonus points for comments on what works and what could be improved!
 
 ## Getting Help and Finding Stuff

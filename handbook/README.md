@@ -10,7 +10,8 @@ How we work at Life Itself — practical guides for team members and collaborato
 
 - [[onboarding|Onboarding]] — start here if you are new
 - [[working-with-us|Working With Us]] — how we collaborate
-- [[getting-stuff-done|Getting Stuff Done]] — our approach to work
+- [[working-with-ai|How we work (with AI)]] — how we organise shared work and use AI, start here
+- [[getting-stuff-done|Getting Stuff Done]] — our older patterns for work
 - [[shapeup|Shape Up]] — how we shape and ship projects
 
 ## Starting and capturing work
