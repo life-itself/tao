@@ -259,8 +259,7 @@ If Beads says `cannot close … assignee is "X", actor is "Y"`, the names don't 
 We recommend you look at the reading below as part of your onboarding:
 
 * [[working-with-us|Working with Us]]
-* [[getting-stuff-done|Getting Stuff Done]]
-* [[working-with-ai|How we work (with AI)]]: how we organise shared work and use AI to do it, as a reading path
+* [[getting-stuff-done|Getting Stuff Done]]: how we organise shared work and use AI to do it, as a reading path
 * You can also have a quick look around https://lifeitself.org/ - bonus points for comments on what works and what could be improved!
 
 ## Getting Help and Finding Stuff

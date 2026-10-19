@@ -61,7 +61,7 @@ We’re doers as well as thinkers and meditators. We value hard work, commitment
 
 It takes dedication and effort to be great, to build something big. We want to create extraordinary enterprises and communities – that can not only co-exist with the existing system on its own terms but can surpass it.
 
-Read our [guide](https://lifeitself.org/tao/getting-stuff-done#how-do-we-complete-tasks?) on how we do that. 
+Read our [[getting-stuff-done|Getting Stuff Done]] guide on how we do that. 
 
 ## Growth Hierarchies
 

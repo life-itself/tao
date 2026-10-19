@@ -39,6 +39,7 @@
     { "from": "/communications", "to": "/handbook/communications" },
     { "from": "/events", "to": "/handbook/events" },
     { "from": "/getting-stuff-done", "to": "/handbook/getting-stuff-done" },
+    { "from": "/handbook/working-with-ai", "to": "/handbook/getting-stuff-done" },
     { "from": "/inbox", "to": "/handbook/inbox" },
     { "from": "/issues", "to": "/handbook/issues" },
     { "from": "/library", "to": "/handbook/library" },
