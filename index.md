@@ -20,6 +20,11 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
       <a href="/calendar" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ How to add an event</a>
     </div>
   </div>
+  <a href="https://planning.lifeitself.org" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">🗺️</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Planning</div>
+    <div class="text-sm text-gray-600">What we're working on: initiatives, projects, weekly plans and the task board.</div>
+  </a>
   <a href="https://github.com/life-itself/planning/tree/main/people" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">👥</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">People</div>
