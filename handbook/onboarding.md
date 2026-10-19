@@ -12,6 +12,18 @@ This guide provides you with a simple step-by-step process to get set up at Life
 > 
 > We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (please check in with your Onboarder first). Or you can leave comments using Hypothesis (see below).
 
+## Where things live
+
+Three places hold most of what you need:
+
+| Place | What's there | Look here for |
+| --- | --- | --- |
+| **Tao** (this site, [tao.lifeitself.org](https://tao.lifeitself.org)) | who we are and how we work: culture, principles, this handbook | onboarding, meetings, communication, getting paid |
+| **Planning** ([planning.lifeitself.org](https://planning.lifeitself.org), repo [life-itself/planning](https://github.com/life-itself/planning)) | what we're doing: initiatives, projects, people, weekly plans, and the task board (Beads) | what's on, who owns what, starting a project |
+| **Way Into AI** ([wayintoai.com](https://wayintoai.com/use/knowledge-work)) | our general guides to working with AI | how to use AI for your work |
+
+If something describes how we behave, it's in the Tao. If it changes week to week, it's in Planning. [Our office](https://planning.lifeitself.org/guides/our-office) shows how the repos, Beads and Planning fit together.
+
 ## Onboardee Journey Overview
 
 Your onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
@@ -122,7 +134,7 @@ This is my exciting onboarding issue! 🌱
   
 ### Extra Steps
 
-* [ ] Read about how to create a perfect issue in GitHub: https://tao.lifeitself.org/issues/
+* [ ] Read about how to create a perfect issue in GitHub: [[issues|Issues and Tasks]]
 * Read about getting things done
   * [ ] Playbook: https://datopian.com/playbook/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
@@ -242,7 +254,7 @@ Read [[issues|Issues and Tasks]] and apply it (see checklist in onboarding issue
 
 #### Your Beads identity
 
-We track tasks in Beads (see [Getting set up with GitHub and Beads](https://github.com/life-itself/planning/blob/main/guides/github-and-beads-setup.md)). Tasks are assigned by person ID, not by GitHub or git name, so do this in order:
+We track tasks in Beads (see the [Beads guide](https://planning.lifeitself.org/guides/beads); [computer setup](#set-up-your-computer-with-ai) installs it). Tasks are assigned by person ID, not by GitHub or git name, so do this in order:
 
 1. Make sure you have a record in the planning repo's `people/` (ask if not). The filename is your ID, usually your lowercase first name, and the `github:` field links it to your GitHub username, which can differ.
 2. Add `export BEADS_ACTOR=<your-id>` to `~/.zshenv` and open a new terminal.
@@ -258,6 +270,9 @@ We recommend you look at the reading below as part of your onboarding:
 
 * [[working-with-us|Working with Us]]
 * [[getting-stuff-done|Getting Stuff Done]]
+* [Post-its and filing cabinets](https://wayintoai.com/use/knowledge-work/concepts) (Way Into AI), then [Our office](https://planning.lifeitself.org/guides/our-office) (Planning): how we organise shared work
+* [AI is the interface: how to use AI for knowledge work](https://wayintoai.com/use/knowledge-work/how-to-use-ai) (Way Into AI)
+* [Beads](https://planning.lifeitself.org/guides/beads) (Planning): the task board your AI uses
 * You can also have a quick look around https://lifeitself.org/ - bonus points for comments on what works and what could be improved!
 
 ## Getting Help and Finding Stuff
