@@ -61,10 +61,10 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
   <div class="block p-6 border border-gray-200 rounded-lg">
     <div class="text-3xl mb-3">🚀</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Start a project</div>
-    <div class="text-sm text-gray-600 mb-3">Choose a project file in Planning or an A10 in Google Docs. Describe the outcome, agree who is involved, and link the task tracker. No Tao issue or duplicate record needed.</div>
+    <div class="text-sm text-gray-600 mb-3">Ask your AI to write a project record with the portfolio skill (an A10 Google Doc is still allowed, not the default). Describe the outcome, agree who is involved, and link the task tracker. No Tao issue or duplicate record needed.</div>
     <div class="flex flex-col gap-2">
       <a href="https://planning.lifeitself.org/guides/how-we-plan#start-a-project" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Quick start: choose your route</a>
-      <a href="https://docs.google.com/document/d/1OQNdrZuejA-z9nRI6ahegmRkF3bt2Gw4EgUML0g2fqo/edit?tab=t.0#heading=h.599vpyhb8naq" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Copy the A10 template (Google Docs route)</a>
+      <a href="https://docs.google.com/document/d/1OQNdrZuejA-z9nRI6ahegmRkF3bt2Gw4EgUML0g2fqo/edit?tab=t.0#heading=h.599vpyhb8naq" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ A10 template (optional Google Docs route)</a>
       <a href="https://drive.google.com/drive/folders/1HX7piAU2exI9-8MwdgFPv-wf3WyvXPBn" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Projects folder (Google Drive)</a>
     </div>
   </div>
