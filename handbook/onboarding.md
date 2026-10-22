@@ -237,7 +237,7 @@ Read https://tao.rufuspollock.com/Standups
 
 ### Issues and Tasks
 
-What we are working on lives in [Planning](https://planning.lifeitself.org): initiatives, projects, people, weekly plans and the task board. [Our office](https://planning.lifeitself.org/guides/our-office) shows how it fits with the other repos.
+What we are working on lives in [Planning](https://planning.lifeitself.org): initiatives, projects, people, weekly plans and the task board. [How we plan and track work](https://planning.lifeitself.org/guides/how-we-plan) shows how it fits with the other repos and where each kind of thing lives.
 
 Read [[issues|Issues and Tasks]] and apply it (see checklist in onboarding issue)
 

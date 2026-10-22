@@ -1,6 +1,8 @@
 # Issues / Tasks
 
-This page covers writing tasks **when GitHub Issues is the chosen tracker**. For choosing between GitHub, Asana and Beads, follow the [planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md). No Tao issue is required to start a project, and tasks already tracked elsewhere should not be copied here.
+GitHub Issues is no longer our default tracker. Beads is (Asana for Media House), and GitHub Issues is allowed but little used. See [How we plan and track work](https://planning.lifeitself.org/guides/how-we-plan#log-a-task) for where tasks go. The advice below on writing a good task still applies in any tracker.
+
+This page covers writing tasks **when GitHub Issues is the chosen tracker**. No Tao issue is required to start a project, and tasks already tracked elsewhere should not be copied here.
 
 An issue is a way to log ideas/tasks. They can be edited to be open or closed, with the ability to organise them with tags, assign them to people in the group and apply due dates.
 

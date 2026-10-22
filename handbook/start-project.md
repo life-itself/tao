@@ -4,7 +4,7 @@ created: 2026-04-24
 
 # Starting a Project
 
-Use the [planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) for current guidance. A project can start as a numbered record in the planning repository **or** an A10 / similar Google Doc. No duplicate record or Tao issue is required. Project creation is still evolving; content-production items have their own workflow under development.
+Use [How we plan and track work](https://planning.lifeitself.org/guides/how-we-plan#start-a-project) for current guidance. A project can start as a numbered record in the planning repository **or** an A10 / similar Google Doc. No duplicate record or Tao issue is required. Project creation is still evolving; content-production items have their own workflow under development.
 
 Initiatives are different: they are enduring areas of work and their records are maintained in the planning repository. This page keeps an optional framing technique, not a separate project-registration process.
 

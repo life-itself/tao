@@ -2,7 +2,7 @@
 
 The handbook for [Life Itself](https://lifeitself.org/) — our tao (way), culture, strategy and general ways of working.
 
-Current initiatives and planning conventions live in [Life Itself Planning](https://github.com/life-itself/planning). Its [workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) explains initiative updates and the two project routes: a repository entry or an A10 / similar Google Doc. No Tao issue is required to start a project.
+Current initiatives and planning conventions live in [Life Itself Planning](https://github.com/life-itself/planning). Its guide [How we plan and track work](https://planning.lifeitself.org/guides/how-we-plan) explains where things live, how to start a project and where tasks go. No Tao issue is required to start a project.
 
 Published at https://tao.lifeitself.org
 

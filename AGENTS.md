@@ -28,7 +28,7 @@ The current portfolio and its schema are maintained in [life-itself/planning](ht
 
 ## Conventions
 
-- Keep culture, principles and general handbook guidance in Tao. Link to the [canonical planning workflow](https://github.com/life-itself/planning/blob/main/docs/workflow.md) for initiative maintenance, project creation and tracker routing; do not duplicate those rules here.
+- Keep culture, principles and general handbook guidance in Tao. Link to the planning guide [How we plan and track work](https://planning.lifeitself.org/guides/how-we-plan) for initiative maintenance, project creation and tracker routing; do not duplicate those rules here.
 - Maintain initiatives in planning. Projects can use a planning-repository record or an A10 / similar Google Doc. No Tao issue is required to start a project.
 
 ## Site publishing
