@@ -27,6 +27,7 @@ How we work at Life Itself — practical guides for team members and collaborato
 ## Communications
 
 - [[communications|Comms Guide]] — channels, tone, and guidelines
+- [Media House operating manual](https://github.com/life-itself/mediahouse) — SOPs, process maps, templates and skills for producing, publishing and marketing content
 - [[logos|Logo Assets]] — brand assets
 
 ## Reference
