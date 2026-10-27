@@ -67,4 +67,4 @@
 
 sync.remote: "git+ssh://git@github.com/life-itself/tao.git"
 export:
-    auto: true
+    auto: false
