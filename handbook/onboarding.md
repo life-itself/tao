@@ -65,7 +65,7 @@ This gets your computer ready to work with us: git, GitHub access, and Beads, ou
 Do this once you are in the `life-itself` GitHub organisation (prerequisite 3) and have Claude installed (prerequisite 4). Open the Code tab in the Claude desktop app and paste this:
 
 ```
-I'm joining the Life Itself team. Set up this computer so I can work with you in the life-itself GitHub organisation: git, SSH access to GitHub, the GitHub CLI (`gh`), and Beads (`bd`, our task tracker), with the life-itself/planning repo cloned to ~/code/life-itself/planning.
+I'm joining the Life Itself team. Set up this computer so I can work with you in the life-itself GitHub organisation: git, SSH access to GitHub, the GitHub CLI (`gh`), Beads (`bd`, our task tracker) and Python, with the life-itself/planning repo cloned to ~/code/life-itself/planning.
 
 Do it for me. Check what's already there, run the commands yourself, and pick sensible defaults for my machine (Mac or Windows). Only stop when I have to act myself: signing in, pasting a key into github.com, typing my computer password. Never ask me for a password or token in chat. Get my name and email from my GitHub account once I'm signed in; ask only if something is missing.
 
@@ -73,6 +73,7 @@ Key points:
 - SSH key: no passphrase. If GitHub shows "Configure SSO" next to the key, have me authorise life-itself. Check GitHub's host key against its published fingerprints before accepting it.
 - Beads: install the latest official release (github.com/gastownhall/beads), without admin rights if needed. In the planning repo, run `bd bootstrap`, never `bd init`.
 - Set BEADS_ACTOR permanently to my team ID: my lowercase first name unless I say otherwise.
+- Python: install Python 3.9 or later if it's missing. In the planning repo, create `.venv` and install `scripts/requirements.txt` into it, so the planning sweep runs.
 
 If something fails, work out why before changing anything. When done, read planning's README and AGENTS.md, give me a five-line summary of how the team works, and list what works and anything left for me to do.
 ```
