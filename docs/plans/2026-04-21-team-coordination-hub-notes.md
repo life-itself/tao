@@ -14,7 +14,7 @@ Related issue: https://github.com/life-itself/strategy/issues/3
   - Is there a distinct "idea inbox" for rough proposals and suggestions before they become formal initiatives?
   - If someone simply wants to create a new document or write something down without yet invoking governance, where should they do that?
 - **Document Conventions**: What are the minimum shared conventions for where different kinds of materials should live, so the team has one clear canonical location for each kind of document without over-engineering the system? **Current answer: one canonical place per document type.**
-- **Maintenance Model**: What gardening and maintenance work is required to keep this coordination layer accurate over time, and who is responsible for doing it? **Current answer: Armelle owns this, with Rufus supporting and Matthew as backup; others may update parts of it.**
+- **Maintenance Model**: What gardening and maintenance work is required to keep this coordination layer accurate over time, and who is responsible for doing it? **Current answer: owner to be confirmed, with Rufus supporting and Matthew as backup; others may update parts of it.**
 - **Coordination Level**: What is the minimum viable level of shared coordination and visibility the team actually needs, given the mix of tightly coordinated work and more independent work? **Current answer: deferred for now; likely informed by sociocratic / holocratic approaches plus shaping-and-shipping practices.**
 
 ### Portfolio View
@@ -140,7 +140,7 @@ Current placement rules:
 Sub-questions and current answers:
 
 - What is the team meeting cadence? **Current answer: biweekly or weekly at present; likely weekly for now.**
-- Who facilitates this meeting? **Current answer: Armelle.**
+- Who facilitates this meeting? **Current answer: facilitator to be confirmed.**
 - How do we do team planning and coordination in that meeting? **Current answer: review what people are working on, plan the coming period, and cover tensions, concerns, proposals, and blockers.**
 - What is the structure of the weekly planning meeting? **Current answer: one combined meeting for now, rather than splitting planning and sociocratic process into separate meetings.**
 - What document do we use for the meeting itself? **Current answer: use a Google Doc for now.**

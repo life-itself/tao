@@ -24,7 +24,7 @@ JTBDs are grouped by the six major questions from the team coordination hub note
 
 Status legend:
 - 🟡 `Exploring` - still being worked through
-- 🟠 `Recommendation` - recommended by e.g. Armelle and Rufus
+- 🟠 `Recommendation` - recommended by e.g. Rufus
 - 🟢 `Agreed` - agreed by the team
 
 ---
@@ -42,7 +42,7 @@ Status legend:
 [ppsheet]: https://docs.google.com/spreadsheets/d/1_PgSkvZBahV-Wpa-JLHb3C7uk9KhqNFpTUjxcKUMn4E/edit?gid=0#gid=0 
 
 > [!note]
-> The use of the markdown database was the "quick and dirty" way for Rufus to get something working for the team, and especially Armelle in late March / early April. Going forward, Armelle can take the lead on how we approach this. The Programs and Projects DB may be attractive both as easier for team members to access and edit. It is also an easier starting point for e.g. weekly planning.
+> The use of the markdown database was the "quick and dirty" way for Rufus to get something working for the team in late March / early April. Going forward, the team can decide how we approach this. The Programs and Projects DB may be attractive both as easier for team members to access and edit. It is also an easier starting point for e.g. weekly planning.
 
 ---
 
@@ -91,7 +91,7 @@ Status legend:
 
 | # | Job | User says... | Priority | Current answer | Status |
 |---|-----|-------------|----------|---------------|--------|
-| A8 | Know who is responsible for what | "Who owns the portfolio map? Who maintains the knowledge base?" | P2 | Armelle owns it. | 🟠 |
+| A8 | Know who is responsible for what | "Who owns the portfolio map? Who maintains the knowledge base?" | P2 | Owner to be confirmed. | 🟠 |
 | B6 | Update my people profile | "My role changed. How do I update my profile?" | P3 | `/people/` folder | 🟠 |
 
 ---

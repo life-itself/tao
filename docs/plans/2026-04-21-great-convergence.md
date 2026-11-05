@@ -100,7 +100,7 @@ Low activity. Either archive the repo or absorb relevant content (content log, a
 
 ## Next Steps
 
-1. Rufus and Armelle: add gateway page to dao linking to strategy repo and portfolio map. (Today.)
+1. Rufus and a former team member: add gateway page to dao linking to strategy repo and portfolio map. (Today.)
 2. Plan and execute migration of `strategy` content into dao. Agree folder structure in dao first.
 3. Redirect or archive the `strategy` repo once migration is complete.
 4. Separately: decide fate of `comms` repo.
