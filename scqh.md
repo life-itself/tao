@@ -128,8 +128,8 @@ Some of the original brainstorming.
 
 ### Complication
 
-![[../assets/tao/2019-scqh-complication.png]]
+![[/assets/2019-scqh-complication.png]]
 
 ### Questions
 
-![[../assets/tao/2019-scqh-question.png]]
+![[/assets/2019-scqh-question.png]]
