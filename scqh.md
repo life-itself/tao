@@ -48,8 +48,8 @@ See https://coggle.it/diagram/XScP2KMV3Tvd5Ec-/t/by-developing-a-big-vision-huma
 
 See also:
 
-* The original blog post: https://lifeitself.us/2017/12/05/foundational-scqh-situation-complication-question-hypothesis/
-* The logic for our purpose and reason for our existence slide deck: https://lifeitself.us/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
+* The original blog post: https://lifeitself.org/blog/foundational-scqh-situation-complication-question-hypothesis/
+* The logic for our purpose and reason for our existence slide deck: https://lifeitself.org/blog/logic-of-our-purpose-and-reason-for-our-existence-scqh
 
 In October, we met on the beautiful hills of Tuscany. We reflected on our intuition that something is deeply the matter, and on the need for a big vision as well as practical actions to realize it (including the development of a large-scale political movement).
 
