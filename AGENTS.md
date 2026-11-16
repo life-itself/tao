@@ -14,11 +14,7 @@ The repo has four layers:
 - `plans/` — weekly operational plans. Use `week-YYYY-MM-DD.md` filenames.
 - `meetings/` — meeting notes. Use `YYYY-MM-DD-topic.md` filenames.
 
-**Strategy** (`strategy/`) — thinking and analysis layer:
-- `strategy/docs/` — planning docs and strategic analysis
-- `strategy/plans/` — annual plans, named by year (e.g. `2023.md`)
-- `strategy/archive/` — historical strategy materials (hidden from sidebar)
-- `strategy/log/` — raw outflow notes (hidden from sidebar)
+**Strategy** — the finalised public summary (`scqh.md`, `narrative.md`), annual plans (`strategy/plans/` current, `strategy/archive/plans/` 2018–2023) and `strategy/archive/governance.md`. Strategy work in progress and the archive live in the private `life-itself/strategy` repo; don't add strategy drafts here.
 
 **Planning docs for the dao itself** (`docs/plans/`) — improvement plans and UX work for this site.
 

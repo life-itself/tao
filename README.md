@@ -10,7 +10,11 @@ Published at https://tao.lifeitself.org
 
 - [`plans/`](plans/) — weekly operational plans
 - [`meetings/`](meetings/) — meeting notes
-- [`strategy/`](strategy/) — thinking layer: strategic analysis, historical archive, log
+- [`scqh.md`](scqh.md) and [`narrative.md`](narrative.md) — our public strategy summary
+
+- [`strategy/`](strategy/) — annual plans (2018–2026) and the governance doc
+
+Strategy work in progress and the strategy archive live in the private [life-itself/strategy](https://github.com/life-itself/strategy) repo. Finalised public strategy is added back here.
 
 Portfolio, initiatives and people profiles live in [Planning](https://github.com/life-itself/planning).
 

@@ -1,5 +1,0 @@
----
-authors: 
-  - Rufus Pollock
----
-

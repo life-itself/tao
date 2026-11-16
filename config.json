@@ -13,7 +13,7 @@
       { "href": "/plans", "name": "Plans" },
       { "href": "https://github.com/life-itself/planning/tree/main/people", "name": "People" },
       { "href": "/handbook", "name": "Handbook" },
-      { "href": "/strategy", "name": "Strategy" }
+      { "href": "/strategy/plans", "name": "Strategy" }
     ],
     "social": [
       {
@@ -33,7 +33,7 @@
     ]
   },
   "contentExclude": ["AGENTS.md", "CLAUDE.md"],
-  "contentHide": ["strategy/archive", "strategy/log", "excalidraw", "docs", "plans", "communications"],
+  "contentHide": ["strategy/archive", "excalidraw", "docs", "plans", "communications"],
   "redirects": [
     { "from": "/culture/fourteen-mindfulness-trainings", "to": "https://lifeitself.org/blog/fourteen-mindfulness-trainings-life-itself" },
     { "from": "/communications", "to": "/handbook/communications" },
